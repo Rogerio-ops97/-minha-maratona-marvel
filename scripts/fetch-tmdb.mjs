@@ -9,6 +9,7 @@ const token = process.env.TMDB_TOKEN;
 if (!token) throw new Error('Defina o secret TMDB_TOKEN no repositório.');
 const items = window.MARVEL_ITEMS;
 const out = {};
+const episodesOut = {};
 const headers = { Authorization: `Bearer ${token}`, accept: 'application/json' };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -16,6 +17,39 @@ async function api(path) {
   const r = await fetch(`https://api.themoviedb.org/3${path}`, { headers });
   if (!r.ok) throw new Error(`${r.status} ${await r.text()}`);
   return r.json();
+}
+
+function seasonSelection(title) {
+  const normalized = title.replace(/[–—]/g, '-');
+  const block = normalized.match(/T(\d+)E(\d+)\s*-\s*E(\d+)/i);
+  if (block) return [{ seasonNumber: Number(block[1]), start: Number(block[2]), end: Number(block[3]) }];
+
+  const multiple = normalized.match(/Temporadas?\s+(\d+)\s*-\s*(\d+)/i);
+  if (multiple) {
+    const result = [];
+    for (let season = Number(multiple[1]); season <= Number(multiple[2]); season++) result.push({ seasonNumber: season });
+    return result;
+  }
+
+  const single = normalized.match(/Temporada\s+(\d+)/i);
+  if (single) return [{ seasonNumber: Number(single[1]) }];
+
+  return [{ seasonNumber: 1 }];
+}
+
+function cleanEpisode(ep) {
+  return {
+    tmdbEpisodeId: ep.id,
+    episodeNumber: ep.episode_number,
+    seasonNumber: ep.season_number,
+    name: ep.name || `Episódio ${ep.episode_number}`,
+    overview: ep.overview || '',
+    runtime: ep.runtime || null,
+    airDate: ep.air_date || null,
+    still: ep.still_path || null,
+    vote: ep.vote_average || null,
+    voteCount: ep.vote_count || null
+  };
 }
 
 for (let index = 0; index < items.length; index++) {
@@ -31,11 +65,13 @@ for (let index = 0; index < items.length; index++) {
       hit = retry.results?.[0];
     }
     if (!hit) { console.log(`Não encontrado: ${item.title}`); continue; }
+
     const detail = await api(`/${media}/${hit.id}?language=pt-BR&append_to_response=videos,credits,images&include_image_language=pt,en,null`);
     const videos = detail.videos?.results || [];
     const trailer = videos.find(v => v.site === 'YouTube' && v.type === 'Trailer' && v.official) || videos.find(v => v.site === 'YouTube' && v.type === 'Trailer') || videos.find(v => v.site === 'YouTube');
     const crew = detail.credits?.crew || [];
     const directors = crew.filter(p => ['Director','Series Director'].includes(p.job)).slice(0,3).map(p => p.name);
+
     out[item.id] = {
       tmdbId: hit.id,
       media,
@@ -51,6 +87,41 @@ for (let index = 0; index < items.length; index++) {
       homepage: detail.homepage || null,
       updatedAt: new Date().toISOString()
     };
+
+    if (media === 'tv') {
+      const selected = seasonSelection(item.title);
+      const seasons = [];
+      for (const selection of selected) {
+        try {
+          const season = await api(`/tv/${hit.id}/season/${selection.seasonNumber}?language=pt-BR`);
+          let episodes = (season.episodes || []).filter(ep => ep.episode_number > 0);
+          if (selection.start) episodes = episodes.filter(ep => ep.episode_number >= selection.start && ep.episode_number <= selection.end);
+          seasons.push({
+            tmdbSeasonId: season.id,
+            seasonNumber: selection.seasonNumber,
+            name: season.name || `Temporada ${selection.seasonNumber}`,
+            overview: season.overview || '',
+            poster: season.poster_path || null,
+            airDate: season.air_date || null,
+            episodeStart: selection.start || (episodes[0]?.episode_number ?? null),
+            episodeEnd: selection.end || (episodes.at(-1)?.episode_number ?? null),
+            episodes: episodes.map(cleanEpisode)
+          });
+          await sleep(70);
+        } catch (seasonError) {
+          console.error(`Falha na temporada ${selection.seasonNumber} de ${item.title}:`, seasonError.message);
+        }
+      }
+      episodesOut[item.id] = {
+        tmdbId: hit.id,
+        title: detail.name || item.title,
+        sourceTitle: item.title,
+        seasons,
+        totalEpisodes: seasons.reduce((sum, season) => sum + season.episodes.length, 0),
+        updatedAt: new Date().toISOString()
+      };
+    }
+
     console.log(`${index + 1}/${items.length}: ${item.title}`);
     await sleep(80);
   } catch (error) {
@@ -59,4 +130,6 @@ for (let index = 0; index < items.length; index++) {
 }
 
 await fs.writeFile('tmdb-data.json', JSON.stringify(out, null, 2));
+await fs.writeFile('episodes-data.json', JSON.stringify(episodesOut, null, 2));
 console.log(`Gerado tmdb-data.json com ${Object.keys(out).length} títulos.`);
+console.log(`Gerado episodes-data.json com ${Object.keys(episodesOut).length} produções seriadas.`);
