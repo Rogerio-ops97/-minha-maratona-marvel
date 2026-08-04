@@ -20,20 +20,39 @@ async function api(path) {
 }
 
 function seasonSelection(title) {
-  const normalized = title.replace(/[–—]/g, '-');
-  const block = normalized.match(/T(\d+)E(\d+)\s*-\s*E(\d+)/i);
-  if (block) return [{ seasonNumber: Number(block[1]), start: Number(block[2]), end: Number(block[3]) }];
+  const normalized = title
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[–—]/g, '-')
+    .replace(/\s+/g, ' ')
+    .trim();
 
-  const multiple = normalized.match(/Temporadas?\s+(\d+)\s*-\s*(\d+)/i);
+  // Blocos cronológicos, por exemplo: T1E1-E7 ou S01E01-E07.
+  const block = normalized.match(/(?:T|S)(\d+)E(\d+)\s*-\s*E(\d+)/i);
+  if (block) {
+    return [{
+      seasonNumber: Number(block[1]),
+      start: Number(block[2]),
+      end: Number(block[3])
+    }];
+  }
+
+  // Intervalos de temporadas, por exemplo: Temporadas 1-5 ou Seasons 1-5.
+  const multiple = normalized.match(/(?:Temporadas?|Seasons?)\s*(\d+)\s*-\s*(\d+)/i);
   if (multiple) {
     const result = [];
-    for (let season = Number(multiple[1]); season <= Number(multiple[2]); season++) result.push({ seasonNumber: season });
+    for (let season = Number(multiple[1]); season <= Number(multiple[2]); season++) {
+      result.push({ seasonNumber: season });
+    }
     return result;
   }
 
-  const single = normalized.match(/Temporada\s+(\d+)/i);
+  // Temporada explícita, por exemplo: Temporada 2, Season 2, T2 ou S02.
+  const single = normalized.match(/(?:Temporada|Season)\s*(\d+)/i)
+    || normalized.match(/(?:^|[\s:()\-])(?:T|S)0*(\d+)(?=$|[\s:()\-])/i);
   if (single) return [{ seasonNumber: Number(single[1]) }];
 
+  // Conteúdos seriados sem indicação de temporada continuam usando a temporada 1.
   return [{ seasonNumber: 1 }];
 }
 
@@ -64,13 +83,21 @@ for (let index = 0; index < items.length; index++) {
       const retry = await api(`/search/${media}?query=${encodeURIComponent(item.query || item.title)}&language=pt-BR&include_adult=false`);
       hit = retry.results?.[0];
     }
-    if (!hit) { console.log(`Não encontrado: ${item.title}`); continue; }
+    if (!hit) {
+      console.log(`Não encontrado: ${item.title}`);
+      continue;
+    }
 
     const detail = await api(`/${media}/${hit.id}?language=pt-BR&append_to_response=videos,credits,images&include_image_language=pt,en,null`);
     const videos = detail.videos?.results || [];
-    const trailer = videos.find(v => v.site === 'YouTube' && v.type === 'Trailer' && v.official) || videos.find(v => v.site === 'YouTube' && v.type === 'Trailer') || videos.find(v => v.site === 'YouTube');
+    const trailer = videos.find(v => v.site === 'YouTube' && v.type === 'Trailer' && v.official)
+      || videos.find(v => v.site === 'YouTube' && v.type === 'Trailer')
+      || videos.find(v => v.site === 'YouTube');
     const crew = detail.credits?.crew || [];
-    const directors = crew.filter(p => ['Director','Series Director'].includes(p.job)).slice(0,3).map(p => p.name);
+    const directors = crew
+      .filter(p => ['Director', 'Series Director'].includes(p.job))
+      .slice(0, 3)
+      .map(p => p.name);
 
     out[item.id] = {
       tmdbId: hit.id,
@@ -82,7 +109,11 @@ for (let index = 0; index < items.length; index++) {
       voteCount: detail.vote_count || hit.vote_count || null,
       trailer: trailer?.key || null,
       genres: (detail.genres || []).map(g => g.name),
-      cast: (detail.credits?.cast || []).slice(0,8).map(p => ({ name: p.name, character: p.character, profile: p.profile_path })),
+      cast: (detail.credits?.cast || []).slice(0, 8).map(p => ({
+        name: p.name,
+        character: p.character,
+        profile: p.profile_path
+      })),
       directors,
       homepage: detail.homepage || null,
       updatedAt: new Date().toISOString()
@@ -91,11 +122,18 @@ for (let index = 0; index < items.length; index++) {
     if (media === 'tv') {
       const selected = seasonSelection(item.title);
       const seasons = [];
+
       for (const selection of selected) {
         try {
           const season = await api(`/tv/${hit.id}/season/${selection.seasonNumber}?language=pt-BR`);
           let episodes = (season.episodes || []).filter(ep => ep.episode_number > 0);
-          if (selection.start) episodes = episodes.filter(ep => ep.episode_number >= selection.start && ep.episode_number <= selection.end);
+
+          if (selection.start) {
+            episodes = episodes.filter(ep =>
+              ep.episode_number >= selection.start && ep.episode_number <= selection.end
+            );
+          }
+
           seasons.push({
             tmdbSeasonId: season.id,
             seasonNumber: selection.seasonNumber,
@@ -107,15 +145,18 @@ for (let index = 0; index < items.length; index++) {
             episodeEnd: selection.end || (episodes.at(-1)?.episode_number ?? null),
             episodes: episodes.map(cleanEpisode)
           });
+
           await sleep(70);
         } catch (seasonError) {
           console.error(`Falha na temporada ${selection.seasonNumber} de ${item.title}:`, seasonError.message);
         }
       }
+
       episodesOut[item.id] = {
         tmdbId: hit.id,
         title: detail.name || item.title,
         sourceTitle: item.title,
+        requestedSeasons: selected,
         seasons,
         totalEpisodes: seasons.reduce((sum, season) => sum + season.episodes.length, 0),
         updatedAt: new Date().toISOString()
