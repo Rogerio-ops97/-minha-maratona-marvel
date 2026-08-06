@@ -51,4 +51,4 @@ document.addEventListener('click',e=>{if(e.target.closest('[data-v7ep],[data-don
 new MutationObserver(()=>addSettings()).observe(document.body,{subtree:true,childList:true});
 window.__MARVEL_PROGRESS_THEME__={apply,themes,get:()=>current()};
 })();
-(()=>{const brand=document.querySelector('.brand span');if(brand)brand.textContent='SMART CALENDAR EDITION 7.2.2';document.title='Minha Marvel 7.2.2';const s=document.createElement('script');s.src='smart-calendar.js?v=7.2.2';document.body.appendChild(s)})();
+(()=>{const brand=document.querySelector('.brand span');if(brand)brand.textContent='SMART CALENDAR EDITION 7.2.3';document.title='Minha Marvel 7.2.3';const s=document.createElement('script');s.src='smart-calendar.js?v=7.2.3';document.body.appendChild(s)})();
