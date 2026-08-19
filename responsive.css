@@ -1,0 +1,113 @@
+/* Minha Marvel — Responsive Edition 7.3.0
+   Somente layout. Não altera chaves de localStorage nem lógica de progresso. */
+
+:root{--content-max:1280px;--page-gutter:14px}
+html,body{width:100%;max-width:100%;overflow-x:hidden}
+body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+.app{width:100%;max-width:var(--content-max);margin:0 auto;padding-left:0;padding-right:0}
+main{width:100%}
+img{max-width:100%}
+button,input,select,textarea{font:inherit}
+
+/* Mobile base: preserva a experiência já homologada no iPhone */
+@media(max-width:767px){
+  :root{--page-gutter:14px}
+  .app{max-width:720px;padding-bottom:calc(92px + env(safe-area-inset-bottom))}
+  main{padding-left:var(--page-gutter);padding-right:var(--page-gutter)}
+  .hero{margin-left:var(--page-gutter);margin-right:var(--page-gutter)}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .gridCard .art{height:clamp(190px,56vw,250px)}
+  .searchbar{grid-template-columns:minmax(0,1fr) auto}
+  .searchbar input{min-width:0}
+  .sheet{width:100%}
+  .actions{grid-template-columns:1fr 1fr}
+  .episodeCardV5{min-width:0}
+  .episodeCopyV5{min-width:0}
+}
+
+/* Tablets e telas intermediárias */
+@media(min-width:768px) and (max-width:1099px){
+  :root{--page-gutter:24px}
+  .app{max-width:980px;padding-bottom:104px}
+  header{height:84px;padding-left:var(--page-gutter);padding-right:var(--page-gutter)}
+  main{padding:0 var(--page-gutter)}
+  .hero{margin:16px var(--page-gutter) 24px;padding:26px 28px;border-radius:28px}
+  .hero h1{font-size:46px}.hero p{font-size:14px;max-width:360px}.ring{width:112px;height:112px}.ring b{font-size:27px}
+  .metrics{grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.metrics article{padding:18px}.metrics b{font-size:25px}
+  .grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.gridCard .art{height:320px}
+  .poster{width:154px;flex-basis:154px}.poster .art{height:225px}
+  .mediaCard{min-height:320px}.mediaCard .cover{height:320px}.mediaCard .info{left:24px;right:24px;bottom:22px}.mediaCard h3{font-size:24px}.mediaCard p{font-size:13px;max-width:650px}
+  .achievementGrid{grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+  .searchbar{grid-template-columns:minmax(0,1fr) 210px;padding:14px 0}
+  nav{width:min(980px,100%);padding-left:18px;padding-right:18px}nav button{font-size:11px}nav button b{font-size:22px}
+  .modal{align-items:center;padding:24px}.sheet{width:min(760px,94vw);border-radius:28px;max-height:90vh}.modalHero{height:360px}.modalBody{padding:0 28px 28px}
+}
+
+/* Desktop / notebook */
+@media(min-width:1100px){
+  :root{--page-gutter:34px}
+  body{background-attachment:fixed}
+  .app{max-width:1380px;min-height:100vh;padding:0 34px 50px 250px}
+  header{height:96px;padding:22px 8px 14px;position:relative;z-index:3}
+  .brand b{font-size:16px}.brand span{font-size:10px}.logo{width:48px;height:48px}.iconbtn{width:46px;height:46px}
+  .themeEraChip{margin-left:8px!important;margin-right:8px!important}
+  .hero{margin:20px 8px 30px;padding:34px 38px;border-radius:32px;min-height:210px}
+  .hero small{font-size:12px}.hero h1{font-size:58px}.hero p{font-size:15px;max-width:460px}.ring{width:132px;height:132px}.ring:after{inset:10px}.ring b{font-size:31px}.ring span{font-size:11px}
+  main{padding:0 8px 20px}
+  .metrics{grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}.metrics article{padding:22px;border-radius:22px}.metrics span{font-size:12px}.metrics b{font-size:30px}
+  .block{margin-top:34px}.blockhead{margin-bottom:16px}.blockhead h2,.pageTitle h2{font-size:24px}.pageTitle p{font-size:14px}
+  .mediaCard{min-height:410px;border-radius:26px}.mediaCard .cover{height:410px}.mediaCard .info{left:32px;right:32px;bottom:28px}.mediaCard h3{font-size:32px}.mediaCard p{font-size:14px;max-width:760px;-webkit-line-clamp:3}.badge{font-size:10px;padding:6px 9px}
+  .rail{gap:16px}.poster{width:170px;flex:0 0 170px}.poster .art{height:250px;border-radius:18px}.poster h4{font-size:13px}.poster span{font-size:11px}
+  .grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}.gridCard{border-radius:20px}.gridCard .art{height:360px}.gridCard .copy{padding:14px}.gridCard h3{font-size:15px}.gridCard .meta{font-size:11px}.statusBtn,.fav{width:34px;height:34px}
+  .searchbar{grid-template-columns:minmax(0,1fr) 230px;gap:12px;padding:16px 0;top:0}.searchbar input,.searchbar select{padding:14px 16px}
+  .achievementGrid{grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}.achievement{padding:20px;min-height:150px}.achievement .emoji{font-size:40px}.achievement h3{font-size:15px}.achievement p{font-size:11px}
+  .calDay,.smartDay{border-radius:22px}.calItem,.smartItem{font-size:13px}
+
+  /* Navegação lateral em desktop */
+  nav{left:26px;top:112px;bottom:auto;transform:none;width:196px;grid-template-columns:1fr;gap:8px;padding:12px;background:#090b10e8;border:1px solid var(--line);border-radius:24px;box-shadow:0 18px 55px #0007}
+  nav button{display:flex;align-items:center;gap:12px;text-align:left;padding:12px 14px;border-radius:15px;font-size:12px;transition:.2s ease}
+  nav button b{display:grid;place-items:center;width:28px;margin:0;font-size:21px}
+  nav button:hover{background:#ffffff0a;color:#fff}nav button.active{background:#ffffff10;color:#fff}
+  footer{padding-bottom:30px!important}
+
+  /* Modais tradicionais como caixas centrais */
+  .modal{align-items:center;justify-content:center;padding:34px}.sheet{width:min(800px,88vw);border-radius:30px;max-height:88vh;box-shadow:0 30px 100px #000b}.modalHero{height:390px}.modalBody{padding:0 32px 32px}.modalBody h2{font-size:30px}.modalBody p{font-size:14px}.settings{max-width:680px}.actions{grid-template-columns:repeat(2,minmax(0,1fr))}
+
+  /* Página premium: proporções próprias de desktop */
+  #detailV7{padding-bottom:40px!important}
+  #detailV7 .v7Hero{min-height:650px!important;height:min(72vh,760px)!important;padding-top:90px!important;background-position:center 20%!important}
+  #detailV7 .v7HeroCopy{padding:0 56px 54px!important;max-width:980px!important}
+  #detailV7 .v7HeroCopy h1{font-size:clamp(54px,5.4vw,86px)!important;max-width:980px}
+  #detailV7 .v7HeroCopy p{font-size:clamp(17px,1.45vw,22px)!important;max-width:830px!important;line-height:1.5!important}
+  #detailV7 .v7Back{left:34px!important;top:28px!important}
+  #detailV7 .v7Body{max-width:1240px!important;padding:0 52px!important}
+  #detailV7 .v7Section{margin:48px 0!important}
+  #detailV7 .v7Section h2{font-size:28px}
+  #detailV7 .v7Cast{gap:18px}.v7Person{min-width:145px!important;width:145px!important}.v7Person img{width:145px!important;height:190px!important}.v7Person b{font-size:13px!important}.v7Person span{font-size:11px!important}
+  #detailV7 .v7Timeline .poster{min-width:170px}
+  #detailV7 .episodeCardV5{grid-template-columns:180px 1fr}.episodeCardV5 img{width:180px;min-height:138px}.episodeCopyV5{padding:18px}.episodeTopV5 b{font-size:14px}.episodeCopyV5 p{font-size:12px;-webkit-line-clamp:4}
+}
+
+/* Monitores largos */
+@media(min-width:1500px){
+  .app{max-width:1580px;padding-left:270px;padding-right:44px}
+  nav{left:36px;width:210px}
+  .grid{grid-template-columns:repeat(5,minmax(0,1fr))}.gridCard .art{height:350px}
+  #detailV7 .v7Body{max-width:1380px!important}
+}
+
+/* Telas muito estreitas */
+@media(max-width:390px){
+  .hero{padding:18px 16px}.hero h1{font-size:32px}.ring{width:82px;height:82px}.ring b{font-size:20px}
+  .metrics article{padding:12px}.metrics b{font-size:20px}
+  .grid{gap:9px}.gridCard .copy{padding:8px}.gridCard h3{font-size:12px}
+  .actions{grid-template-columns:1fr}.searchbar{grid-template-columns:1fr}.searchbar select{width:100%}
+}
+
+/* Preferências de interação */
+@media(hover:hover) and (pointer:fine){
+  .gridCard,.poster,.mediaCard,.achievement{transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
+  .gridCard:hover,.poster:hover,.mediaCard:hover{transform:translateY(-3px)}
+  .gridCard:hover,.mediaCard:hover{border-color:#ffffff2b;box-shadow:0 16px 38px #0006}
+}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
