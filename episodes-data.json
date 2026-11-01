@@ -29,7 +29,7 @@
             "airDate": "2025-08-01",
             "still": "/7Ex7F84z8fiJKC8X1juNYX3z1oM.jpg",
             "vote": 5.5,
-            "voteCount": 33
+            "voteCount": 35
           },
           {
             "tmdbEpisodeId": 5759643,
@@ -40,8 +40,8 @@
             "runtime": 32,
             "airDate": "2025-08-01",
             "still": "/wjA5EoEmEfacfzrdcJ6JoyNqPFo.jpg",
-            "vote": 4.7,
-            "voteCount": 28
+            "vote": 4.8,
+            "voteCount": 30
           },
           {
             "tmdbEpisodeId": 5759644,
@@ -52,8 +52,8 @@
             "runtime": 31,
             "airDate": "2025-08-01",
             "still": "/lRKiS5NhEqquh19eySRWgaZU3Oe.jpg",
-            "vote": 5.1,
-            "voteCount": 28
+            "vote": 5.2,
+            "voteCount": 29
           },
           {
             "tmdbEpisodeId": 5759645,
@@ -64,14 +64,14 @@
             "runtime": 30,
             "airDate": "2025-08-01",
             "still": "/p7o7jgI2CVKnTS7DMKJ9vmFbzJw.jpg",
-            "vote": 5,
-            "voteCount": 25
+            "vote": 5.1,
+            "voteCount": 27
           }
         ]
       }
     ],
     "totalEpisodes": 4,
-    "updatedAt": "2026-10-01T13:30:27.402Z"
+    "updatedAt": "2026-11-01T13:36:28.974Z"
   },
   "m004": {
     "tmdbId": 61550,
@@ -102,8 +102,8 @@
             "runtime": 43,
             "airDate": "2015-01-06",
             "still": "/vElAbFDFXDG9ehuFyAeE6bnAd4U.jpg",
-            "vote": 7.631,
-            "voteCount": 84
+            "vote": 7.6,
+            "voteCount": 86
           },
           {
             "tmdbEpisodeId": 1026747,
@@ -114,8 +114,8 @@
             "runtime": 42,
             "airDate": "2015-01-06",
             "still": "/e84YFCOmu5mtJNV5z7prEl8VmRE.jpg",
-            "vote": 7.746,
-            "voteCount": 71
+            "vote": 7.7,
+            "voteCount": 73
           },
           {
             "tmdbEpisodeId": 1026748,
@@ -126,8 +126,8 @@
             "runtime": 43,
             "airDate": "2015-01-13",
             "still": "/van9Z5L64ys0U4XKEg1K6aKbaxJ.jpg",
-            "vote": 7.529,
-            "voteCount": 68
+            "vote": 7.5,
+            "voteCount": 70
           },
           {
             "tmdbEpisodeId": 1034250,
@@ -138,8 +138,8 @@
             "runtime": 43,
             "airDate": "2015-01-27",
             "still": "/7B8N00E8GtO9ETOkNfztYMqkDIS.jpg",
-            "vote": 7.393,
-            "voteCount": 61
+            "vote": 7.4,
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1037986,
@@ -150,8 +150,8 @@
             "runtime": 43,
             "airDate": "2015-02-03",
             "still": "/bq5WiUnGLMCB6FNeLvRRaWUw4GS.jpg",
-            "vote": 7.773,
-            "voteCount": 66
+            "vote": 7.8,
+            "voteCount": 68
           },
           {
             "tmdbEpisodeId": 1037987,
@@ -162,8 +162,8 @@
             "runtime": 43,
             "airDate": "2015-02-10",
             "still": "/8ZdobzrZhqPzVTVL8n5tw1zLuqw.jpg",
-            "vote": 7.634,
-            "voteCount": 67
+            "vote": 7.6,
+            "voteCount": 69
           },
           {
             "tmdbEpisodeId": 1037988,
@@ -174,8 +174,8 @@
             "runtime": 43,
             "airDate": "2015-02-17",
             "still": "/tLrmFLU6XVM3gpg7hrDb1VS4mP8.jpg",
-            "vote": 8.051,
-            "voteCount": 69
+            "vote": 8,
+            "voteCount": 71
           },
           {
             "tmdbEpisodeId": 1037989,
@@ -186,14 +186,14 @@
             "runtime": 43,
             "airDate": "2015-02-24",
             "still": "/2H8M4L0ach8fF6oX9LhJ0fWP9Mo.jpg",
-            "vote": 7.754,
-            "voteCount": 63
+            "vote": 7.7,
+            "voteCount": 65
           }
         ]
       }
     ],
     "totalEpisodes": 8,
-    "updatedAt": "2026-10-01T13:30:28.497Z"
+    "updatedAt": "2026-11-01T13:36:29.420Z"
   },
   "m005": {
     "tmdbId": 61550,
@@ -224,8 +224,8 @@
             "runtime": 44,
             "airDate": "2016-01-19",
             "still": "/3hNiCe5KlN6qlo9jQ8MQ5yDFzTd.jpg",
-            "vote": 7.325,
-            "voteCount": 60
+            "vote": 7.3,
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1143050,
@@ -236,8 +236,8 @@
             "runtime": 44,
             "airDate": "2016-01-19",
             "still": "/jxUM2kCsOgRadlHafiQEOKrwuEQ.jpg",
-            "vote": 7.2,
-            "voteCount": 53
+            "vote": 7.1,
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 1148390,
@@ -249,7 +249,7 @@
             "airDate": "2016-01-26",
             "still": "/uX0EbFSYk3hdjBnyVmYrfZjeyTI.jpg",
             "vote": 7,
-            "voteCount": 53
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 1159990,
@@ -261,7 +261,7 @@
             "airDate": "2016-02-02",
             "still": "/rMYdS2hCRZJGN6XyfBEbm1pHcNA.jpg",
             "vote": 7.1,
-            "voteCount": 51
+            "voteCount": 53
           },
           {
             "tmdbEpisodeId": 1160670,
@@ -273,7 +273,7 @@
             "airDate": "2016-02-09",
             "still": "/zAhkmTbDavzdIyzPItRsW2sXYB5.jpg",
             "vote": 6.9,
-            "voteCount": 54
+            "voteCount": 57
           },
           {
             "tmdbEpisodeId": 1165223,
@@ -284,8 +284,8 @@
             "runtime": 44,
             "airDate": "2016-02-16",
             "still": "/iYNWyvDaAXW9hQOoXNkTsPGykcg.jpg",
-            "vote": 7.4,
-            "voteCount": 50
+            "vote": 7.3,
+            "voteCount": 53
           },
           {
             "tmdbEpisodeId": 1165224,
@@ -296,8 +296,8 @@
             "runtime": 43,
             "airDate": "2016-02-16",
             "still": "/7uerDH5SL2M36stk78Sw4dmo6r2.jpg",
-            "vote": 7.4,
-            "voteCount": 52
+            "vote": 7.3,
+            "voteCount": 55
           },
           {
             "tmdbEpisodeId": 1165523,
@@ -309,7 +309,7 @@
             "airDate": "2016-02-23",
             "still": "/bqXqTMux3XLq0p2vG7uVRWrlsj3.jpg",
             "vote": 7.2,
-            "voteCount": 50
+            "voteCount": 53
           },
           {
             "tmdbEpisodeId": 1165524,
@@ -320,8 +320,8 @@
             "runtime": 43,
             "airDate": "2016-02-23",
             "still": "/AmLIYUE0NlikvZMYN1Hl7RV88Kn.jpg",
-            "vote": 7,
-            "voteCount": 50
+            "vote": 6.9,
+            "voteCount": 53
           },
           {
             "tmdbEpisodeId": 1165525,
@@ -333,13 +333,13 @@
             "airDate": "2016-03-01",
             "still": "/ylGaVxAjqkjTEygsNTyVJcuL2l.jpg",
             "vote": 7,
-            "voteCount": 49
+            "voteCount": 52
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:30:29.005Z"
+    "updatedAt": "2026-11-01T13:36:29.630Z"
   },
   "m017": {
     "tmdbId": 1403,
@@ -372,8 +372,8 @@
             "runtime": 45,
             "airDate": "2013-09-24",
             "still": "/rPSvrM1XEUcVE3fYpYEdEA58KvV.jpg",
-            "vote": 7.212,
-            "voteCount": 99
+            "vote": 7.2,
+            "voteCount": 100
           },
           {
             "tmdbEpisodeId": 63412,
@@ -384,8 +384,8 @@
             "runtime": 42,
             "airDate": "2013-10-01",
             "still": "/3Ndrphly05IpOoBV6DyppJu15gx.jpg",
-            "vote": 7.064,
-            "voteCount": 86
+            "vote": 7.1,
+            "voteCount": 87
           },
           {
             "tmdbEpisodeId": 63413,
@@ -396,8 +396,8 @@
             "runtime": 44,
             "airDate": "2013-10-08",
             "still": "/7pW5MEaKH2XIiQpzZs5YvPkbNnl.jpg",
-            "vote": 7.113,
-            "voteCount": 80
+            "vote": 7.1,
+            "voteCount": 81
           },
           {
             "tmdbEpisodeId": 63414,
@@ -408,8 +408,8 @@
             "runtime": 43,
             "airDate": "2013-10-15",
             "still": "/8P8Q7gb6u1vIrG3QKl9wTrOk4gS.jpg",
-            "vote": 7.329,
-            "voteCount": 79
+            "vote": 7.3,
+            "voteCount": 80
           },
           {
             "tmdbEpisodeId": 63415,
@@ -420,8 +420,8 @@
             "runtime": 43,
             "airDate": "2013-10-22",
             "still": "/sDMJIpguu44lmkOijDYriy35SIg.jpg",
-            "vote": 7.256,
-            "voteCount": 82
+            "vote": 7.3,
+            "voteCount": 83
           },
           {
             "tmdbEpisodeId": 63416,
@@ -432,8 +432,8 @@
             "runtime": 43,
             "airDate": "2013-11-05",
             "still": "/ibziz3WqPN9m27wZdtxxga6QZej.jpg",
-            "vote": 7.526,
-            "voteCount": 78
+            "vote": 7.5,
+            "voteCount": 79
           },
           {
             "tmdbEpisodeId": 63417,
@@ -444,14 +444,14 @@
             "runtime": 43,
             "airDate": "2013-11-12",
             "still": "/dPzdZsaCpOf7D0jwdPhQ4VKAMc3.jpg",
-            "vote": 7.297,
-            "voteCount": 74
+            "vote": 7.3,
+            "voteCount": 75
           }
         ]
       }
     ],
     "totalEpisodes": 7,
-    "updatedAt": "2026-10-01T13:30:32.690Z"
+    "updatedAt": "2026-11-01T13:36:31.575Z"
   },
   "m019": {
     "tmdbId": 1403,
@@ -484,8 +484,8 @@
             "runtime": 43,
             "airDate": "2013-11-19",
             "still": "/ulp4pP5ItIubBiDDX1xOeTUAZuI.jpg",
-            "vote": 7.324,
-            "voteCount": 74
+            "vote": 7.3,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 63419,
@@ -496,8 +496,8 @@
             "runtime": 44,
             "airDate": "2013-11-26",
             "still": "/a67lxNXqoYgjl6ORKs6ZBUKuv6O.jpg",
-            "vote": 7.108,
-            "voteCount": 74
+            "vote": 7.1,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 63420,
@@ -508,8 +508,8 @@
             "runtime": 42,
             "airDate": "2013-12-10",
             "still": "/j2SjEEDIoWiSFXzp1x3SbN0mJjz.jpg",
-            "vote": 7.554,
-            "voteCount": 74
+            "vote": 7.6,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 63421,
@@ -520,8 +520,8 @@
             "runtime": 43,
             "airDate": "2014-01-07",
             "still": "/e37vgQPvQR5K8OKWhAgt8DQNmFS.jpg",
-            "vote": 7.74,
-            "voteCount": 73
+            "vote": 7.7,
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 63422,
@@ -532,8 +532,8 @@
             "runtime": 44,
             "airDate": "2014-01-14",
             "still": "/ipzs6deRSPPDCyU2YB3RPnOkb5o.jpg",
-            "vote": 7.521,
-            "voteCount": 70
+            "vote": 7.5,
+            "voteCount": 71
           },
           {
             "tmdbEpisodeId": 63423,
@@ -544,8 +544,8 @@
             "runtime": 43,
             "airDate": "2014-02-04",
             "still": "/6WUHYcORomqYVB2X4wEyh7W3Eh0.jpg",
-            "vote": 7.822,
-            "voteCount": 73
+            "vote": 7.8,
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 971804,
@@ -556,8 +556,8 @@
             "runtime": 43,
             "airDate": "2014-03-04",
             "still": "/cYzOUnqmWaeAeF3ZbDuT5xrUID7.jpg",
-            "vote": 7.958,
-            "voteCount": 71
+            "vote": 8,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 971979,
@@ -568,8 +568,8 @@
             "runtime": 44,
             "airDate": "2014-03-11",
             "still": "/m4ZJe7JsAmqETigQGnSqN5GjHDx.jpg",
-            "vote": 7.528,
-            "voteCount": 72
+            "vote": 7.5,
+            "voteCount": 73
           },
           {
             "tmdbEpisodeId": 973093,
@@ -580,14 +580,14 @@
             "runtime": 42,
             "airDate": "2014-04-01",
             "still": "/5NkmOGIPFemBVzAMiznvhNPBROO.jpg",
-            "vote": 7.939,
-            "voteCount": 74
+            "vote": 7.9,
+            "voteCount": 75
           }
         ]
       }
     ],
     "totalEpisodes": 9,
-    "updatedAt": "2026-10-01T13:30:33.185Z"
+    "updatedAt": "2026-11-01T13:36:31.883Z"
   },
   "m021": {
     "tmdbId": 1403,
@@ -620,8 +620,8 @@
             "runtime": 44,
             "airDate": "2014-04-08",
             "still": "/qNa7fZSpGqKxt2TXN4DbcTNhb01.jpg",
-            "vote": 8.347,
-            "voteCount": 72
+            "vote": 8.3,
+            "voteCount": 73
           },
           {
             "tmdbEpisodeId": 974019,
@@ -632,8 +632,8 @@
             "runtime": 44,
             "airDate": "2014-04-15",
             "still": "/h7ocEHAdOYxX9JZznwDNwd768SV.jpg",
-            "vote": 7.566,
-            "voteCount": 76
+            "vote": 7.6,
+            "voteCount": 77
           },
           {
             "tmdbEpisodeId": 974709,
@@ -644,8 +644,8 @@
             "runtime": 43,
             "airDate": "2014-04-22",
             "still": "/q6dKYi7TXghZ2NFNMB9nXlbREh7.jpg",
-            "vote": 7.657,
-            "voteCount": 70
+            "vote": 7.7,
+            "voteCount": 71
           },
           {
             "tmdbEpisodeId": 974655,
@@ -656,8 +656,8 @@
             "runtime": 44,
             "airDate": "2014-04-29",
             "still": "/8PmnWZgtau5OKyKw238WT2HRMH4.jpg",
-            "vote": 7.568,
-            "voteCount": 74
+            "vote": 7.6,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 975266,
@@ -668,8 +668,8 @@
             "runtime": 43,
             "airDate": "2014-05-06",
             "still": "/7UqEElK16WLV10YeIH5TBbz90Nk.jpg",
-            "vote": 7.761,
-            "voteCount": 71
+            "vote": 7.8,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 975473,
@@ -680,14 +680,14 @@
             "runtime": 43,
             "airDate": "2014-05-13",
             "still": "/dpqrPxNoAC7EKfwRwkF6ZkvWYA7.jpg",
-            "vote": 8.315,
-            "voteCount": 73
+            "vote": 8.3,
+            "voteCount": 74
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:33.813Z"
+    "updatedAt": "2026-11-01T13:36:32.215Z"
   },
   "m024": {
     "tmdbId": 232125,
@@ -719,7 +719,7 @@
             "airDate": "2022-08-10",
             "still": "/iecIwrRoq1uZfhJ9XRrZD29Zr4R.jpg",
             "vote": 6.7,
-            "voteCount": 15
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 4711224,
@@ -730,8 +730,8 @@
             "runtime": 6,
             "airDate": "2022-08-10",
             "still": "/6pFcTY18M9EpKQEEZZMzVnX4bMF.jpg",
-            "vote": 7.2,
-            "voteCount": 26
+            "vote": 7.1,
+            "voteCount": 29
           },
           {
             "tmdbEpisodeId": 4711226,
@@ -742,8 +742,8 @@
             "runtime": 6,
             "airDate": "2022-08-10",
             "still": "/nv0q5V1vGwRVO4Rv3MOEmniUbWj.jpg",
-            "vote": 6.6,
-            "voteCount": 14
+            "vote": 6.4,
+            "voteCount": 17
           },
           {
             "tmdbEpisodeId": 4711228,
@@ -754,8 +754,8 @@
             "runtime": 6,
             "airDate": "2022-08-10",
             "still": "/stKeLppDBwscxoE9RXxNyrur27G.jpg",
-            "vote": 6.6,
-            "voteCount": 27
+            "vote": 6.5,
+            "voteCount": 29
           },
           {
             "tmdbEpisodeId": 4711229,
@@ -766,14 +766,14 @@
             "runtime": 5,
             "airDate": "2022-08-10",
             "still": "/cnhzecqkKHBIyM4QMbxRy5fbW3l.jpg",
-            "vote": 6.4,
-            "voteCount": 14
+            "vote": 6.6,
+            "voteCount": 16
           }
         ]
       }
     ],
     "totalEpisodes": 5,
-    "updatedAt": "2026-10-01T13:30:34.858Z"
+    "updatedAt": "2026-11-01T13:36:32.666Z"
   },
   "m025": {
     "tmdbId": 232125,
@@ -805,7 +805,7 @@
             "airDate": "2023-09-06",
             "still": "/rJelmgL1yTFfH2PhC3LufMhYQko.jpg",
             "vote": 6.6,
-            "voteCount": 41
+            "voteCount": 43
           },
           {
             "tmdbEpisodeId": 4629240,
@@ -817,7 +817,7 @@
             "airDate": "2023-09-06",
             "still": "/bf39ykfbUodisUirJXcUbI8bRFe.jpg",
             "vote": 6.8,
-            "voteCount": 40
+            "voteCount": 42
           },
           {
             "tmdbEpisodeId": 4629241,
@@ -829,7 +829,7 @@
             "airDate": "2023-09-06",
             "still": "/6H9lUVRUJyWn7t0VAix83TszrfJ.jpg",
             "vote": 6.8,
-            "voteCount": 41
+            "voteCount": 42
           },
           {
             "tmdbEpisodeId": 4629242,
@@ -841,7 +841,7 @@
             "airDate": "2023-09-06",
             "still": "/4PSxBL0Muya07GIteMxJhA4A2iB.jpg",
             "vote": 6.9,
-            "voteCount": 42
+            "voteCount": 44
           },
           {
             "tmdbEpisodeId": 4629243,
@@ -853,13 +853,13 @@
             "airDate": "2023-09-06",
             "still": "/o7gblk3nygQh2lEIjCHEdLK3RHA.jpg",
             "vote": 6.9,
-            "voteCount": 41
+            "voteCount": 43
           }
         ]
       }
     ],
     "totalEpisodes": 5,
-    "updatedAt": "2026-10-01T13:30:35.308Z"
+    "updatedAt": "2026-11-01T13:36:33.144Z"
   },
   "m026": {
     "tmdbId": 61889,
@@ -890,8 +890,8 @@
             "runtime": 53,
             "airDate": "2015-04-10",
             "still": "/mBrmtpUxuUmYq0e9brRn8n8sdWe.jpg",
-            "vote": 7.667,
-            "voteCount": 228
+            "vote": 7.7,
+            "voteCount": 229
           },
           {
             "tmdbEpisodeId": 1036350,
@@ -902,8 +902,8 @@
             "runtime": 53,
             "airDate": "2015-04-10",
             "still": "/ujNuAv6IkFAkl1JJ1c9VF1VtqUZ.jpg",
-            "vote": 8.077,
-            "voteCount": 181
+            "vote": 8.1,
+            "voteCount": 182
           },
           {
             "tmdbEpisodeId": 1036351,
@@ -914,8 +914,8 @@
             "runtime": 53,
             "airDate": "2015-04-10",
             "still": "/j5HVoA9h20qX2VadR5oJiySjZfd.jpg",
-            "vote": 7.628,
-            "voteCount": 160
+            "vote": 7.6,
+            "voteCount": 161
           },
           {
             "tmdbEpisodeId": 1036352,
@@ -926,8 +926,8 @@
             "runtime": 53,
             "airDate": "2015-04-10",
             "still": "/a10UVizY2XGABWHMsi5gzGy9VPn.jpg",
-            "vote": 7.88,
-            "voteCount": 154
+            "vote": 7.9,
+            "voteCount": 155
           },
           {
             "tmdbEpisodeId": 1036353,
@@ -939,7 +939,7 @@
             "airDate": "2015-04-10",
             "still": "/vif8R3u4lakvK5GAtXNzpZij9Jo.jpg",
             "vote": 8,
-            "voteCount": 155
+            "voteCount": 156
           },
           {
             "tmdbEpisodeId": 1036354,
@@ -950,8 +950,8 @@
             "runtime": 49,
             "airDate": "2015-04-10",
             "still": "/iGXrSJkyvCFRvHR8hEYU46xrlON.jpg",
-            "vote": 8.258,
-            "voteCount": 155
+            "vote": 8.3,
+            "voteCount": 156
           },
           {
             "tmdbEpisodeId": 1036355,
@@ -962,8 +962,8 @@
             "runtime": 51,
             "airDate": "2015-04-10",
             "still": "/lrWKT1xiihBFrkIOHYPDeEhjuUj.jpg",
-            "vote": 7.89,
-            "voteCount": 145
+            "vote": 7.9,
+            "voteCount": 146
           },
           {
             "tmdbEpisodeId": 1036356,
@@ -974,8 +974,8 @@
             "runtime": 54,
             "airDate": "2015-04-10",
             "still": "/x0kt6qHldGP8KQzvRyk4VXZ2Bok.jpg",
-            "vote": 8.206,
-            "voteCount": 141
+            "vote": 8.2,
+            "voteCount": 142
           },
           {
             "tmdbEpisodeId": 1036357,
@@ -986,8 +986,8 @@
             "runtime": 58,
             "airDate": "2015-04-10",
             "still": "/rQTSUqBGlLyY3jmkGhXJpONdcNr.jpg",
-            "vote": 8.301,
-            "voteCount": 146
+            "vote": 8.3,
+            "voteCount": 147
           },
           {
             "tmdbEpisodeId": 1036358,
@@ -998,8 +998,8 @@
             "runtime": 57,
             "airDate": "2015-04-10",
             "still": "/nNP0eEUkok8kDnRWVM2tV9Zabc1.jpg",
-            "vote": 7.896,
-            "voteCount": 140
+            "vote": 7.9,
+            "voteCount": 141
           },
           {
             "tmdbEpisodeId": 1036359,
@@ -1010,8 +1010,8 @@
             "runtime": 59,
             "airDate": "2015-04-10",
             "still": "/cQFGj6I6LliVr9EYO7SvrZLbDuR.jpg",
-            "vote": 8.036,
-            "voteCount": 137
+            "vote": 8,
+            "voteCount": 138
           },
           {
             "tmdbEpisodeId": 1036360,
@@ -1021,9 +1021,9 @@
             "overview": "Fisk busca vingança enquanto Karen é assombrada pelos acontecimentos. O Demolidor faz uma descoberta reveladora sobre as finanças de Fisk.",
             "runtime": 60,
             "airDate": "2015-04-10",
-            "still": "/nwcmjyS5NPJ9viSqtrQhwoY7I7n.jpg",
-            "vote": 8.066,
-            "voteCount": 136
+            "still": "/qxcAa5OS5WzYIxHHufXRcNrKnAi.jpg",
+            "vote": 8.1,
+            "voteCount": 137
           },
           {
             "tmdbEpisodeId": 1036361,
@@ -1033,15 +1033,15 @@
             "overview": "No episódio final da primeira temporada, Fisk, Murdock, Foggy e Karen são obrigados a dar sua cartada final.",
             "runtime": 56,
             "airDate": "2015-04-10",
-            "still": "/yW0GkHvNaWJiCZhOrdA0XryeqxO.jpg",
-            "vote": 8.517,
-            "voteCount": 145
+            "still": "/uESfrxzxAvKMqj5ZvOK1z1slfEW.jpg",
+            "vote": 8.5,
+            "voteCount": 146
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:35.721Z"
+    "updatedAt": "2026-11-01T13:36:33.346Z"
   },
   "m027": {
     "tmdbId": 38472,
@@ -1072,8 +1072,8 @@
             "runtime": 53,
             "airDate": "2015-11-20",
             "still": "/8sdMBGwHYW7UWrPv8c39w7VHj83.jpg",
-            "vote": 7.451,
-            "voteCount": 134
+            "vote": 7.5,
+            "voteCount": 137
           },
           {
             "tmdbEpisodeId": 1105755,
@@ -1085,7 +1085,7 @@
             "airDate": "2015-11-20",
             "still": "/mmZXXJAEuDfid42mFotL3PGes41.jpg",
             "vote": 7.7,
-            "voteCount": 115
+            "voteCount": 117
           },
           {
             "tmdbEpisodeId": 1105756,
@@ -1096,8 +1096,8 @@
             "runtime": 50,
             "airDate": "2015-11-20",
             "still": "/ynaolUGV5E3Cr0zxTb4UVQGVzIq.jpg",
-            "vote": 7.5,
-            "voteCount": 107
+            "vote": 7.6,
+            "voteCount": 110
           },
           {
             "tmdbEpisodeId": 1105757,
@@ -1109,7 +1109,7 @@
             "airDate": "2015-11-20",
             "still": "/8IjT1LCsvbfwTIkAtQNmlNgBenS.jpg",
             "vote": 7.5,
-            "voteCount": 106
+            "voteCount": 109
           },
           {
             "tmdbEpisodeId": 1105758,
@@ -1121,7 +1121,7 @@
             "airDate": "2015-11-20",
             "still": "/bMTbeKU2YypH53DSAgYlOPxpgLv.jpg",
             "vote": 7.7,
-            "voteCount": 110
+            "voteCount": 113
           },
           {
             "tmdbEpisodeId": 1105759,
@@ -1132,8 +1132,8 @@
             "runtime": 57,
             "airDate": "2015-11-20",
             "still": "/6KZu2xbcDZ6SZmhMCH64s0ZhCw4.jpg",
-            "vote": 7.6,
-            "voteCount": 104
+            "vote": 7.7,
+            "voteCount": 106
           },
           {
             "tmdbEpisodeId": 1105760,
@@ -1145,7 +1145,7 @@
             "airDate": "2015-11-20",
             "still": "/d1Xk3ptFt8UYDBwgnqOJDyC23QV.jpg",
             "vote": 7.6,
-            "voteCount": 101
+            "voteCount": 104
           },
           {
             "tmdbEpisodeId": 1105761,
@@ -1157,7 +1157,7 @@
             "airDate": "2015-11-20",
             "still": "/oCBXVGx4r3Hzyu2zWi9j9UdvvHD.jpg",
             "vote": 8,
-            "voteCount": 104
+            "voteCount": 107
           },
           {
             "tmdbEpisodeId": 1105762,
@@ -1169,7 +1169,7 @@
             "airDate": "2015-11-20",
             "still": "/rjRBAIoTWrbHbtBhBsLNtEzcz6J.jpg",
             "vote": 8.1,
-            "voteCount": 101
+            "voteCount": 105
           },
           {
             "tmdbEpisodeId": 1105763,
@@ -1180,8 +1180,8 @@
             "runtime": 52,
             "airDate": "2015-11-20",
             "still": "/xGb7NMYU5nAJhhbiRcZvl6qdjwJ.jpg",
-            "vote": 7.8,
-            "voteCount": 96
+            "vote": 7.9,
+            "voteCount": 99
           },
           {
             "tmdbEpisodeId": 1105764,
@@ -1192,8 +1192,8 @@
             "runtime": 55,
             "airDate": "2015-11-20",
             "still": "/4oeTuWu6dwHi53HHvCR6Nj0jhng.jpg",
-            "vote": 7.4,
-            "voteCount": 100
+            "vote": 7.5,
+            "voteCount": 103
           },
           {
             "tmdbEpisodeId": 1105765,
@@ -1205,7 +1205,7 @@
             "airDate": "2015-11-20",
             "still": "/2ltE326GvaUX6CkJAVcbio8MI0X.jpg",
             "vote": 7.7,
-            "voteCount": 99
+            "voteCount": 102
           },
           {
             "tmdbEpisodeId": 1105766,
@@ -1216,14 +1216,14 @@
             "runtime": 54,
             "airDate": "2015-11-20",
             "still": "/nZytqi8HD2V0anKbAvNox9tAl5.jpg",
-            "vote": 7.9,
-            "voteCount": 101
+            "vote": 8,
+            "voteCount": 103
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:36.148Z"
+    "updatedAt": "2026-11-01T13:36:33.550Z"
   },
   "m028": {
     "tmdbId": 1403,
@@ -1256,8 +1256,8 @@
             "runtime": 44,
             "airDate": "2014-09-23",
             "still": "/tY8KIXh1QJuG2LKye0yernfOp2C.jpg",
-            "vote": 7.568,
-            "voteCount": 74
+            "vote": 7.6,
+            "voteCount": 76
           },
           {
             "tmdbEpisodeId": 1007159,
@@ -1268,8 +1268,8 @@
             "runtime": 43,
             "airDate": "2014-09-30",
             "still": "/9BioqvJqkrLIORzvE8T6ahKp9is.jpg",
-            "vote": 7.243,
-            "voteCount": 70
+            "vote": 7.3,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 1009280,
@@ -1280,8 +1280,8 @@
             "runtime": 44,
             "airDate": "2014-10-07",
             "still": "/7cmj9nIGW3BMTcWadw64wIsoPW4.jpg",
-            "vote": 7.585,
-            "voteCount": 65
+            "vote": 7.6,
+            "voteCount": 67
           },
           {
             "tmdbEpisodeId": 1010174,
@@ -1292,8 +1292,8 @@
             "runtime": 42,
             "airDate": "2014-10-14",
             "still": "/2GGF5P0CVQM8NmXtxq75WmLiY1B.jpg",
-            "vote": 7.527,
-            "voteCount": 73
+            "vote": 7.6,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 1010683,
@@ -1304,8 +1304,8 @@
             "runtime": 44,
             "airDate": "2014-10-21",
             "still": "/qmaIMvsACbEKJKs03fr8EjnfJ6y.jpg",
-            "vote": 7.924,
-            "voteCount": 66
+            "vote": 7.9,
+            "voteCount": 68
           },
           {
             "tmdbEpisodeId": 1010684,
@@ -1316,8 +1316,8 @@
             "runtime": 42,
             "airDate": "2014-10-28",
             "still": "/up1Ybt3PKzBeG0E3i8DDfXD0tRG.jpg",
-            "vote": 7.522,
-            "voteCount": 67
+            "vote": 7.5,
+            "voteCount": 69
           },
           {
             "tmdbEpisodeId": 1013262,
@@ -1328,8 +1328,8 @@
             "runtime": 43,
             "airDate": "2014-11-11",
             "still": "/4C6MvPI0xz19GcewXvLzIpcGohZ.jpg",
-            "vote": 7.757,
-            "voteCount": 68
+            "vote": 7.8,
+            "voteCount": 70
           },
           {
             "tmdbEpisodeId": 1016544,
@@ -1340,8 +1340,8 @@
             "runtime": 44,
             "airDate": "2014-11-18",
             "still": "/9vP2NIbH3CDp66pt7PrqdirL0f4.jpg",
-            "vote": 7.851,
-            "voteCount": 67
+            "vote": 7.9,
+            "voteCount": 69
           },
           {
             "tmdbEpisodeId": 1018666,
@@ -1352,8 +1352,8 @@
             "runtime": 44,
             "airDate": "2014-12-02",
             "still": "/1waefxlrs7FqOAGZnVDaFxhzKQ3.jpg",
-            "vote": 7.846,
-            "voteCount": 65
+            "vote": 7.9,
+            "voteCount": 67
           },
           {
             "tmdbEpisodeId": 1019800,
@@ -1364,8 +1364,8 @@
             "runtime": 44,
             "airDate": "2014-12-09",
             "still": "/k9YZOR6h6WxZqpeFVpUSU8W8Qft.jpg",
-            "vote": 8.271,
-            "voteCount": 70
+            "vote": 8.3,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 1019801,
@@ -1376,8 +1376,8 @@
             "runtime": 44,
             "airDate": "2015-03-03",
             "still": "/l2MpAvLuYdcwzp4a3kCuCRWk6kY.jpg",
-            "vote": 7.766,
-            "voteCount": 64
+            "vote": 7.8,
+            "voteCount": 65
           },
           {
             "tmdbEpisodeId": 1043555,
@@ -1388,8 +1388,8 @@
             "runtime": 42,
             "airDate": "2015-03-10",
             "still": "/pDM3YGuGv7Q8ItjAH2lYJS9NVxA.jpg",
-            "vote": 7.435,
-            "voteCount": 62
+            "vote": 7.4,
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1043556,
@@ -1400,8 +1400,8 @@
             "runtime": 44,
             "airDate": "2015-03-17",
             "still": "/tsMTa4PPElkIeHjaQ9kNHCH2KX2.jpg",
-            "vote": 7.407,
-            "voteCount": 59
+            "vote": 7.4,
+            "voteCount": 61
           },
           {
             "tmdbEpisodeId": 1046566,
@@ -1412,8 +1412,8 @@
             "runtime": 44,
             "airDate": "2015-03-24",
             "still": "/wRCOrh7aXt06IQGuBqHpjmltauf.jpg",
-            "vote": 7.379,
-            "voteCount": 58
+            "vote": 7.4,
+            "voteCount": 60
           },
           {
             "tmdbEpisodeId": 1046817,
@@ -1424,8 +1424,8 @@
             "runtime": 43,
             "airDate": "2015-03-31",
             "still": "/qZRYuoffjQyWKEEkbkjX7R4RWLc.jpg",
-            "vote": 7.735,
-            "voteCount": 49
+            "vote": 7.8,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1048738,
@@ -1436,8 +1436,8 @@
             "runtime": 43,
             "airDate": "2015-04-07",
             "still": "/AayVjfLOD6WArU7W4QeL4zII9KW.jpg",
-            "vote": 7.608,
-            "voteCount": 51
+            "vote": 7.6,
+            "voteCount": 53
           },
           {
             "tmdbEpisodeId": 1049931,
@@ -1448,8 +1448,8 @@
             "runtime": 43,
             "airDate": "2015-04-14",
             "still": "/hAuhfNL6xsdGZljgysAL9TSqENh.jpg",
-            "vote": 7.692,
-            "voteCount": 52
+            "vote": 7.7,
+            "voteCount": 54
           },
           {
             "tmdbEpisodeId": 1051253,
@@ -1460,8 +1460,8 @@
             "runtime": 43,
             "airDate": "2015-04-21",
             "still": "/Aee9QirIdV1FhvjS3qb8Y9YDdTC.jpg",
-            "vote": 7.745,
-            "voteCount": 51
+            "vote": 7.8,
+            "voteCount": 53
           },
           {
             "tmdbEpisodeId": 1051254,
@@ -1473,17 +1473,17 @@
             "airDate": "2015-04-28",
             "still": "/rDg9pnfESdzclvx32uvGys7ChAh.jpg",
             "vote": 8,
-            "voteCount": 55
+            "voteCount": 56
           }
         ]
       }
     ],
     "totalEpisodes": 19,
-    "updatedAt": "2026-10-01T13:30:36.439Z"
+    "updatedAt": "2026-11-01T13:36:33.737Z"
   },
   "m030": {
-    "tmdbId": 333584,
-    "title": "Marvel's Agents of S.H.I.E.L.D.: Double Agent",
+    "tmdbId": 1403,
+    "title": "Agentes da S.H.I.E.L.D. da Marvel",
     "sourceTitle": "Agents of S.H.I.E.L.D. — T2E20–E22",
     "requestedSeasons": [
       {
@@ -1492,13 +1492,62 @@
         "end": 22
       }
     ],
-    "seasons": [],
-    "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:30:37.236Z"
+    "seasons": [
+      {
+        "tmdbSeasonId": 62022,
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "overview": "Na segunda temporada, Coulson e sua equipe procuram restaurar a confiança do governo e do público após o colapso da S.H.I.E.L.D.",
+        "poster": "/1p2YON1x3vYFI3cjTuV4Vg9PWYq.jpg",
+        "airDate": "2014-09-23",
+        "episodeStart": 20,
+        "episodeEnd": 22,
+        "episodes": [
+          {
+            "tmdbEpisodeId": 1051255,
+            "episodeNumber": 20,
+            "seasonNumber": 2,
+            "name": "Cicatrizes",
+            "overview": "As facções da S.H.I.E.L.D. se unem graças ao porta-aviões de Coulson, mas a tensão entre a mãe de Skye e Gonzales tem resultados brutais.",
+            "runtime": 44,
+            "airDate": "2015-05-05",
+            "still": "/ru4JeLtljrWhFa35GHZ2w2qrRb.jpg",
+            "vote": 7.7,
+            "voteCount": 63
+          },
+          {
+            "tmdbEpisodeId": 1051256,
+            "episodeNumber": 21,
+            "seasonNumber": 2,
+            "name": "S.O.S., Parte 1",
+            "overview": "Jiaying convence Skye e os Inumanos a lutar contra a S.H.I.E.L.D. Coulson planeja salvar Skye e seu pai.",
+            "runtime": 44,
+            "airDate": "2015-05-12",
+            "still": "/toBXZAzRz8GtWiFZiEhwoENw8QY.jpg",
+            "vote": 8.1,
+            "voteCount": 60
+          },
+          {
+            "tmdbEpisodeId": 1051257,
+            "episodeNumber": 22,
+            "seasonNumber": 2,
+            "name": "S.O.S., Parte 2",
+            "overview": "Jiaying lidera um ataque à nave da S.H.I.E.L.D. com o objetivo de matar todos os humanos.",
+            "runtime": 44,
+            "airDate": "2015-05-12",
+            "still": "/4uZ5Obz9ob9Q2H5AsP2oHVlXsWS.jpg",
+            "vote": 8.4,
+            "voteCount": 64
+          }
+        ]
+      }
+    ],
+    "totalEpisodes": 3,
+    "updatedAt": "2026-11-01T13:36:34.046Z"
   },
   "m032": {
-    "tmdbId": 61889,
-    "title": "Marvel - Demolidor",
+    "tmdbId": 202555,
+    "title": "Demolidor: Renascido",
     "sourceTitle": "Demolidor — T2",
     "requestedSeasons": [
       {
@@ -1507,176 +1556,116 @@
     ],
     "seasons": [
       {
-        "tmdbSeasonId": 74182,
+        "tmdbSeasonId": 484164,
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "overview": "O crime e a violência pairam sobre Hell's Kitchen novamente. Dessa vez, o Demolidor precisa escolher entre a cidade e seus amigos.",
-        "poster": "/tt37OtTjsrCokPnHx0gqamOYhPo.jpg",
-        "airDate": "2016-03-18",
+        "overview": "O prefeito Wilson Fisk esmaga Nova York sob seus pés enquanto caça o inimigo público número um, o vigilante de Hell's Kitchen conhecido como Demolidor. Mas, por trás da máscara com chifres, Matt Murdock lutará nas sombras para derrubar o império corrupto do Rei do Crime e redimir sua cidade. Resista. Rebele-se. Reconstrua.",
+        "poster": "/x9xM1mOXdPlbsdPPBa10z21q8Lz.jpg",
+        "airDate": "2026-03-24",
         "episodeStart": 1,
-        "episodeEnd": 13,
+        "episodeEnd": 8,
         "episodes": [
           {
-            "tmdbEpisodeId": 1167028,
+            "tmdbEpisodeId": 6670286,
             "episodeNumber": 1,
             "seasonNumber": 2,
-            "name": "Bang",
-            "overview": "Agora que Fisk não é mais um problema, uma nova ameaça paira sobre Hell's Kitchen. Murdock e Foggy atendem uma pessoa com um passado suspeito.",
-            "runtime": 49,
-            "airDate": "2016-03-18",
-            "still": "/oiDSkY2h8OGeitwHC0diCy4VllX.jpg",
-            "vote": 7.936,
-            "voteCount": 133
+            "name": "O Northern Star",
+            "overview": "O Demolidor pode estar escondido, mas não está se mantendo discreto. Surge uma nova e misteriosa figura em Washington, D.C.",
+            "runtime": 53,
+            "airDate": "2026-03-24",
+            "still": "/hxZQi3iq4IC8K7EBd4ez2W0OQPO.jpg",
+            "vote": 8.1,
+            "voteCount": 57
           },
           {
-            "tmdbEpisodeId": 1175503,
+            "tmdbEpisodeId": 6825658,
             "episodeNumber": 2,
             "seasonNumber": 2,
-            "name": "Cães na Mira",
-            "overview": "Enquanto Murdock se recupera de um ataque, Foggy e Karen tentam proteger o novo cliente da lei e do mais novo vilão de Hell's Kitchen.",
-            "runtime": 50,
-            "airDate": "2016-03-18",
-            "still": "/oLhdCmBaLzste7JrT08lG97s7pc.jpg",
-            "vote": 7.964,
-            "voteCount": 124
+            "name": "Mirar na Lua",
+            "overview": "Fisk tenta uma nova tática para tirar o Demolidor do esconderijo.",
+            "runtime": 49,
+            "airDate": "2026-03-31",
+            "still": "/kbpZdUUA54SKeuJDXMLZJWr5qtF.jpg",
+            "vote": 7.7,
+            "voteCount": 49
           },
           {
-            "tmdbEpisodeId": 1175504,
+            "tmdbEpisodeId": 6825659,
             "episodeNumber": 3,
             "seasonNumber": 2,
-            "name": "Para Servir e Proteger",
-            "overview": "Cara a cara com o Justiceiro, o Demolidor questiona a moralidade da justiça vigilante. Enquanto isso, Foggy e Karen lutam para salvar a firma.",
-            "runtime": 48,
-            "airDate": "2016-03-18",
-            "still": "/ru6Toc8IcS6FMYaJiBIbqlhi0e1.jpg",
-            "vote": 8.48,
-            "voteCount": 128
+            "name": "A Balança e a Espada",
+            "overview": "Matt Murdock e Karen Page encontram novos aliados.",
+            "runtime": 50,
+            "airDate": "2026-03-31",
+            "still": "/vdlYtcgS1x3JURs39cxDD8MtT65.jpg",
+            "vote": 7.6,
+            "voteCount": 49
           },
           {
-            "tmdbEpisodeId": 1175505,
+            "tmdbEpisodeId": 6825660,
             "episodeNumber": 4,
             "seasonNumber": 2,
-            "name": "Uni Duni Tê",
-            "overview": "Karen faz descobertas chocantes sobre o Justiceiro, que agora está sendo caçado por uma força poderosa em Hell's Kitchen. O Demolidor estuda seus próximos passos.",
-            "runtime": 60,
-            "airDate": "2016-03-18",
-            "still": "/ycQkWMqInghW0taNzPhiED1GcuL.jpg",
-            "vote": 8.406,
-            "voteCount": 128
+            "name": "Toquem as Luvas",
+            "overview": "Mercenário adota uma nova rotina matinal. Fisk entra no ringue.",
+            "runtime": 54,
+            "airDate": "2026-04-07",
+            "still": "/2wG70Lehic8WukXmUEL9jjENNn6.jpg",
+            "vote": 8.4,
+            "voteCount": 47
           },
           {
-            "tmdbEpisodeId": 1175506,
+            "tmdbEpisodeId": 6825661,
             "episodeNumber": 5,
             "seasonNumber": 2,
-            "name": "Kinbaku",
-            "overview": "Uma antiga paixão de Murdock retorna a Hell's Kitchen e vira seu mundo de cabeça para baixo. Karen tenta descobrir a verdade sobre o Justiceiro.",
-            "runtime": 56,
-            "airDate": "2016-03-18",
-            "still": "/o6rrjZRkefL9zdaX1x5BuAfHaNX.jpg",
-            "vote": 7.6,
-            "voteCount": 123
+            "name": "O Grande Desígnio",
+            "overview": "A Força-Tarefa Anti-Vigilante intensifica a busca por Demolidor e Mercenário.",
+            "runtime": 53,
+            "airDate": "2026-04-14",
+            "still": "/3Pw0G3sjFcd0qgtYqkvtIvTHxGQ.jpg",
+            "vote": 8.4,
+            "voteCount": 47
           },
           {
-            "tmdbEpisodeId": 1175507,
+            "tmdbEpisodeId": 6825662,
             "episodeNumber": 6,
             "seasonNumber": 2,
-            "name": "Só Arrempedimento",
-            "overview": "Um inimigo mortal retorna com sede de vingança. Foggy e Murdock arriscam a firma em nome da justiça. Karen começa a mudar de ideia sobre o Justiceiro.",
-            "runtime": 56,
-            "airDate": "2016-03-18",
-            "still": "/3Caj3W6tfllb9vFvTJmOc0ZlnIW.jpg",
-            "vote": 7.9,
-            "voteCount": 115
+            "name": "Réquiem",
+            "overview": "A operação de Fisk sofre um golpe irreparável. A resistência se espalha pelas ruas.",
+            "runtime": 52,
+            "airDate": "2026-04-21",
+            "still": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
+            "vote": 8.4,
+            "voteCount": 47
           },
           {
-            "tmdbEpisodeId": 1175508,
+            "tmdbEpisodeId": 6825663,
             "episodeNumber": 7,
             "seasonNumber": 2,
-            "name": "Semper Fidelis",
-            "overview": "Murdock e Foggy enfrentam a promotoria no julgamento do século, mas seu cliente não coopera. As duas identidades de Murdock geram conflitos.",
-            "runtime": 57,
-            "airDate": "2016-03-18",
-            "still": "/vWpizkHpQ5zKDdUQlW0V5ytKiyO.jpg",
-            "vote": 7.589,
-            "voteCount": 118
+            "name": "A Terrível Escuridão",
+            "overview": "Um julgamento muito importante para Matt Murdock atrai a atenção da cidade.",
+            "runtime": 48,
+            "airDate": "2026-04-28",
+            "still": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
+            "vote": 8.1,
+            "voteCount": 48
           },
           {
-            "tmdbEpisodeId": 1175509,
+            "tmdbEpisodeId": 6825664,
             "episodeNumber": 8,
             "seasonNumber": 2,
-            "name": "Mea Culpa",
-            "overview": "Com o julgamento fora de controle, uma figura do passado de Murdock ressurge com revelações chocantes sobre o futuro de Hell's Kitchen.",
-            "runtime": 55,
-            "airDate": "2016-03-18",
-            "still": "/qEEl2lgE6OVD9XYhhJf5PSqKEgr.jpg",
-            "vote": 8.091,
-            "voteCount": 115
-          },
-          {
-            "tmdbEpisodeId": 1175510,
-            "episodeNumber": 9,
-            "seasonNumber": 2,
-            "name": "Sete Minutos no Paraíso",
-            "overview": "Castle recebe uma oferta irrecusável. Foggy e Murdock questionam o futuro da firma, mas Karen não vai desistir tão facilmente.",
-            "runtime": 60,
-            "airDate": "2016-03-18",
-            "still": "/xxUl1nRdB2W8LnZS4ZY3uQe1a7E.jpg",
-            "vote": 8.384,
-            "voteCount": 121
-          },
-          {
-            "tmdbEpisodeId": 1175511,
-            "episodeNumber": 10,
-            "seasonNumber": 2,
-            "name": "O Homem na Caixa",
-            "overview": "Murdock e Foggy são atingidos indiretamente pela vingança do Justiceiro. Karen e Murdock buscam a verdade utilizando métodos bem diferentes.",
-            "runtime": 53,
-            "airDate": "2016-03-18",
-            "still": "/fK5MNDW7sglOPc7CpKYPtf4hgAj.jpg",
-            "vote": 8.131,
-            "voteCount": 111
-          },
-          {
-            "tmdbEpisodeId": 1175512,
-            "episodeNumber": 11,
-            "seasonNumber": 2,
-            "name": "38",
-            "overview": "O Justiceiro prossegue com sua guerra, aumentando o número de assassinatos em Hell’s Kitchen. Murdock tenta dar um fim ao que foi iniciado pela promotora pública.",
-            "runtime": 56,
-            "airDate": "2016-03-18",
-            "still": "/sp8CsGS2nOP8Nfe4GdDxUN36IEY.jpg",
-            "vote": 7.795,
-            "voteCount": 110
-          },
-          {
-            "tmdbEpisodeId": 1175513,
-            "episodeNumber": 12,
-            "seasonNumber": 2,
-            "name": "A Escuridão no Fim do Túnel",
-            "overview": "O Demolidor desce ao submundo em uma missão de resgate, Karen investiga uma pista perigosa, e a firma de advocacia Nelson &amp; Murdock pode ter chegado a seu capítulo final.",
-            "runtime": 53,
-            "airDate": "2016-03-18",
-            "still": "/9ZTRTJvTbEqlFeOIONlbdao4UnR.jpg",
-            "vote": 7.925,
-            "voteCount": 113
-          },
-          {
-            "tmdbEpisodeId": 1175514,
-            "episodeNumber": 13,
-            "seasonNumber": 2,
-            "name": "Um Dia Frio no Inferno",
-            "overview": "No último capítulo da segunda temporada, o Demolidor embarca em um duelo por sua vida - e pelo futuro de Hell's Kitchen.",
-            "runtime": 59,
-            "airDate": "2016-03-18",
-            "still": "/elTucMpUqGnrz7aZJuV0uFvTMt3.jpg",
-            "vote": 8.19,
-            "voteCount": 113
+            "name": "Cruzeiro do Sul",
+            "overview": "A cidade e seus heróis entram em uma era sem precedentes.",
+            "runtime": 54,
+            "airDate": "2026-05-05",
+            "still": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
+            "vote": 8.1,
+            "voteCount": 46
           }
         ]
       }
     ],
-    "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:38.034Z"
+    "totalEpisodes": 8,
+    "updatedAt": "2026-11-01T13:36:34.396Z"
   },
   "m033": {
     "tmdbId": 62126,
@@ -1707,8 +1696,8 @@
             "runtime": 55,
             "airDate": "2016-09-30",
             "still": "/hiGvMTr8CwAsiVEgO7vvvty6djs.jpg",
-            "vote": 7.218,
-            "voteCount": 85
+            "vote": 7.3,
+            "voteCount": 89
           },
           {
             "tmdbEpisodeId": 1221122,
@@ -1719,8 +1708,8 @@
             "runtime": 59,
             "airDate": "2016-09-30",
             "still": "/832vQVsJOvAvVxjXlJ9uNNzMrvh.jpg",
-            "vote": 7.271,
-            "voteCount": 72
+            "vote": 7.3,
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 1221123,
@@ -1731,8 +1720,8 @@
             "runtime": 57,
             "airDate": "2016-09-30",
             "still": "/qgkHgHkbqa9BE0Y5D5UlR1ceMU7.jpg",
-            "vote": 7.543,
-            "voteCount": 70
+            "vote": 7.6,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 1221124,
@@ -1743,8 +1732,8 @@
             "runtime": 53,
             "airDate": "2016-09-30",
             "still": "/yP3jJUSHJNPJFHYk7Twoa2l1hlG.jpg",
-            "vote": 7.545,
-            "voteCount": 67
+            "vote": 7.6,
+            "voteCount": 70
           },
           {
             "tmdbEpisodeId": 1221125,
@@ -1755,8 +1744,8 @@
             "runtime": 52,
             "airDate": "2016-09-30",
             "still": "/7CQj233LIuOSoXhrBSPUu8Pf4wc.jpg",
-            "vote": 7.242,
-            "voteCount": 64
+            "vote": 7.3,
+            "voteCount": 67
           },
           {
             "tmdbEpisodeId": 1221126,
@@ -1767,8 +1756,8 @@
             "runtime": 54,
             "airDate": "2016-09-30",
             "still": "/tLkb9OXzD7v5QfFK1JcBhvJN7ib.jpg",
-            "vote": 7.238,
-            "voteCount": 63
+            "vote": 7.2,
+            "voteCount": 65
           },
           {
             "tmdbEpisodeId": 1221127,
@@ -1779,8 +1768,8 @@
             "runtime": 52,
             "airDate": "2016-09-30",
             "still": "/lmXenfyEgnvpURSC4K0Dno7ufqO.jpg",
-            "vote": 7.339,
-            "voteCount": 62
+            "vote": 7.4,
+            "voteCount": 65
           },
           {
             "tmdbEpisodeId": 1221128,
@@ -1791,8 +1780,8 @@
             "runtime": 49,
             "airDate": "2016-09-30",
             "still": "/oV2SVw3r8asOQUEs2bRf0Hc0sk2.jpg",
-            "vote": 7.131,
-            "voteCount": 61
+            "vote": 7.1,
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1221129,
@@ -1803,8 +1792,8 @@
             "runtime": 66,
             "airDate": "2016-09-30",
             "still": "/32OABQoFMvizYMDqQGZXAj5gcz2.jpg",
-            "vote": 7.115,
-            "voteCount": 61
+            "vote": 7.1,
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1221130,
@@ -1815,8 +1804,8 @@
             "runtime": 48,
             "airDate": "2016-09-30",
             "still": "/5k0afhLbePlAWTC4tDuZdpz9NCz.jpg",
-            "vote": 7.133,
-            "voteCount": 60
+            "vote": 7.1,
+            "voteCount": 62
           },
           {
             "tmdbEpisodeId": 1221131,
@@ -1827,8 +1816,8 @@
             "runtime": 51,
             "airDate": "2016-09-30",
             "still": "/g9C4rA5XHeLRJLXJV2CwFPHN0LB.jpg",
-            "vote": 7.46,
-            "voteCount": 63
+            "vote": 7.4,
+            "voteCount": 65
           },
           {
             "tmdbEpisodeId": 1221132,
@@ -1839,8 +1828,8 @@
             "runtime": 62,
             "airDate": "2016-09-30",
             "still": "/lfbFuQ10ymuLSXUZWnQ8SQbovxu.jpg",
-            "vote": 7.295,
-            "voteCount": 61
+            "vote": 7.3,
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1221133,
@@ -1851,18 +1840,18 @@
             "runtime": 46,
             "airDate": "2016-09-30",
             "still": "/2BeVTzfNKb5TySc26GLTqTUGO5y.jpg",
-            "vote": 7.083,
-            "voteCount": 60
+            "vote": 7.1,
+            "voteCount": 62
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:38.470Z"
+    "updatedAt": "2026-11-01T13:36:34.607Z"
   },
   "m034": {
-    "tmdbId": 333584,
-    "title": "Marvel's Agents of S.H.I.E.L.D.: Double Agent",
+    "tmdbId": 1403,
+    "title": "Agentes da S.H.I.E.L.D. da Marvel",
     "sourceTitle": "Agents of S.H.I.E.L.D. — T3E1–E10",
     "requestedSeasons": [
       {
@@ -1871,9 +1860,142 @@
         "end": 10
       }
     ],
-    "seasons": [],
-    "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:30:38.736Z"
+    "seasons": [
+      {
+        "tmdbSeasonId": 68416,
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "overview": "Muitos meses após a guerra com um grupo rebelde de Inumanos, a equipe ainda está cambaleando.  Coulson está novamente tentando juntar as peças de sua organização antes reverenciada, enquanto também lida com a perda de sua mão.  Sua confidente e segunda em comando, a agente Melinda May, ainda não voltou de umas férias improvisadas com o ex-marido Andrew;  A superespiã mortal Bobbi Morse está se recuperando de sua tortura traumática nas mãos de Grant Ward;  Fitz está obcecado em descobrir a verdade por trás do misterioso desaparecimento de Simmons;  e todos estão em alerta máximo para o próximo movimento de Ward e Hydra.",
+        "poster": "/5F5C9gEUnxO9NuMyxTQn3LK9fPx.jpg",
+        "airDate": "2015-09-29",
+        "episodeStart": 1,
+        "episodeEnd": 10,
+        "episodes": [
+          {
+            "tmdbEpisodeId": 1085277,
+            "episodeNumber": 1,
+            "seasonNumber": 3,
+            "name": "Leis da Natureza",
+            "overview": "Graças à dispersão de um elemento químico, o surgimento de inumanos aumentou, causando sérias consequências. Enquanto isso, surge uma nova organização para cumprir o objetivo da \"extinta\" S.H.I.E.L.D.",
+            "runtime": 44,
+            "airDate": "2015-09-29",
+            "still": "/1P0eP5p1bwhlE83qy9IEkL8dCwy.jpg",
+            "vote": 7.7,
+            "voteCount": 60
+          },
+          {
+            "tmdbEpisodeId": 1085278,
+            "episodeNumber": 2,
+            "seasonNumber": 3,
+            "name": "Propósito da Máquina",
+            "overview": "Fitz e a equipe pedem a ajuda de alguém de Asgard a fim de descobrir os segredos do antigo monolito que \"engoliu\" a agente Simmons. Enquanto isso, May se vê em uma encruzilhada envolvendo sua vida pessoal e seu trabalho.",
+            "runtime": 43,
+            "airDate": "2015-10-06",
+            "still": "/xAFplFckAJpNNM5xi8foc4hQBNZ.jpg",
+            "vote": 7.8,
+            "voteCount": 59
+          },
+          {
+            "tmdbEpisodeId": 1109828,
+            "episodeNumber": 3,
+            "seasonNumber": 3,
+            "name": "Um Inumano Procurado",
+            "overview": "Daisy, Mack e Coulson tentam proteger Lincoln enquanto a equipe de Rosalind persegue o Inumano em sua missão para capturar pessoas com habilidades. Já Hunter prova que não existe uma linha que ele não cruzaria em sua vingança contra Ward e a Hidra.",
+            "runtime": 42,
+            "airDate": "2015-10-13",
+            "still": "/jNbTGZr1LtdVgZDIsnPfUCXLBW6.jpg",
+            "vote": 7.3,
+            "voteCount": 60
+          },
+          {
+            "tmdbEpisodeId": 1112975,
+            "episodeNumber": 4,
+            "seasonNumber": 3,
+            "name": "Conhecendo os seus Demônios",
+            "overview": "Coulson e sua equipe vão atrás do Inumano que está matando outros; May acha que a missão da Hunter para acabar com Ward está ficando muito pessoal.",
+            "runtime": 43,
+            "airDate": "2015-10-20",
+            "still": "/2tHTKnadLo0ozLcNGyFXJ9EOhvQ.jpg",
+            "vote": 7.7,
+            "voteCount": 59
+          },
+          {
+            "tmdbEpisodeId": 1117287,
+            "episodeNumber": 5,
+            "seasonNumber": 3,
+            "name": "4.722 Horas",
+            "overview": "Após seu resgate dramático de outro planeta, Simmons ainda lida com sua provação e revela como teve que lutar por sua vida naquele mundo perigoso.",
+            "runtime": 44,
+            "airDate": "2015-10-27",
+            "still": "/uiFzRLgg6Xox0boRV9bIZ012rEN.jpg",
+            "vote": 8.3,
+            "voteCount": 65
+          },
+          {
+            "tmdbEpisodeId": 1133154,
+            "episodeNumber": 6,
+            "seasonNumber": 3,
+            "name": "Escondido Entre Nós...",
+            "overview": "Os riscos ficam ainda maiores enquanto Hunter e May continuam indo atrás de Ward e da Hydra, e Daisy e Coulson começam a suspeitar que a ATCU pode estar escondendo um grande segredo da S.H.I.E.L.D.",
+            "runtime": 43,
+            "airDate": "2015-11-03",
+            "still": "/ihMfiBtCSlqfe0gdUY3cuJgwW5P.jpg",
+            "vote": 7.7,
+            "voteCount": 60
+          },
+          {
+            "tmdbEpisodeId": 1134492,
+            "episodeNumber": 7,
+            "seasonNumber": 3,
+            "name": "Teoria do Caos",
+            "overview": "Enquanto Daisy e a equipe lutam para proteger os Inumanos, a SHIELD descobre uma verdade chocante sobre um de seus maiores inimigos. Enquanto isso, Fitz ajuda Simmons a recuperar uma informação que pode levá-los de volta através do portal.",
+            "runtime": 44,
+            "airDate": "2015-11-10",
+            "still": "/6Ydnnge97ilgurECKJ2uLvEHtEn.jpg",
+            "vote": 7.8,
+            "voteCount": 58
+          },
+          {
+            "tmdbEpisodeId": 1134703,
+            "episodeNumber": 8,
+            "seasonNumber": 3,
+            "name": "Muitas Cabeças, Uma História",
+            "overview": "A equipe descobre verdades perigosas sobre a ATCU, e os planos de Ward para destruir a S.H.I.E.L.D. têm uma reviravolta.",
+            "runtime": 44,
+            "airDate": "2015-11-17",
+            "still": "/uxo5pIK6N9kS0fYsTUMvYziJQf5.jpg",
+            "vote": 8.2,
+            "voteCount": 57
+          },
+          {
+            "tmdbEpisodeId": 1137415,
+            "episodeNumber": 9,
+            "seasonNumber": 3,
+            "name": "Encerramento",
+            "overview": "A busca de Ward por vingança encurrala o time e Coulson prova que fará de tudo para acertar as contas.",
+            "runtime": 44,
+            "airDate": "2015-12-01",
+            "still": "/ejB2zryf5tLYrlsl2AthAelUCvO.jpg",
+            "vote": 8.1,
+            "voteCount": 60
+          },
+          {
+            "tmdbEpisodeId": 1142067,
+            "episodeNumber": 10,
+            "seasonNumber": 3,
+            "name": "Maveth",
+            "overview": "S.H.I.E.L.D. e HIDRA se enfrentam em uma batalha que mudará o mundo de Coulson para sempre. Enquanto Daisy e seu time de Inumanos lutam para manter a HIDRA sob controle, Coulson e Fitz assumem o risco final.",
+            "runtime": 43,
+            "airDate": "2015-12-08",
+            "still": "/sDFiKs9N8riEJrj1CFwzHPyFcJA.jpg",
+            "vote": 8.4,
+            "voteCount": 58
+          }
+        ]
+      }
+    ],
+    "totalEpisodes": 10,
+    "updatedAt": "2026-11-01T13:36:34.806Z"
   },
   "m035": {
     "tmdbId": 69088,
@@ -1888,7 +2010,7 @@
     ],
     "seasons": [],
     "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:30:39.146Z"
+    "updatedAt": "2026-11-01T13:36:34.941Z"
   },
   "m039": {
     "tmdbId": 69088,
@@ -1903,7 +2025,7 @@
     ],
     "seasons": [],
     "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:30:40.144Z"
+    "updatedAt": "2026-11-01T13:36:35.424Z"
   },
   "m041": {
     "tmdbId": 62127,
@@ -1934,8 +2056,8 @@
             "runtime": 57,
             "airDate": "2017-03-17",
             "still": "/mpssG2VDMgprnaE6xqGYFeGOSlo.jpg",
-            "vote": 6.545,
-            "voteCount": 89
+            "vote": 6.544,
+            "voteCount": 91
           },
           {
             "tmdbEpisodeId": 1271969,
@@ -1946,8 +2068,8 @@
             "runtime": 62,
             "airDate": "2017-03-17",
             "still": "/zEPiPE05CV7tAhzkjWxA2Zt9mJs.jpg",
-            "vote": 6.704,
-            "voteCount": 71
+            "vote": 6.712,
+            "voteCount": 73
           },
           {
             "tmdbEpisodeId": 1271970,
@@ -1958,8 +2080,8 @@
             "runtime": 60,
             "airDate": "2017-03-17",
             "still": "/pVf4U82dQ9ZGblZCpC8dtib9qKu.jpg",
-            "vote": 6.815,
-            "voteCount": 73
+            "vote": 6.807,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 1271971,
@@ -1970,8 +2092,8 @@
             "runtime": 54,
             "airDate": "2017-03-17",
             "still": "/zktjuVGtP7tnsdSqBKc7vvNiZLK.jpg",
-            "vote": 6.985,
-            "voteCount": 68
+            "vote": 6.986,
+            "voteCount": 70
           },
           {
             "tmdbEpisodeId": 1271972,
@@ -1983,7 +2105,7 @@
             "airDate": "2017-03-17",
             "still": "/79yXgnqmSV4iJsLlFUPUh7a8B3B.jpg",
             "vote": 7,
-            "voteCount": 67
+            "voteCount": 68
           },
           {
             "tmdbEpisodeId": 1271973,
@@ -1994,8 +2116,8 @@
             "runtime": 53,
             "airDate": "2017-03-17",
             "still": "/niNrZvfZBZYqvav8etUEscan8sN.jpg",
-            "vote": 7.108,
-            "voteCount": 65
+            "vote": 7.1,
+            "voteCount": 67
           },
           {
             "tmdbEpisodeId": 1271974,
@@ -2006,8 +2128,8 @@
             "runtime": 59,
             "airDate": "2017-03-17",
             "still": "/truFbrTeZ0PwoDwGglnE0pDcKX0.jpg",
-            "vote": 7.016,
-            "voteCount": 64
+            "vote": 7,
+            "voteCount": 66
           },
           {
             "tmdbEpisodeId": 1271975,
@@ -2018,8 +2140,8 @@
             "runtime": 55,
             "airDate": "2017-03-17",
             "still": "/2oTt0pMPdCAApBeYRCH3h553vFS.jpg",
-            "vote": 6.565,
-            "voteCount": 62
+            "vote": 6.6,
+            "voteCount": 64
           },
           {
             "tmdbEpisodeId": 1271976,
@@ -2031,7 +2153,7 @@
             "airDate": "2017-03-17",
             "still": "/pBuChPEkqvtbMtj1JvqtpsscqT1.jpg",
             "vote": 6.6,
-            "voteCount": 62
+            "voteCount": 64
           },
           {
             "tmdbEpisodeId": 1271977,
@@ -2042,8 +2164,8 @@
             "runtime": 57,
             "airDate": "2017-03-17",
             "still": "/6iadSp7foVr5bQIQCaBMiM1V2Jc.jpg",
-            "vote": 6.873,
-            "voteCount": 63
+            "vote": 6.9,
+            "voteCount": 65
           },
           {
             "tmdbEpisodeId": 1271978,
@@ -2054,8 +2176,8 @@
             "runtime": 53,
             "airDate": "2017-03-17",
             "still": "/5magsZsGBNa02oozfWxsOgGS24A.jpg",
-            "vote": 6.484,
-            "voteCount": 62
+            "vote": 6.5,
+            "voteCount": 64
           },
           {
             "tmdbEpisodeId": 1271979,
@@ -2067,7 +2189,7 @@
             "airDate": "2017-03-17",
             "still": "/a4Hl5UiGH12d4WEbuTIx144JXA6.jpg",
             "vote": 7,
-            "voteCount": 62
+            "voteCount": 64
           },
           {
             "tmdbEpisodeId": 1271980,
@@ -2078,14 +2200,14 @@
             "runtime": 54,
             "airDate": "2017-03-17",
             "still": "/3lo5nzjrzCSnQXcQD7YMJkUWO31.jpg",
-            "vote": 6.661,
-            "voteCount": 62
+            "vote": 6.7,
+            "voteCount": 64
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:40.882Z"
+    "updatedAt": "2026-11-01T13:36:35.740Z"
   },
   "m042": {
     "tmdbId": 62285,
@@ -2116,8 +2238,8 @@
             "runtime": 51,
             "airDate": "2017-08-18",
             "still": "/s20gwWFCgmfkDFXgQicU8s6qOS1.jpg",
-            "vote": 7.071,
-            "voteCount": 85
+            "vote": 7.1,
+            "voteCount": 88
           },
           {
             "tmdbEpisodeId": 1278477,
@@ -2128,8 +2250,8 @@
             "runtime": 44,
             "airDate": "2017-08-18",
             "still": "/2RsYOY8vgBwCvE007hYujuszeP4.jpg",
-            "vote": 7.25,
-            "voteCount": 80
+            "vote": 7.2,
+            "voteCount": 83
           },
           {
             "tmdbEpisodeId": 1336814,
@@ -2140,8 +2262,8 @@
             "runtime": 54,
             "airDate": "2017-08-18",
             "still": "/4FqFNc8RFWtG4nNMhVVhIxmgHWp.jpg",
-            "vote": 7.859,
-            "voteCount": 78
+            "vote": 7.9,
+            "voteCount": 81
           },
           {
             "tmdbEpisodeId": 1336815,
@@ -2152,8 +2274,8 @@
             "runtime": 44,
             "airDate": "2017-08-18",
             "still": "/7xMz8c9shcU9UzTENfBsjdJtcHy.jpg",
-            "vote": 7.547,
-            "voteCount": 75
+            "vote": 7.5,
+            "voteCount": 78
           },
           {
             "tmdbEpisodeId": 1336816,
@@ -2165,7 +2287,7 @@
             "airDate": "2017-08-18",
             "still": "/rQxUoevRVVGnmZzCwtLPSHI2sg2.jpg",
             "vote": 7.4,
-            "voteCount": 75
+            "voteCount": 78
           },
           {
             "tmdbEpisodeId": 1336817,
@@ -2176,8 +2298,8 @@
             "runtime": 51,
             "airDate": "2017-08-18",
             "still": "/eVYmdhKfl5St8x5BEeKe8XxtTTQ.jpg",
-            "vote": 7.563,
-            "voteCount": 71
+            "vote": 7.5,
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 1336818,
@@ -2188,8 +2310,8 @@
             "runtime": 45,
             "airDate": "2017-08-18",
             "still": "/12lgI9XxLG3ojwu1jOyJ7DipLGe.jpg",
-            "vote": 7.297,
-            "voteCount": 74
+            "vote": 7.2,
+            "voteCount": 77
           },
           {
             "tmdbEpisodeId": 1336819,
@@ -2200,14 +2322,14 @@
             "runtime": 55,
             "airDate": "2017-08-18",
             "still": "/tas7oLD4tfVfAKNakJ58VBSLHJQ.jpg",
-            "vote": 7.613,
-            "voteCount": 75
+            "vote": 7.5,
+            "voteCount": 78
           }
         ]
       }
     ],
     "totalEpisodes": 8,
-    "updatedAt": "2026-10-01T13:30:41.308Z"
+    "updatedAt": "2026-11-01T13:36:35.946Z"
   },
   "m043": {
     "tmdbId": 67178,
@@ -2239,7 +2361,7 @@
             "airDate": "2017-11-17",
             "still": "/9oeaQQZosQfaDdCO50yrrGtzT6W.jpg",
             "vote": 8.2,
-            "voteCount": 135
+            "voteCount": 139
           },
           {
             "tmdbEpisodeId": 1209319,
@@ -2251,7 +2373,7 @@
             "airDate": "2017-11-17",
             "still": "/3WqDv1WhOpvK6BuRKd7qeYQFebl.jpg",
             "vote": 7.8,
-            "voteCount": 105
+            "voteCount": 109
           },
           {
             "tmdbEpisodeId": 1209320,
@@ -2263,7 +2385,7 @@
             "airDate": "2017-11-17",
             "still": "/ojZxm7w5JqSuorpMMCO7r6cVcJq.jpg",
             "vote": 7.8,
-            "voteCount": 101
+            "voteCount": 105
           },
           {
             "tmdbEpisodeId": 1209321,
@@ -2274,8 +2396,8 @@
             "runtime": 50,
             "airDate": "2017-11-17",
             "still": "/cNOoPjfesk2rZimaeUdjRRJMj7B.jpg",
-            "vote": 7.7,
-            "voteCount": 99
+            "vote": 7.8,
+            "voteCount": 103
           },
           {
             "tmdbEpisodeId": 1209322,
@@ -2286,8 +2408,8 @@
             "runtime": 56,
             "airDate": "2017-11-17",
             "still": "/j2TrrxpvlWLQxvsL5vmNTJrszHf.jpg",
-            "vote": 7.6,
-            "voteCount": 100
+            "vote": 7.7,
+            "voteCount": 104
           },
           {
             "tmdbEpisodeId": 1209323,
@@ -2299,7 +2421,7 @@
             "airDate": "2017-11-17",
             "still": "/x2S3Hz4UYRIRH7BnIf42vIvhAq5.jpg",
             "vote": 7.5,
-            "voteCount": 96
+            "voteCount": 99
           },
           {
             "tmdbEpisodeId": 1209324,
@@ -2311,7 +2433,7 @@
             "airDate": "2017-11-17",
             "still": "/2ub5w7UIMbAY3Wymp9xCZ5EoMDZ.jpg",
             "vote": 7.9,
-            "voteCount": 93
+            "voteCount": 98
           },
           {
             "tmdbEpisodeId": 1209325,
@@ -2323,7 +2445,7 @@
             "airDate": "2017-11-17",
             "still": "/z42Ile4Z9sHcwQAJ1JTLLWWHXe3.jpg",
             "vote": 7.8,
-            "voteCount": 93
+            "voteCount": 98
           },
           {
             "tmdbEpisodeId": 1209326,
@@ -2335,7 +2457,7 @@
             "airDate": "2017-11-17",
             "still": "/dEjucDZbEq6nDPdxGffUTY9NyeB.jpg",
             "vote": 8.2,
-            "voteCount": 91
+            "voteCount": 96
           },
           {
             "tmdbEpisodeId": 1209327,
@@ -2346,8 +2468,8 @@
             "runtime": 50,
             "airDate": "2017-11-17",
             "still": "/oJdLFbtPUdZCtQjCWpgvIPdo039.jpg",
-            "vote": 8.3,
-            "voteCount": 94
+            "vote": 8.4,
+            "voteCount": 100
           },
           {
             "tmdbEpisodeId": 1209328,
@@ -2359,7 +2481,7 @@
             "airDate": "2017-11-17",
             "still": "/fguvXfTjGV9OdeKVBEHcOzZi6LQ.jpg",
             "vote": 8.2,
-            "voteCount": 94
+            "voteCount": 98
           },
           {
             "tmdbEpisodeId": 1209329,
@@ -2371,7 +2493,7 @@
             "airDate": "2017-11-17",
             "still": "/6yAx4vK6z5yrbyBa7iSKMZBgwDH.jpg",
             "vote": 8.5,
-            "voteCount": 98
+            "voteCount": 102
           },
           {
             "tmdbEpisodeId": 1209330,
@@ -2383,13 +2505,13 @@
             "airDate": "2017-11-17",
             "still": "/kbNSLedGPYoDPAVznsRoMEdvaMS.jpg",
             "vote": 8,
-            "voteCount": 93
+            "voteCount": 95
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:41.783Z"
+    "updatedAt": "2026-11-01T13:36:36.148Z"
   },
   "m045": {
     "tmdbId": 69088,
@@ -2404,7 +2526,7 @@
     ],
     "seasons": [],
     "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:30:42.228Z"
+    "updatedAt": "2026-11-01T13:36:36.365Z"
   },
   "m046": {
     "tmdbId": 69088,
@@ -2436,7 +2558,7 @@
             "airDate": "2016-12-13",
             "still": "/aMSFIzD3v4t6rGbmwsdEVcwEaJW.jpg",
             "vote": 6.8,
-            "voteCount": 12
+            "voteCount": 13
           },
           {
             "tmdbEpisodeId": 1247664,
@@ -2448,7 +2570,7 @@
             "airDate": "2016-12-13",
             "still": "/htOLq5o9IR7a84H3KcrwVZFeHxr.jpg",
             "vote": 6.8,
-            "voteCount": 12
+            "voteCount": 13
           },
           {
             "tmdbEpisodeId": 1247665,
@@ -2459,8 +2581,8 @@
             "runtime": 6,
             "airDate": "2016-12-13",
             "still": "/1GAJ2OuYZgHbkcUefoyzV0HaAbc.jpg",
-            "vote": 7.1,
-            "voteCount": 12
+            "vote": 7.077,
+            "voteCount": 13
           },
           {
             "tmdbEpisodeId": 1247666,
@@ -2471,8 +2593,8 @@
             "runtime": 5,
             "airDate": "2016-12-13",
             "still": "/AwukG9o5maRkX21YTZDuMnnL2B.jpg",
-            "vote": 6.8,
-            "voteCount": 12
+            "vote": 6.846,
+            "voteCount": 13
           },
           {
             "tmdbEpisodeId": 1247667,
@@ -2483,8 +2605,8 @@
             "runtime": 4,
             "airDate": "2016-12-13",
             "still": "/uYBlDgf7lHgoNmjZ6qebLbVs1wH.jpg",
-            "vote": 6.7,
-            "voteCount": 12
+            "vote": 6.692,
+            "voteCount": 13
           },
           {
             "tmdbEpisodeId": 1247668,
@@ -2495,14 +2617,14 @@
             "runtime": 4,
             "airDate": "2016-12-13",
             "still": "/urvNwKiT22zCv0DPBAhw3qCPy2F.jpg",
-            "vote": 6.9,
-            "voteCount": 12
+            "vote": 6.923,
+            "voteCount": 13
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:42.570Z"
+    "updatedAt": "2026-11-01T13:36:36.559Z"
   },
   "m047": {
     "tmdbId": 1403,
@@ -2536,7 +2658,7 @@
             "airDate": "2017-01-10",
             "still": "/wV1SEHFumP1JqA0MkCymp6oxcfP.jpg",
             "vote": 7.8,
-            "voteCount": 47
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1251661,
@@ -2547,8 +2669,8 @@
             "runtime": 44,
             "airDate": "2017-01-17",
             "still": "/17BHUo07w0CcgYU5U05yuafu5il.jpg",
-            "vote": 7.681,
-            "voteCount": 47
+            "vote": 7.72,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1252726,
@@ -2559,8 +2681,8 @@
             "runtime": 44,
             "airDate": "2017-01-24",
             "still": "/AbjNrMXLJZW08CMgCbb4Hh6dYX4.jpg",
-            "vote": 7.6,
-            "voteCount": 45
+            "vote": 7.688,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1252728,
@@ -2571,8 +2693,8 @@
             "runtime": 44,
             "airDate": "2017-01-31",
             "still": "/gnZKKsBZICeNEGUotnjKxD79Zck.jpg",
-            "vote": 7.3,
-            "voteCount": 47
+            "vote": 7.36,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1252729,
@@ -2583,8 +2705,8 @@
             "runtime": 44,
             "airDate": "2017-02-07",
             "still": "/5Wpk9n2p4aNnQyluFmlwvhjEd6u.jpg",
-            "vote": 7.5,
-            "voteCount": 46
+            "vote": 7.531,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1252731,
@@ -2595,8 +2717,8 @@
             "runtime": 44,
             "airDate": "2017-02-14",
             "still": "/oxuPvQUSoz9WdyhQP9OmMRagAla.jpg",
-            "vote": 7.8,
-            "voteCount": 48
+            "vote": 7.765,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1265156,
@@ -2607,8 +2729,8 @@
             "runtime": 44,
             "airDate": "2017-02-21",
             "still": "/ne8HjEI78M76ss4IT9CCN0YYCKq.jpg",
-            "vote": 8.582,
-            "voteCount": 55
+            "vote": 8.603,
+            "voteCount": 58
           },
           {
             "tmdbEpisodeId": 1275764,
@@ -2619,8 +2741,8 @@
             "runtime": 44,
             "airDate": "2017-04-04",
             "still": "/4Jx8jFi2ktUN7JnK241Lfxa9hAA.jpg",
-            "vote": 8.224,
-            "voteCount": 49
+            "vote": 8.235,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1298641,
@@ -2631,8 +2753,8 @@
             "runtime": 44,
             "airDate": "2017-04-11",
             "still": "/dezSHDhYkcELCokuJrodGiWGlOj.jpg",
-            "vote": 8.125,
-            "voteCount": 48
+            "vote": 8.157,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1298642,
@@ -2643,8 +2765,8 @@
             "runtime": 44,
             "airDate": "2017-04-18",
             "still": "/ghV30AN3fXLyoJNJA6SVw0tj5du.jpg",
-            "vote": 8.25,
-            "voteCount": 48
+            "vote": 8.275,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1302044,
@@ -2655,8 +2777,8 @@
             "runtime": 44,
             "airDate": "2017-04-25",
             "still": "/hQobjT6HTH2IWudF0VU6YrG03TS.jpg",
-            "vote": 8.042,
-            "voteCount": 48
+            "vote": 8.1,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1304542,
@@ -2667,8 +2789,8 @@
             "runtime": 43,
             "airDate": "2017-05-02",
             "still": "/kzme3TmWPS7OqK1aFXw8fFIQZeA.jpg",
-            "vote": 8.367,
-            "voteCount": 49
+            "vote": 8.4,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1310650,
@@ -2679,8 +2801,8 @@
             "runtime": 44,
             "airDate": "2017-05-09",
             "still": "/q9lYYFeTx7coNawd3YymCTie0cJ.jpg",
-            "vote": 8.375,
-            "voteCount": 48
+            "vote": 8.4,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1310651,
@@ -2691,14 +2813,14 @@
             "runtime": 40,
             "airDate": "2017-05-16",
             "still": "/si1rzZskavyY6jSedZCtqq5AdU5.jpg",
-            "vote": 8.213,
-            "voteCount": 47
+            "vote": 8.2,
+            "voteCount": 48
           }
         ]
       }
     ],
     "totalEpisodes": 14,
-    "updatedAt": "2026-10-01T13:30:42.914Z"
+    "updatedAt": "2026-11-01T13:36:36.755Z"
   },
   "m048": {
     "tmdbId": 38472,
@@ -2729,8 +2851,8 @@
             "runtime": 56,
             "airDate": "2018-03-08",
             "still": "/xgjcf62NYV7VzIYHJ5VlznbrWei.jpg",
-            "vote": 7,
-            "voteCount": 75
+            "vote": 7.1,
+            "voteCount": 77
           },
           {
             "tmdbEpisodeId": 1437006,
@@ -2742,7 +2864,7 @@
             "airDate": "2018-03-08",
             "still": "/x10ClXeE0EHde24MhdczxRmFPgA.jpg",
             "vote": 7,
-            "voteCount": 71
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 1437007,
@@ -2753,8 +2875,8 @@
             "runtime": 50,
             "airDate": "2018-03-08",
             "still": "/8ZMOfOzv50HBXJRCuMSlupalSSq.jpg",
-            "vote": 7.1,
-            "voteCount": 68
+            "vote": 7.2,
+            "voteCount": 70
           },
           {
             "tmdbEpisodeId": 1437008,
@@ -2766,7 +2888,7 @@
             "airDate": "2018-03-08",
             "still": "/ppf0YxTYXyPc69jNrO4xGPHUTqk.jpg",
             "vote": 7,
-            "voteCount": 63
+            "voteCount": 65
           },
           {
             "tmdbEpisodeId": 1437010,
@@ -2778,7 +2900,7 @@
             "airDate": "2018-03-08",
             "still": "/5vAtVGWZ4M5J5PB7xdSMDmD0hrC.jpg",
             "vote": 7.1,
-            "voteCount": 66
+            "voteCount": 68
           },
           {
             "tmdbEpisodeId": 1437011,
@@ -2790,7 +2912,7 @@
             "airDate": "2018-03-08",
             "still": "/aonSJhjqP9KBqN1h9sB2uosNMk9.jpg",
             "vote": 7.1,
-            "voteCount": 65
+            "voteCount": 67
           },
           {
             "tmdbEpisodeId": 1437012,
@@ -2802,7 +2924,7 @@
             "airDate": "2018-03-08",
             "still": "/vs7y0higBxwtF4DINrNjBeKCvnr.jpg",
             "vote": 7.7,
-            "voteCount": 66
+            "voteCount": 68
           },
           {
             "tmdbEpisodeId": 1437014,
@@ -2814,7 +2936,7 @@
             "airDate": "2018-03-08",
             "still": "/9dudsdIIzO0prZqQUgc7mqwBHxe.jpg",
             "vote": 7.1,
-            "voteCount": 62
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1437015,
@@ -2826,7 +2948,7 @@
             "airDate": "2018-03-08",
             "still": "/o0mFBCyMHGPYQCX3gIaomjXnlI6.jpg",
             "vote": 7.1,
-            "voteCount": 61
+            "voteCount": 62
           },
           {
             "tmdbEpisodeId": 1437016,
@@ -2837,8 +2959,8 @@
             "runtime": 49,
             "airDate": "2018-03-08",
             "still": "/lMUnNsQEA0VbpMYKc2SLMBZYf6c.jpg",
-            "vote": 7.1,
-            "voteCount": 62
+            "vote": 7.2,
+            "voteCount": 65
           },
           {
             "tmdbEpisodeId": 1437017,
@@ -2850,7 +2972,7 @@
             "airDate": "2018-03-08",
             "still": "/nt4LIayfHu7UPoGlfDLeVoBAqYi.jpg",
             "vote": 7.5,
-            "voteCount": 60
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1437019,
@@ -2861,8 +2983,8 @@
             "runtime": 53,
             "airDate": "2018-03-08",
             "still": "/9aSjZwSC6a16UldTdNLNjEgeU9X.jpg",
-            "vote": 7.2,
-            "voteCount": 61
+            "vote": 7.3,
+            "voteCount": 64
           },
           {
             "tmdbEpisodeId": 1437020,
@@ -2873,14 +2995,14 @@
             "runtime": 52,
             "airDate": "2018-03-08",
             "still": "/ko7tbYxiiDcWZcbmBfdPoPqS4Qy.jpg",
-            "vote": 7.1,
-            "voteCount": 60
+            "vote": 7.2,
+            "voteCount": 63
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:43.375Z"
+    "updatedAt": "2026-11-01T13:36:36.967Z"
   },
   "m049": {
     "tmdbId": 68716,
@@ -2911,8 +3033,8 @@
             "runtime": 42,
             "airDate": "2017-09-29",
             "still": "/576lrXh7LXAMkcqxyhVWhd1v8VZ.jpg",
-            "vote": 5.3,
-            "voteCount": 39
+            "vote": 5.442,
+            "voteCount": 43
           },
           {
             "tmdbEpisodeId": 1332116,
@@ -2923,8 +3045,8 @@
             "runtime": 42,
             "airDate": "2017-09-29",
             "still": "/sPTB7AczkBQlzI5PJIJCSaPd35h.jpg",
-            "vote": 5.5,
-            "voteCount": 32
+            "vote": 5.694,
+            "voteCount": 36
           },
           {
             "tmdbEpisodeId": 1367789,
@@ -2935,8 +3057,8 @@
             "runtime": 42,
             "airDate": "2017-10-06",
             "still": "/uBePrF9AyR3AkysXOvjQoLqPP1y.jpg",
-            "vote": 6,
-            "voteCount": 29
+            "vote": 6.061,
+            "voteCount": 33
           },
           {
             "tmdbEpisodeId": 1367945,
@@ -2947,8 +3069,8 @@
             "runtime": 41,
             "airDate": "2017-10-13",
             "still": "/5dCGgtsOKY8ligyzq3MFLtqdgaT.jpg",
-            "vote": 6,
-            "voteCount": 26
+            "vote": 6.034,
+            "voteCount": 29
           },
           {
             "tmdbEpisodeId": 1367946,
@@ -2959,8 +3081,8 @@
             "runtime": 43,
             "airDate": "2017-10-20",
             "still": "/mCkLvygSod01GUTdNjgRK6jKyGx.jpg",
-            "vote": 6.1,
-            "voteCount": 25
+            "vote": 6.172,
+            "voteCount": 29
           },
           {
             "tmdbEpisodeId": 1367947,
@@ -2971,8 +3093,8 @@
             "runtime": 42,
             "airDate": "2017-10-27",
             "still": "/aE5UpjDkA4GM3IA1qfX7HiIDsAC.jpg",
-            "vote": 5.9,
-            "voteCount": 25
+            "vote": 6,
+            "voteCount": 29
           },
           {
             "tmdbEpisodeId": 1367948,
@@ -2983,8 +3105,8 @@
             "runtime": 42,
             "airDate": "2017-11-03",
             "still": "/uxj2L0ENZxUGFBv3QwSOgIayh8c.jpg",
-            "vote": 6.1,
-            "voteCount": 23
+            "vote": 6.148,
+            "voteCount": 27
           },
           {
             "tmdbEpisodeId": 1367949,
@@ -2995,14 +3117,14 @@
             "runtime": 42,
             "airDate": "2017-11-10",
             "still": "/fCuB4fMvTMawi0Q2UnPMsbHkiez.jpg",
-            "vote": 6.1,
-            "voteCount": 22
+            "vote": 6.2,
+            "voteCount": 25
           }
         ]
       }
     ],
     "totalEpisodes": 8,
-    "updatedAt": "2026-10-01T13:30:43.888Z"
+    "updatedAt": "2026-11-01T13:36:37.176Z"
   },
   "m050": {
     "tmdbId": 62126,
@@ -3033,8 +3155,8 @@
             "runtime": 56,
             "airDate": "2018-06-22",
             "still": "/uVOrejlyYrIhLLF1vZrNqG7bLKj.jpg",
-            "vote": 6.386,
-            "voteCount": 57
+            "vote": 6.4,
+            "voteCount": 59
           },
           {
             "tmdbEpisodeId": 1455056,
@@ -3046,7 +3168,7 @@
             "airDate": "2018-06-22",
             "still": "/4Tj6NmRBrKSym8ISe1Xib3XFSsZ.jpg",
             "vote": 6.5,
-            "voteCount": 54
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 1455057,
@@ -3057,8 +3179,8 @@
             "runtime": 60,
             "airDate": "2018-06-22",
             "still": "/yjKaFGCua5gzbDeO37zhlBcAmN2.jpg",
-            "vote": 6.529,
-            "voteCount": 51
+            "vote": 6.6,
+            "voteCount": 53
           },
           {
             "tmdbEpisodeId": 1455058,
@@ -3069,8 +3191,8 @@
             "runtime": 54,
             "airDate": "2018-06-22",
             "still": "/iTHeMwTG6wfcO2cGKSPWyLQddLl.jpg",
-            "vote": 6.81,
-            "voteCount": 50
+            "vote": 6.8,
+            "voteCount": 52
           },
           {
             "tmdbEpisodeId": 1455059,
@@ -3081,8 +3203,8 @@
             "runtime": 58,
             "airDate": "2018-06-22",
             "still": "/s7yp5wiQySv897uAoITOqP2h4hU.jpg",
-            "vote": 6.915,
-            "voteCount": 47
+            "vote": 6.9,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1455060,
@@ -3093,8 +3215,8 @@
             "runtime": 64,
             "airDate": "2018-06-22",
             "still": "/cXzVi9e4k95wIFv8kydlpPQtTre.jpg",
-            "vote": 7.102,
-            "voteCount": 49
+            "vote": 7.1,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1455061,
@@ -3106,7 +3228,7 @@
             "airDate": "2018-06-22",
             "still": "/9CUUetCPNg42npdzirQKh7T3Nzx.jpg",
             "vote": 7,
-            "voteCount": 47
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1455062,
@@ -3117,8 +3239,8 @@
             "runtime": 55,
             "airDate": "2018-06-22",
             "still": "/t9u1gDrgs4kkzIBP4bYNTJLgQiw.jpg",
-            "vote": 6.792,
-            "voteCount": 48
+            "vote": 6.8,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1455063,
@@ -3129,8 +3251,8 @@
             "runtime": 59,
             "airDate": "2018-06-22",
             "still": "/x3o4zvwUWF9HyzIT3FSd75arNwL.jpg",
-            "vote": 7.25,
-            "voteCount": 48
+            "vote": 7.2,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1455064,
@@ -3141,8 +3263,8 @@
             "runtime": 59,
             "airDate": "2018-06-22",
             "still": "/yvZ4yBwq8f0lyyzvBSI9qMFGg4Y.jpg",
-            "vote": 7.667,
-            "voteCount": 48
+            "vote": 7.7,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1455065,
@@ -3153,8 +3275,8 @@
             "runtime": 56,
             "airDate": "2018-06-22",
             "still": "/4cGOyAV1oDm32hAI2eUkYsK0gSn.jpg",
-            "vote": 7.044,
-            "voteCount": 45
+            "vote": 7.1,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 1455066,
@@ -3165,8 +3287,8 @@
             "runtime": 62,
             "airDate": "2018-06-22",
             "still": "/zX5QibF7uhO15tfOTGA0XcOt3VM.jpg",
-            "vote": 7.283,
-            "voteCount": 46
+            "vote": 7.3,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1455067,
@@ -3177,14 +3299,14 @@
             "runtime": 69,
             "airDate": "2018-06-22",
             "still": "/dWqB2rTdqzoHT7OhZljBfMd0n2Y.jpg",
-            "vote": 7.188,
-            "voteCount": 48
+            "vote": 7.2,
+            "voteCount": 50
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:44.377Z"
+    "updatedAt": "2026-11-01T13:36:37.387Z"
   },
   "m051": {
     "tmdbId": 62127,
@@ -3216,7 +3338,7 @@
             "airDate": "2018-09-07",
             "still": "/6ZPAI5mAwtO6yHnvKQuzEbhsyE0.jpg",
             "vote": 6.5,
-            "voteCount": 58
+            "voteCount": 60
           },
           {
             "tmdbEpisodeId": 1534349,
@@ -3228,7 +3350,7 @@
             "airDate": "2018-09-07",
             "still": "/gKfaH9k4V8zNiUlQjPxXqC9NGwO.jpg",
             "vote": 6.4,
-            "voteCount": 55
+            "voteCount": 57
           },
           {
             "tmdbEpisodeId": 1534350,
@@ -3240,7 +3362,7 @@
             "airDate": "2018-09-07",
             "still": "/4oU8U9WjCDOteyQRFrIIO0bKIOF.jpg",
             "vote": 6.6,
-            "voteCount": 55
+            "voteCount": 57
           },
           {
             "tmdbEpisodeId": 1534351,
@@ -3251,8 +3373,8 @@
             "runtime": 53,
             "airDate": "2018-09-07",
             "still": "/pEWZHsCdfpJopj78uj8KXc7fHz8.jpg",
-            "vote": 6.6,
-            "voteCount": 54
+            "vote": 6.7,
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 1534352,
@@ -3264,7 +3386,7 @@
             "airDate": "2018-09-07",
             "still": "/bxfItugMfRo59nzO6EZIN4uizIH.jpg",
             "vote": 6.6,
-            "voteCount": 54
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 1534353,
@@ -3276,7 +3398,7 @@
             "airDate": "2018-09-07",
             "still": "/beFF27yAiSy78QsqwND7ioNGC6e.jpg",
             "vote": 6.8,
-            "voteCount": 53
+            "voteCount": 55
           },
           {
             "tmdbEpisodeId": 1534354,
@@ -3288,7 +3410,7 @@
             "airDate": "2018-09-07",
             "still": "/fLPjws1s6UTgdJmRmXHr3g1etQK.jpg",
             "vote": 6.4,
-            "voteCount": 54
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 1534355,
@@ -3300,7 +3422,7 @@
             "airDate": "2018-09-07",
             "still": "/6jI6H2a4jzPdFK161lONLDAsFt7.jpg",
             "vote": 6.6,
-            "voteCount": 52
+            "voteCount": 54
           },
           {
             "tmdbEpisodeId": 1534356,
@@ -3312,7 +3434,7 @@
             "airDate": "2018-09-07",
             "still": "/2JyXgyz22si3Ub1H6iSx0xnHRar.jpg",
             "vote": 6.8,
-            "voteCount": 52
+            "voteCount": 54
           },
           {
             "tmdbEpisodeId": 1534357,
@@ -3324,195 +3446,26 @@
             "airDate": "2018-09-07",
             "still": "/aV32cXbvB44RKgNNec0dwQ5CQP4.jpg",
             "vote": 6.6,
-            "voteCount": 53
+            "voteCount": 55
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:30:44.848Z"
+    "updatedAt": "2026-11-01T13:36:37.601Z"
   },
   "m052": {
-    "tmdbId": 61889,
-    "title": "Marvel - Demolidor",
+    "tmdbId": 202555,
+    "title": "Demolidor: Renascido",
     "sourceTitle": "Demolidor — T3",
     "requestedSeasons": [
       {
         "seasonNumber": 3
       }
     ],
-    "seasons": [
-      {
-        "tmdbSeasonId": 109592,
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "overview": "Com Wilson Fisk recuperando poder, Matt Murdock ressurge do caos em que se transformou sua vida preparado para fazer o que for preciso para proteger Hell's Kitchen.",
-        "poster": "/x7zUHG5cko4ZXQO2209Qc2aoyrc.jpg",
-        "airDate": "2018-10-19",
-        "episodeStart": 1,
-        "episodeEnd": 13,
-        "episodes": [
-          {
-            "tmdbEpisodeId": 1575105,
-            "episodeNumber": 1,
-            "seasonNumber": 3,
-            "name": "Ressurreição",
-            "overview": "Abalado física e espiritualmente, Matt repensa seu propósito e lugar em Hell's Kitchen. Enquanto isso, Fisk, detrás das grades, põe um plano em ação.",
-            "runtime": 54,
-            "airDate": "2018-10-19",
-            "still": "/a8ubHiV0KLQZL5ck24wAq1Z2kaK.jpg",
-            "vote": 7.716,
-            "voteCount": 102
-          },
-          {
-            "tmdbEpisodeId": 1597865,
-            "episodeNumber": 2,
-            "seasonNumber": 3,
-            "name": "Por Favor",
-            "overview": "Sofrendo ao pensar na vida que abandonou, Matt sofre uma crise de fé. Um acordo entre Fisk e o FBI transforma Matt em alvo.",
-            "runtime": 50,
-            "airDate": "2018-10-19",
-            "still": "/xDi2XhcZeR7sQ0mj4Kc9kJRDKRf.jpg",
-            "vote": 7.781,
-            "voteCount": 96
-          },
-          {
-            "tmdbEpisodeId": 1597866,
-            "episodeNumber": 3,
-            "seasonNumber": 3,
-            "name": "Punição Divina",
-            "overview": "A nova vida de Fisk provoca revolta pública, e Matt tem de decidir até onde está disposto a ir para consertar isso. A mira de Dex entra em foco.",
-            "runtime": 50,
-            "airDate": "2018-10-19",
-            "still": "/t1PR5lkRUVDofQtlU8G8HYXqKCJ.jpg",
-            "vote": 7.872,
-            "voteCount": 94
-          },
-          {
-            "tmdbEpisodeId": 1597867,
-            "episodeNumber": 4,
-            "seasonNumber": 3,
-            "name": "Ponto Cego",
-            "overview": "Enquanto Matt se infiltra numa prisão para descobrir mais sobre os albaneses, Fisk coloca Dex na mira. Foggy chega ao limite e parte para a ofensiva.",
-            "runtime": 55,
-            "airDate": "2018-10-19",
-            "still": "/hqf1LreR6RxT3dJHus2Eg16jzt6.jpg",
-            "vote": 8.467,
-            "voteCount": 105
-          },
-          {
-            "tmdbEpisodeId": 1597868,
-            "episodeNumber": 5,
-            "seasonNumber": 3,
-            "name": "O Jogo Perfeito",
-            "overview": "Para conter a revolta com sua libertação, Fisk serve como bode expiatório para o FBI. Dex perde o compasso ao encontrar uma mulher de seu passado.",
-            "runtime": 50,
-            "airDate": "2018-10-19",
-            "still": "/2k9MhVEUoKWXOyoVb4QMigqQoQY.jpg",
-            "vote": 8.032,
-            "voteCount": 93
-          },
-          {
-            "tmdbEpisodeId": 1597869,
-            "episodeNumber": 6,
-            "seasonNumber": 3,
-            "name": "Velho Conhecido",
-            "overview": "Levado ao limite, Dex perde o controle, e Fisk lhe oferece uma chance de recuperação. Karen concorda em ajudar Matt, mas com uma condição.",
-            "runtime": 55,
-            "airDate": "2018-10-19",
-            "still": "/8QLFwUfzSJWEDnld4qWAIsu89xL.jpg",
-            "vote": 8.531,
-            "voteCount": 96
-          },
-          {
-            "tmdbEpisodeId": 1597870,
-            "episodeNumber": 7,
-            "seasonNumber": 3,
-            "name": "Consequências",
-            "overview": "A imprensa culpa o Demolidor após o ataque ao Bulletin. O agente Nadeem suspeita que o FBI tenha pago um preço alto demais pela cooperação de Fisk.",
-            "runtime": 50,
-            "airDate": "2018-10-19",
-            "still": "/k0AAm6dIHTtIqs5fgwIJzsxlZMC.jpg",
-            "vote": 7.882,
-            "voteCount": 93
-          },
-          {
-            "tmdbEpisodeId": 1597871,
-            "episodeNumber": 8,
-            "seasonNumber": 3,
-            "name": "Andar de Cima, Andar de Baixo",
-            "overview": "Desesperado, Dex busca ajuda. Matt faz uma aliança complicada com o agente Nadeem. Karen arquiteta um plano perigoso para provocar Fisk.",
-            "runtime": 51,
-            "airDate": "2018-10-19",
-            "still": "/81XT2xiJcJPC0uxxNGzQVU1Tq1a.jpg",
-            "vote": 8.283,
-            "voteCount": 92
-          },
-          {
-            "tmdbEpisodeId": 1597872,
-            "episodeNumber": 9,
-            "seasonNumber": 3,
-            "name": "Revelações",
-            "overview": "O frágil mundo de Matt desmorona quando ele descobre uma verdade terrível. Karen corre por sua vida. Nadeem descobre até onde vai a influência de Fisk.",
-            "runtime": 54,
-            "airDate": "2018-10-19",
-            "still": "/24rOzIkfvyUUkIXmo5L9rdnT3Gd.jpg",
-            "vote": 8.211,
-            "voteCount": 95
-          },
-          {
-            "tmdbEpisodeId": 1597873,
-            "episodeNumber": 10,
-            "seasonNumber": 3,
-            "name": "Karen",
-            "overview": "Caçada por Fisk e assombrada pelos erros do passado, Karen busca refúgio na igreja. Matt finalmente tem sua chance, e Dex avança para o ataque.",
-            "runtime": 47,
-            "airDate": "2018-10-19",
-            "still": "/kKnogTTQPwBb39nSX5ONeW5UUhC.jpg",
-            "vote": 7.768,
-            "voteCount": 95
-          },
-          {
-            "tmdbEpisodeId": 1597874,
-            "episodeNumber": 11,
-            "seasonNumber": 3,
-            "name": "Encontro de Amigos",
-            "overview": "Dex tenta derrubar seu alvo. A consciência de Nadeem entra no jogo. Fisk quer recuperar um presente de Vanessa confiscado quando esteve preso.",
-            "runtime": 50,
-            "airDate": "2018-10-19",
-            "still": "/sNCbkPH2lJMrI0ipimLqPLO9YtY.jpg",
-            "vote": 8.269,
-            "voteCount": 93
-          },
-          {
-            "tmdbEpisodeId": 1597875,
-            "episodeNumber": 12,
-            "seasonNumber": 3,
-            "name": "Última Chance",
-            "overview": "O tão esperado reencontro de Fisk não sai como planejado. Nelson & Murdock aceitam um novo cliente que tem informações-chave sobre o Rei do Crime.",
-            "runtime": 56,
-            "airDate": "2018-10-19",
-            "still": "/6uQuqRg0SST95sLcU3DiWwqd9vq.jpg",
-            "vote": 8.337,
-            "voteCount": 95
-          },
-          {
-            "tmdbEpisodeId": 1597876,
-            "episodeNumber": 13,
-            "seasonNumber": 3,
-            "name": "Um Novo Guardanapo",
-            "overview": "No último episódio da temporada, Matt se prepara para cruzar seu limite, enquanto Dax se torna mais perigoso que nunca e Fisk avança para o xeque-mate.",
-            "runtime": 54,
-            "airDate": "2018-10-19",
-            "still": "/kgl4agusHzT9mvGrm7W6s7FDFXL.jpg",
-            "vote": 8.604,
-            "voteCount": 96
-          }
-        ]
-      }
-    ],
-    "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:45.227Z"
+    "seasons": [],
+    "totalEpisodes": 0,
+    "updatedAt": "2026-11-01T13:36:37.739Z"
   },
   "m053": {
     "tmdbId": 67178,
@@ -3544,7 +3497,7 @@
             "airDate": "2019-01-18",
             "still": "/p6b8Au2By66QENIUrmnc4tqydlN.jpg",
             "vote": 8.3,
-            "voteCount": 77
+            "voteCount": 80
           },
           {
             "tmdbEpisodeId": 1675728,
@@ -3555,8 +3508,8 @@
             "runtime": 54,
             "airDate": "2019-01-18",
             "still": "/lDfOgz7tVzEFTssD07u8t95TuQ9.jpg",
-            "vote": 7.7,
-            "voteCount": 72
+            "vote": 7.8,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 1675729,
@@ -3567,8 +3520,8 @@
             "runtime": 51,
             "airDate": "2019-01-18",
             "still": "/sTqiA7ye1rGJKlZsNZdqRulaGtL.jpg",
-            "vote": 8.2,
-            "voteCount": 74
+            "vote": 8.1,
+            "voteCount": 77
           },
           {
             "tmdbEpisodeId": 1675730,
@@ -3580,7 +3533,7 @@
             "airDate": "2019-01-18",
             "still": "/tgGG2XChpNswv86Of74VcIqSrpz.jpg",
             "vote": 7.5,
-            "voteCount": 69
+            "voteCount": 71
           },
           {
             "tmdbEpisodeId": 1675731,
@@ -3591,8 +3544,8 @@
             "runtime": 51,
             "airDate": "2019-01-18",
             "still": "/75Z9dLKERPNbR0v3niEDAoFbGp5.jpg",
-            "vote": 7.841,
-            "voteCount": 69
+            "vote": 7.8,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 1675732,
@@ -3603,8 +3556,8 @@
             "runtime": 56,
             "airDate": "2019-01-18",
             "still": "/2YnR28mHdFmPyvpflBRpPDEaNk6.jpg",
-            "vote": 7.647,
-            "voteCount": 68
+            "vote": 7.7,
+            "voteCount": 71
           },
           {
             "tmdbEpisodeId": 1675733,
@@ -3615,8 +3568,8 @@
             "runtime": 51,
             "airDate": "2019-01-18",
             "still": "/9gy9UYX2qi28zOcZ014XCv34Elx.jpg",
-            "vote": 7.814,
-            "voteCount": 70
+            "vote": 7.8,
+            "voteCount": 73
           },
           {
             "tmdbEpisodeId": 1675734,
@@ -3627,8 +3580,8 @@
             "runtime": 48,
             "airDate": "2019-01-18",
             "still": "/pxAQpGT7dC4iUqO9zrSCXiGpjQP.jpg",
-            "vote": 7.739,
-            "voteCount": 69
+            "vote": 7.8,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 1675735,
@@ -3639,8 +3592,8 @@
             "runtime": 57,
             "airDate": "2019-01-18",
             "still": "/7gtOkfTTH7cNmAd5UAV9iwfMzZF.jpg",
-            "vote": 7.662,
-            "voteCount": 71
+            "vote": 7.7,
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 1675736,
@@ -3651,8 +3604,8 @@
             "runtime": 47,
             "airDate": "2019-01-18",
             "still": "/1EU6IbVLxK0GzNTykIumaYBnc8M.jpg",
-            "vote": 8.014,
-            "voteCount": 72
+            "vote": 8,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 1675737,
@@ -3663,8 +3616,8 @@
             "runtime": 54,
             "airDate": "2019-01-18",
             "still": "/1jBcIeAyKftgDYIhNZsZXEFbik2.jpg",
-            "vote": 7.809,
-            "voteCount": 68
+            "vote": 7.8,
+            "voteCount": 71
           },
           {
             "tmdbEpisodeId": 1675738,
@@ -3676,7 +3629,7 @@
             "airDate": "2019-01-18",
             "still": "/iVCBLb45TLOXi1Pl3pT6YvaiK5Y.jpg",
             "vote": 8.2,
-            "voteCount": 67
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 1675739,
@@ -3688,13 +3641,13 @@
             "airDate": "2019-01-18",
             "still": "/oqu7NwokmhEQRCplas6wixHJ9H2.jpg",
             "vote": 8.1,
-            "voteCount": 72
+            "voteCount": 75
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:45.720Z"
+    "updatedAt": "2026-11-01T13:36:37.961Z"
   },
   "m054": {
     "tmdbId": 38472,
@@ -3725,8 +3678,8 @@
             "runtime": 52,
             "airDate": "2019-06-14",
             "still": "/bGRr8LtxOUBuEmFwmNRn4bjXpct.jpg",
-            "vote": 7.1,
-            "voteCount": 48
+            "vote": 7.2,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1816872,
@@ -3738,7 +3691,7 @@
             "airDate": "2019-06-14",
             "still": "/qJYl4y9cw2XDNxMCfA3PpQXtmA0.jpg",
             "vote": 6.9,
-            "voteCount": 46
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1816873,
@@ -3749,8 +3702,8 @@
             "runtime": 56,
             "airDate": "2019-06-14",
             "still": "/r5rBNeshfKfoKfpR0eCYWPqKLu4.jpg",
-            "vote": 6.8,
-            "voteCount": 47
+            "vote": 6.9,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1816874,
@@ -3761,8 +3714,8 @@
             "runtime": 46,
             "airDate": "2019-06-14",
             "still": "/wyCyvaDXpTcwHablHvFbBboJgV.jpg",
-            "vote": 6.854,
-            "voteCount": 48
+            "vote": 6.9,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1816875,
@@ -3773,8 +3726,8 @@
             "runtime": 53,
             "airDate": "2019-06-14",
             "still": "/7HuZp5fTLB7KKn31X6CchRAem8T.jpg",
-            "vote": 6.958,
-            "voteCount": 48
+            "vote": 7,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1816876,
@@ -3785,8 +3738,8 @@
             "runtime": 53,
             "airDate": "2019-06-14",
             "still": "/sOWVOQEpJl2Ni9zcoBYf6he4bHn.jpg",
-            "vote": 6.913,
-            "voteCount": 46
+            "vote": 7,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1816877,
@@ -3797,8 +3750,8 @@
             "runtime": 50,
             "airDate": "2019-06-14",
             "still": "/lydKt9Ui0tyaiL44B7cKZYpqbaw.jpg",
-            "vote": 7.152,
-            "voteCount": 46
+            "vote": 7.2,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1816878,
@@ -3809,8 +3762,8 @@
             "runtime": 44,
             "airDate": "2019-06-14",
             "still": "/1gLBHmY3u5RVsML4fkIvgZZxzkc.jpg",
-            "vote": 7.391,
-            "voteCount": 46
+            "vote": 7.4,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1816879,
@@ -3821,8 +3774,8 @@
             "runtime": 52,
             "airDate": "2019-06-14",
             "still": "/A2obqSwV7jQRdmKEO6H2sndCKeF.jpg",
-            "vote": 7.159,
-            "voteCount": 44
+            "vote": 7.2,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 1816880,
@@ -3833,8 +3786,8 @@
             "runtime": 50,
             "airDate": "2019-06-14",
             "still": "/4WMwkr9iSsb37SjBsXbBwvh4ZC5.jpg",
-            "vote": 6.87,
-            "voteCount": 46
+            "vote": 6.9,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1816881,
@@ -3845,8 +3798,8 @@
             "runtime": 48,
             "airDate": "2019-06-14",
             "still": "/23Hpfy3O7sV82HlMB60n4wwhjOc.jpg",
-            "vote": 7.143,
-            "voteCount": 42
+            "vote": 7.2,
+            "voteCount": 45
           },
           {
             "tmdbEpisodeId": 1816882,
@@ -3857,8 +3810,8 @@
             "runtime": 49,
             "airDate": "2019-06-14",
             "still": "/gDaomy5NjqLgrjRQ6N8NxuQaZsn.jpg",
-            "vote": 7.625,
-            "voteCount": 44
+            "vote": 7.7,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 1816883,
@@ -3869,14 +3822,14 @@
             "runtime": 51,
             "airDate": "2019-06-14",
             "still": "/e3TNZKZYp3T6xJfKuFjctI7y9S9.jpg",
-            "vote": 7.2,
-            "voteCount": 44
+            "vote": 7.3,
+            "voteCount": 47
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:46.112Z"
+    "updatedAt": "2026-11-01T13:36:38.203Z"
   },
   "m055": {
     "tmdbId": 67466,
@@ -3908,7 +3861,7 @@
             "airDate": "2017-11-21",
             "still": "/7AyyZXC9vCo4u7osOJrtyoDz3hH.jpg",
             "vote": 7.2,
-            "voteCount": 97
+            "voteCount": 100
           },
           {
             "tmdbEpisodeId": 1378905,
@@ -3919,8 +3872,8 @@
             "runtime": 50,
             "airDate": "2017-11-21",
             "still": "/mr7odiSwi80zl3ORjWh3WyDAlmU.jpg",
-            "vote": 6.5,
-            "voteCount": 31
+            "vote": 6.6,
+            "voteCount": 34
           },
           {
             "tmdbEpisodeId": 1390713,
@@ -3932,7 +3885,7 @@
             "airDate": "2017-11-21",
             "still": "/lKRI3jTryuDgJe6xiCQ4xA8Hiv2.jpg",
             "vote": 6.6,
-            "voteCount": 29
+            "voteCount": 32
           },
           {
             "tmdbEpisodeId": 1393196,
@@ -3944,7 +3897,7 @@
             "airDate": "2017-11-28",
             "still": "/kuxTl5xBobxEEJmOFvW7pdohepL.jpg",
             "vote": 6.3,
-            "voteCount": 25
+            "voteCount": 27
           },
           {
             "tmdbEpisodeId": 1399377,
@@ -3955,8 +3908,8 @@
             "runtime": 48,
             "airDate": "2017-12-05",
             "still": "/9ME9WuDWgXuYiN818qEwxjGdxxv.jpg",
-            "vote": 6.6,
-            "voteCount": 25
+            "vote": 6.7,
+            "voteCount": 27
           },
           {
             "tmdbEpisodeId": 1399378,
@@ -3967,8 +3920,8 @@
             "runtime": 51,
             "airDate": "2017-12-12",
             "still": "/ih6KVK98BGpTABGRiXVXeaQiKsb.jpg",
-            "vote": 6,
-            "voteCount": 23
+            "vote": 6.1,
+            "voteCount": 25
           },
           {
             "tmdbEpisodeId": 1399379,
@@ -3980,7 +3933,7 @@
             "airDate": "2017-12-19",
             "still": "/kvNVrixr4wTqgNMu06k9EIT67HF.jpg",
             "vote": 6,
-            "voteCount": 23
+            "voteCount": 25
           },
           {
             "tmdbEpisodeId": 1404444,
@@ -3991,8 +3944,8 @@
             "runtime": 51,
             "airDate": "2017-12-26",
             "still": "/7CCwmsXPJc4NbHBDGmzm3iviR6k.jpg",
-            "vote": 5.9,
-            "voteCount": 22
+            "vote": 6,
+            "voteCount": 24
           },
           {
             "tmdbEpisodeId": 1404445,
@@ -4003,8 +3956,8 @@
             "runtime": 46,
             "airDate": "2018-01-02",
             "still": "/rDmtpYYgWrXziceughtzPSI5sX9.jpg",
-            "vote": 6,
-            "voteCount": 25
+            "vote": 6.1,
+            "voteCount": 27
           },
           {
             "tmdbEpisodeId": 1404446,
@@ -4016,13 +3969,13 @@
             "airDate": "2018-01-09",
             "still": "/iVJtoOIrQtKu1wS84F8bBxTy0wX.jpg",
             "vote": 6.4,
-            "voteCount": 24
+            "voteCount": 26
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:30:46.644Z"
+    "updatedAt": "2026-11-01T13:36:38.402Z"
   },
   "m056": {
     "tmdbId": 66190,
@@ -4054,7 +4007,7 @@
             "airDate": "2018-06-07",
             "still": "/3o28nN5JlRGpFgvJWKlCSP7k9ai.jpg",
             "vote": 6.5,
-            "voteCount": 26
+            "voteCount": 28
           },
           {
             "tmdbEpisodeId": 1480153,
@@ -4065,8 +4018,8 @@
             "runtime": 42,
             "airDate": "2018-06-07",
             "still": "/xUgW4omGzBDVmdbdf6lWvO1IAlf.jpg",
-            "vote": 6.3,
-            "voteCount": 23
+            "vote": 6.4,
+            "voteCount": 25
           },
           {
             "tmdbEpisodeId": 1497462,
@@ -4078,7 +4031,7 @@
             "airDate": "2018-06-14",
             "still": "/mK9Tso9bWqRIy5MVGBqHwK1QG6m.jpg",
             "vote": 6.2,
-            "voteCount": 23
+            "voteCount": 25
           },
           {
             "tmdbEpisodeId": 1497463,
@@ -4090,7 +4043,7 @@
             "airDate": "2018-06-21",
             "still": "/7n1lZ6cS28vVM2q7XfIkl00kOCP.jpg",
             "vote": 6.4,
-            "voteCount": 23
+            "voteCount": 25
           },
           {
             "tmdbEpisodeId": 1497834,
@@ -4102,7 +4055,7 @@
             "airDate": "2018-06-28",
             "still": "/szeK5UaUMeZ3evPl6AjRoa0uKIG.jpg",
             "vote": 6.1,
-            "voteCount": 19
+            "voteCount": 21
           },
           {
             "tmdbEpisodeId": 1508514,
@@ -4114,7 +4067,7 @@
             "airDate": "2018-07-05",
             "still": "/e8AfuAQugoe5Iv7L2NnlRP2Y3od.jpg",
             "vote": 6.5,
-            "voteCount": 18
+            "voteCount": 20
           },
           {
             "tmdbEpisodeId": 1515877,
@@ -4125,8 +4078,8 @@
             "runtime": 42,
             "airDate": "2018-07-12",
             "still": "/10hd0tXHWyA0ahFKQ6AchDRioJq.jpg",
-            "vote": 6.7,
-            "voteCount": 19
+            "vote": 6.8,
+            "voteCount": 21
           },
           {
             "tmdbEpisodeId": 1515876,
@@ -4137,8 +4090,8 @@
             "runtime": 42,
             "airDate": "2018-07-19",
             "still": "/a7MmjVm00EfO7qCkKAGw3en5GzV.jpg",
-            "vote": 6.7,
-            "voteCount": 18
+            "vote": 6.8,
+            "voteCount": 20
           },
           {
             "tmdbEpisodeId": 1518261,
@@ -4149,8 +4102,8 @@
             "runtime": 42,
             "airDate": "2018-07-26",
             "still": "/vav0uhLJlizbJCWEhCEHvol2b98.jpg",
-            "vote": 6.2,
-            "voteCount": 17
+            "vote": 6.3,
+            "voteCount": 19
           },
           {
             "tmdbEpisodeId": 1526687,
@@ -4162,13 +4115,13 @@
             "airDate": "2018-08-02",
             "still": "/q829u4dmu8Hy7li8cSGTPhlMQY2.jpg",
             "vote": 6,
-            "voteCount": 20
+            "voteCount": 22
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:30:47.079Z"
+    "updatedAt": "2026-11-01T13:36:38.597Z"
   },
   "m057": {
     "tmdbId": 67466,
@@ -4184,7 +4137,7 @@
         "tmdbSeasonId": 107889,
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "overview": "",
+        "overview": "Os Fugitivos deixaram para trás seus lares (e seus pais malignos) e agora precisam aprender a viver por conta própria. Enquanto buscam comida e abrigo e cuidam uns dos outros, nossos jovens começam a perceber que, para o bem ou para o mal, estão presos uns aos outros. E cabe a eles derrubar a PRIDE de uma vez por todas. Mas alguém enviou uma mensagem misteriosa para Jonah... Será que há um infiltrado entre os Fugitivos? Enquanto isso, a PRIDE está focada em encontrar seus filhos, e Jonah tem seu próprio plano perigoso em mente.",
         "poster": "/ec2HRqxP6a82oA38mC7yellzczT.jpg",
         "airDate": "2018-12-21",
         "episodeStart": 1,
@@ -4200,7 +4153,7 @@
             "airDate": "2018-12-21",
             "still": "/Agw1Oy2VaYNHiwVjZEkbPru4Dj7.jpg",
             "vote": 7.5,
-            "voteCount": 41
+            "voteCount": 43
           },
           {
             "tmdbEpisodeId": 1639501,
@@ -4212,7 +4165,7 @@
             "airDate": "2018-12-21",
             "still": "/j9wnlmzyfwXSm4RTs5l36L4EKgp.jpg",
             "vote": 6.4,
-            "voteCount": 23
+            "voteCount": 25
           },
           {
             "tmdbEpisodeId": 1639502,
@@ -4223,8 +4176,8 @@
             "runtime": 52,
             "airDate": "2018-12-21",
             "still": "/qDOJeC5k4nmA3wmPLkQLwbTZPIV.jpg",
-            "vote": 6.5,
-            "voteCount": 22
+            "vote": 6.4,
+            "voteCount": 24
           },
           {
             "tmdbEpisodeId": 1639503,
@@ -4235,8 +4188,8 @@
             "runtime": 47,
             "airDate": "2018-12-21",
             "still": "/sOSGHROTOFJKqMbQwXwDzZfoJRi.jpg",
-            "vote": 6.5,
-            "voteCount": 22
+            "vote": 6.6,
+            "voteCount": 24
           },
           {
             "tmdbEpisodeId": 1639504,
@@ -4248,7 +4201,7 @@
             "airDate": "2018-12-21",
             "still": "/72WZLGzm2evbGw45tUyLGVZwQoq.jpg",
             "vote": 6.7,
-            "voteCount": 21
+            "voteCount": 23
           },
           {
             "tmdbEpisodeId": 1639505,
@@ -4260,7 +4213,7 @@
             "airDate": "2018-12-21",
             "still": "/vD4emZYih38aQsg8fZB1XDVYYDW.jpg",
             "vote": 6.5,
-            "voteCount": 20
+            "voteCount": 22
           },
           {
             "tmdbEpisodeId": 1639506,
@@ -4271,8 +4224,8 @@
             "runtime": 49,
             "airDate": "2018-12-21",
             "still": "/szf6lhqcj35RS9iDKz8upY8rOiS.jpg",
-            "vote": 6.5,
-            "voteCount": 20
+            "vote": 6.6,
+            "voteCount": 22
           },
           {
             "tmdbEpisodeId": 1639507,
@@ -4284,7 +4237,7 @@
             "airDate": "2018-12-21",
             "still": "/dVGMgosAlYp6wExmHSppzV1RKcZ.jpg",
             "vote": 6.2,
-            "voteCount": 19
+            "voteCount": 21
           },
           {
             "tmdbEpisodeId": 1639508,
@@ -4296,7 +4249,7 @@
             "airDate": "2018-12-21",
             "still": "/lO8ZPW99U0z0gdDxSs8OKfhboo0.jpg",
             "vote": 6.3,
-            "voteCount": 21
+            "voteCount": 23
           },
           {
             "tmdbEpisodeId": 1639509,
@@ -4308,7 +4261,7 @@
             "airDate": "2018-12-21",
             "still": "/emwfqUnEKPAbdya1mZmbbJZheXP.jpg",
             "vote": 6.6,
-            "voteCount": 21
+            "voteCount": 23
           },
           {
             "tmdbEpisodeId": 1639510,
@@ -4319,8 +4272,8 @@
             "runtime": 52,
             "airDate": "2018-12-21",
             "still": "/qXXGDdKVIRXyVYDplJCPzhM6qJx.jpg",
-            "vote": 6.3,
-            "voteCount": 20
+            "vote": 6.2,
+            "voteCount": 22
           },
           {
             "tmdbEpisodeId": 1648227,
@@ -4331,8 +4284,8 @@
             "runtime": 49,
             "airDate": "2018-12-21",
             "still": "/fySF89JLAsqYuKO8hzXDe1rnmic.jpg",
-            "vote": 6.2,
-            "voteCount": 20
+            "vote": 6.1,
+            "voteCount": 22
           },
           {
             "tmdbEpisodeId": 1648228,
@@ -4343,14 +4296,14 @@
             "runtime": 51,
             "airDate": "2018-12-21",
             "still": "/6lgbfw3E8aBiHrfWOd9cgcxjqr7.jpg",
-            "vote": 6.5,
-            "voteCount": 20
+            "vote": 6.6,
+            "voteCount": 22
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:47.535Z"
+    "updatedAt": "2026-11-01T13:36:38.813Z"
   },
   "m058": {
     "tmdbId": 66190,
@@ -4381,8 +4334,8 @@
             "runtime": 41,
             "airDate": "2019-04-04",
             "still": "/t8JWqTsWFXXrjsHrpm1s7QvBqMG.jpg",
-            "vote": 6.3,
-            "voteCount": 15
+            "vote": 6.2,
+            "voteCount": 17
           },
           {
             "tmdbEpisodeId": 1721513,
@@ -4393,8 +4346,8 @@
             "runtime": 41,
             "airDate": "2019-04-04",
             "still": "/egiHy6O0gz8xrrkOM5iy4rGQr22.jpg",
-            "vote": 6.1,
-            "voteCount": 15
+            "vote": 6.2,
+            "voteCount": 17
           },
           {
             "tmdbEpisodeId": 1721514,
@@ -4405,8 +4358,8 @@
             "runtime": 41,
             "airDate": "2019-04-11",
             "still": "/vDbljiASXj5FCQVp1blZBdgR4ox.jpg",
-            "vote": 6.2,
-            "voteCount": 15
+            "vote": 6.1,
+            "voteCount": 17
           },
           {
             "tmdbEpisodeId": 1721515,
@@ -4418,7 +4371,7 @@
             "airDate": "2019-04-18",
             "still": "/yiXKpx74B1oYBc1iBlagnf9pELH.jpg",
             "vote": 6.2,
-            "voteCount": 14
+            "voteCount": 16
           },
           {
             "tmdbEpisodeId": 1721516,
@@ -4430,7 +4383,7 @@
             "airDate": "2019-04-25",
             "still": "/yFlX3D1keUY9Ks5RqBzPWCictyT.jpg",
             "vote": 6.6,
-            "voteCount": 14
+            "voteCount": 16
           },
           {
             "tmdbEpisodeId": 1769476,
@@ -4441,8 +4394,8 @@
             "runtime": 40,
             "airDate": "2019-05-02",
             "still": "/4WhEZGeon61mNA8P9hMvUhzeF8N.jpg",
-            "vote": 5.8,
-            "voteCount": 13
+            "vote": 5.9,
+            "voteCount": 15
           },
           {
             "tmdbEpisodeId": 1769479,
@@ -4453,8 +4406,8 @@
             "runtime": 41,
             "airDate": "2019-05-09",
             "still": "/bEWbHXXpkhMtFZGprNW8SfaZGnc.jpg",
-            "vote": 6.1,
-            "voteCount": 12
+            "vote": 6,
+            "voteCount": 14
           },
           {
             "tmdbEpisodeId": 1769481,
@@ -4465,8 +4418,8 @@
             "runtime": 41,
             "airDate": "2019-05-16",
             "still": "/1KAqAa3bNxCEUfGNEYnqMHKIkQG.jpg",
-            "vote": 6.2,
-            "voteCount": 12
+            "vote": 6.1,
+            "voteCount": 14
           },
           {
             "tmdbEpisodeId": 1769483,
@@ -4478,7 +4431,7 @@
             "airDate": "2019-05-23",
             "still": "/9alCIjLki5uk0jlUYedvIks2TPN.jpg",
             "vote": 6.2,
-            "voteCount": 12
+            "voteCount": 14
           },
           {
             "tmdbEpisodeId": 1769485,
@@ -4489,14 +4442,14 @@
             "runtime": 41,
             "airDate": "2019-05-30",
             "still": "/oNvhcOxxP7z3sp5yFKTurcTI1gB.jpg",
-            "vote": 6.3,
-            "voteCount": 13
+            "vote": 6.2,
+            "voteCount": 15
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:30:48.033Z"
+    "updatedAt": "2026-11-01T13:36:39.024Z"
   },
   "m059": {
     "tmdbId": 67466,
@@ -4512,7 +4465,7 @@
         "tmdbSeasonId": 128480,
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "overview": "",
+        "overview": "Os Fugitivos buscam desesperadamente por seus amigos capturados — Chase, Gert e Karolina. O grupo enfrenta um inimigo implacável que tem como alvo Leslie — ou, mais precisamente, a criança que ela espera. Nico transporta todos para um reino sombrio onde a governante, Morgan le Fay, é muito mais maligna do que qualquer adversário que eles já tenham enfrentado.",
         "poster": "/iixkIE4sjRGmskHAgMb2tPJofZE.jpg",
         "airDate": "2019-12-13",
         "episodeStart": 1,
@@ -4528,7 +4481,7 @@
             "airDate": "2019-12-13",
             "still": "/tBKp3ZoPqfzUDgMA6PwVS3mYR15.jpg",
             "vote": 8.1,
-            "voteCount": 61
+            "voteCount": 63
           },
           {
             "tmdbEpisodeId": 1997088,
@@ -4539,8 +4492,8 @@
             "runtime": 46,
             "airDate": "2019-12-13",
             "still": "/xhKQmU2dTBxqXvuQxCTYqc6yg0D.jpg",
-            "vote": 6.8,
-            "voteCount": 20
+            "vote": 6.7,
+            "voteCount": 22
           },
           {
             "tmdbEpisodeId": 1997089,
@@ -4551,8 +4504,8 @@
             "runtime": 51,
             "airDate": "2019-12-13",
             "still": "/jESrZWkZnp6PX9Pc4UcCpQlz0m6.jpg",
-            "vote": 6.3,
-            "voteCount": 18
+            "vote": 6.2,
+            "voteCount": 20
           },
           {
             "tmdbEpisodeId": 1997090,
@@ -4563,8 +4516,8 @@
             "runtime": 51,
             "airDate": "2019-12-13",
             "still": "/5Rzczy99Il8F3QAwt890dKYiLqp.jpg",
-            "vote": 5.9,
-            "voteCount": 17
+            "vote": 6,
+            "voteCount": 19
           },
           {
             "tmdbEpisodeId": 1997091,
@@ -4575,8 +4528,8 @@
             "runtime": 48,
             "airDate": "2019-12-13",
             "still": "/xv6xbFy8Ll4YSHYLcem5TbtLfTX.jpg",
-            "vote": 6.4,
-            "voteCount": 19
+            "vote": 6.3,
+            "voteCount": 21
           },
           {
             "tmdbEpisodeId": 1997092,
@@ -4587,8 +4540,8 @@
             "runtime": 50,
             "airDate": "2019-12-13",
             "still": "/yQHQYntfbp1OG3IeSzBrZo1rjsD.jpg",
-            "vote": 5.6,
-            "voteCount": 16
+            "vote": 5.7,
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 1997093,
@@ -4600,7 +4553,7 @@
             "airDate": "2019-12-13",
             "still": "/lv7RpntqInHdnj46x8fnuyaDbRA.jpg",
             "vote": 6.2,
-            "voteCount": 16
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 1997094,
@@ -4611,8 +4564,8 @@
             "runtime": 44,
             "airDate": "2019-12-13",
             "still": "/iN91AoqvJkDnZ7iMSucQvQUyM3d.jpg",
-            "vote": 6.2,
-            "voteCount": 16
+            "vote": 6.3,
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 1997095,
@@ -4623,8 +4576,8 @@
             "runtime": 53,
             "airDate": "2019-12-13",
             "still": "/5BfDfB6qKJ5Faj32hyJSNiWIj8k.jpg",
-            "vote": 6.5,
-            "voteCount": 16
+            "vote": 6.6,
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 1997096,
@@ -4635,14 +4588,14 @@
             "runtime": 49,
             "airDate": "2019-12-13",
             "still": "/7l9UUQvcNLsK2E6cFoqx1jtalL8.jpg",
-            "vote": 6.5,
-            "voteCount": 24
+            "vote": 6.3,
+            "voteCount": 26
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:30:48.403Z"
+    "updatedAt": "2026-11-01T13:36:39.232Z"
   },
   "m060": {
     "tmdbId": 88987,
@@ -4673,8 +4626,8 @@
             "runtime": 56,
             "airDate": "2020-10-16",
             "still": "/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
-            "vote": 6.217,
-            "voteCount": 22
+            "vote": 6.3,
+            "voteCount": 26
           },
           {
             "tmdbEpisodeId": 2363796,
@@ -4685,8 +4638,8 @@
             "runtime": 49,
             "airDate": "2020-10-16",
             "still": "/kWtj4BSk5venJsgq19vn1Zf1PsY.jpg",
-            "vote": 6.684,
-            "voteCount": 19
+            "vote": 6.6,
+            "voteCount": 22
           },
           {
             "tmdbEpisodeId": 2363797,
@@ -4697,8 +4650,8 @@
             "runtime": 46,
             "airDate": "2020-10-16",
             "still": "/qNlyrjlquyltDgK4wRJhAp3srwv.jpg",
-            "vote": 6.588,
-            "voteCount": 17
+            "vote": 6.5,
+            "voteCount": 20
           },
           {
             "tmdbEpisodeId": 2381470,
@@ -4709,8 +4662,8 @@
             "runtime": 53,
             "airDate": "2020-10-16",
             "still": "/gLN0Wsa3sxfDc1RN0ONJKtQGUUp.jpg",
-            "vote": 6.375,
-            "voteCount": 16
+            "vote": 6.3,
+            "voteCount": 19
           },
           {
             "tmdbEpisodeId": 2381471,
@@ -4721,8 +4674,8 @@
             "runtime": 47,
             "airDate": "2020-10-16",
             "still": "/jYHzNRHtfjrRHig3efvtC4cCdrM.jpg",
-            "vote": 6.235,
-            "voteCount": 17
+            "vote": 6.2,
+            "voteCount": 20
           },
           {
             "tmdbEpisodeId": 2381472,
@@ -4733,8 +4686,8 @@
             "runtime": 49,
             "airDate": "2020-10-16",
             "still": "/m7ZZkUBNBXfTlFjbCES1AyKCq4Q.jpg",
-            "vote": 6.529,
-            "voteCount": 17
+            "vote": 6.5,
+            "voteCount": 19
           },
           {
             "tmdbEpisodeId": 2381473,
@@ -4745,8 +4698,8 @@
             "runtime": 54,
             "airDate": "2020-10-16",
             "still": "/6vxZlU1aNORzk5j4bh0BSDCFI0B.jpg",
-            "vote": 6.125,
-            "voteCount": 16
+            "vote": 6.2,
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 2381474,
@@ -4757,8 +4710,8 @@
             "runtime": 52,
             "airDate": "2020-10-16",
             "still": "/5TZV34spa6I0GOeoh3uSRaakfl.jpg",
-            "vote": 6.063,
-            "voteCount": 16
+            "vote": 6.1,
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 2381475,
@@ -4769,8 +4722,8 @@
             "runtime": 54,
             "airDate": "2020-10-16",
             "still": "/n7o165OTfAI8tW8SCLP2ydD7KpY.jpg",
-            "vote": 6.063,
-            "voteCount": 16
+            "vote": 6.1,
+            "voteCount": 18
           },
           {
             "tmdbEpisodeId": 2381476,
@@ -4781,14 +4734,14 @@
             "runtime": 56,
             "airDate": "2020-10-16",
             "still": "/qx8mP3jX3kROOqzhXBZMDnUiX3b.jpg",
-            "vote": 5.875,
-            "voteCount": 16
+            "vote": 5.8,
+            "voteCount": 18
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:30:48.842Z"
+    "updatedAt": "2026-11-01T13:36:39.422Z"
   },
   "m061": {
     "tmdbId": 1403,
@@ -4821,8 +4774,8 @@
             "runtime": 44,
             "airDate": "2017-12-01",
             "still": "/eCE6FHY83ZawLcjODG14rT4pVxt.jpg",
-            "vote": 8.236,
-            "voteCount": 55
+            "vote": 8.2,
+            "voteCount": 57
           },
           {
             "tmdbEpisodeId": 1378310,
@@ -4833,8 +4786,8 @@
             "runtime": 44,
             "airDate": "2017-12-01",
             "still": "/5Uo9zKosKPOkGkNOOXJT2zChAEu.jpg",
-            "vote": 8.061,
-            "voteCount": 49
+            "vote": 8.1,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1397002,
@@ -4845,8 +4798,8 @@
             "runtime": 44,
             "airDate": "2017-12-08",
             "still": "/5AEiNx7UPry5gbPi5zQ1PWX5B7M.jpg",
-            "vote": 7.511,
-            "voteCount": 47
+            "vote": 7.5,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1397003,
@@ -4857,8 +4810,8 @@
             "runtime": 44,
             "airDate": "2017-12-15",
             "still": "/w1FqL8iGCfSbJzrGlYn0xLssQkW.jpg",
-            "vote": 7.766,
-            "voteCount": 47
+            "vote": 7.8,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1397004,
@@ -4869,8 +4822,8 @@
             "runtime": 44,
             "airDate": "2017-12-22",
             "still": "/aTygSKD0IkETonRQ14IEvl250C4.jpg",
-            "vote": 8.25,
-            "voteCount": 48
+            "vote": 8.3,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 1407271,
@@ -4881,8 +4834,8 @@
             "runtime": 44,
             "airDate": "2018-01-05",
             "still": "/2lk9fcC6TeWZY8rvMRjNduJtCXB.jpg",
-            "vote": 7.93,
-            "voteCount": 43
+            "vote": 7.9,
+            "voteCount": 45
           },
           {
             "tmdbEpisodeId": 1408720,
@@ -4893,8 +4846,8 @@
             "runtime": 42,
             "airDate": "2018-01-12",
             "still": "/xubuyzhtX4myRiWQo7L23HObEq0.jpg",
-            "vote": 7.739,
-            "voteCount": 46
+            "vote": 7.8,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1411774,
@@ -4905,8 +4858,8 @@
             "runtime": 44,
             "airDate": "2018-01-19",
             "still": "/wC9W1TmWUZ6Ovo0TZJBg8EBNfPd.jpg",
-            "vote": 7.444,
-            "voteCount": 45
+            "vote": 7.5,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1416888,
@@ -4917,8 +4870,8 @@
             "runtime": 43,
             "airDate": "2018-01-26",
             "still": "/cioAUESvVLcIWwndbCeZKbPxirA.jpg",
-            "vote": 7.578,
-            "voteCount": 45
+            "vote": 7.6,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 1418736,
@@ -4929,8 +4882,8 @@
             "runtime": 44,
             "airDate": "2018-02-02",
             "still": "/a6PT1YU8NRjsszYl6Zgo7tkZBx2.jpg",
-            "vote": 7.804,
-            "voteCount": 46
+            "vote": 7.8,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1431231,
@@ -4941,8 +4894,8 @@
             "runtime": 44,
             "airDate": "2018-03-02",
             "still": "/siOkSTI24kb32GGbf1y5vSAjMGC.jpg",
-            "vote": 7.909,
-            "voteCount": 44
+            "vote": 7.9,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 1434147,
@@ -4953,8 +4906,8 @@
             "runtime": 45,
             "airDate": "2018-03-09",
             "still": "/iO7XQdrOw5zPL5UELCtxpMVQXhi.jpg",
-            "vote": 8.298,
-            "voteCount": 47
+            "vote": 8.3,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1437458,
@@ -4965,8 +4918,8 @@
             "runtime": 44,
             "airDate": "2018-03-16",
             "still": "/ai9kXmJonEpPHopdGXAAA44lqpD.jpg",
-            "vote": 7.545,
-            "voteCount": 44
+            "vote": 7.6,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 1445522,
@@ -4977,8 +4930,8 @@
             "runtime": 44,
             "airDate": "2018-03-23",
             "still": "/nL0nBxllWTYicvbv6brgcOFYMkT.jpg",
-            "vote": 7.911,
-            "voteCount": 45
+            "vote": 8,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1449541,
@@ -4989,8 +4942,8 @@
             "runtime": 45,
             "airDate": "2018-03-30",
             "still": "/qHSFnkrBOKk4MO0h8Iyk1qorrG1.jpg",
-            "vote": 7.87,
-            "voteCount": 46
+            "vote": 7.9,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 1455051,
@@ -5001,8 +4954,8 @@
             "runtime": 44,
             "airDate": "2018-04-06",
             "still": "/dKoRC5MvQja9AESNXorEKbhTftI.jpg",
-            "vote": 7.733,
-            "voteCount": 45
+            "vote": 7.8,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1459965,
@@ -5013,8 +4966,8 @@
             "runtime": 43,
             "airDate": "2018-04-13",
             "still": "/9FOoE8Gnd17e44nWuNUs5EclQ3v.jpg",
-            "vote": 7.587,
-            "voteCount": 46
+            "vote": 7.6,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1462484,
@@ -5025,8 +4978,8 @@
             "runtime": 42,
             "airDate": "2018-04-20",
             "still": "/GmExOnLAkvLBPjX7QzkuzhJxaY.jpg",
-            "vote": 7.733,
-            "voteCount": 45
+            "vote": 7.8,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1467645,
@@ -5037,14 +4990,14 @@
             "runtime": 44,
             "airDate": "2018-04-27",
             "still": "/nEkUod26K6PWb8XCWpxiS7YAUWn.jpg",
-            "vote": 7.915,
-            "voteCount": 47
+            "vote": 7.9,
+            "voteCount": 50
           }
         ]
       }
     ],
     "totalEpisodes": 19,
-    "updatedAt": "2026-10-01T13:30:49.111Z"
+    "updatedAt": "2026-11-01T13:36:39.601Z"
   },
   "m063": {
     "tmdbId": 1403,
@@ -5077,8 +5030,8 @@
             "runtime": 43,
             "airDate": "2018-05-04",
             "still": "/a1XMqzJmxyqrvcgntfzIF6PBPee.jpg",
-            "vote": 7.609,
-            "voteCount": 46
+            "vote": 7.6,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 1472843,
@@ -5089,8 +5042,8 @@
             "runtime": 44,
             "airDate": "2018-05-11",
             "still": "/4yTICAokMKSbwSUAOePbo4sI2Go.jpg",
-            "vote": 7.787,
-            "voteCount": 47
+            "vote": 7.9,
+            "voteCount": 50
           },
           {
             "tmdbEpisodeId": 1472849,
@@ -5101,14 +5054,14 @@
             "runtime": 44,
             "airDate": "2018-05-18",
             "still": "/iGmakkW8rZsjYicxkwhdXdXoBHw.jpg",
-            "vote": 8.143,
-            "voteCount": 49
+            "vote": 8.1,
+            "voteCount": 51
           }
         ]
       }
     ],
     "totalEpisodes": 3,
-    "updatedAt": "2026-10-01T13:30:49.678Z"
+    "updatedAt": "2026-11-01T13:36:39.909Z"
   },
   "m066": {
     "tmdbId": 1403,
@@ -5139,8 +5092,8 @@
             "runtime": 44,
             "airDate": "2019-05-10",
             "still": "/8Oi4EnmkjvKvRcr6Gl55AZPZafS.jpg",
-            "vote": 7.135,
-            "voteCount": 37
+            "vote": 7.2,
+            "voteCount": 40
           },
           {
             "tmdbEpisodeId": 1779346,
@@ -5151,8 +5104,8 @@
             "runtime": 45,
             "airDate": "2019-05-17",
             "still": "/6hGD1KKJ5WsrEDr09AQXjFunx7B.jpg",
-            "vote": 7.222,
-            "voteCount": 36
+            "vote": 7.3,
+            "voteCount": 39
           },
           {
             "tmdbEpisodeId": 1788236,
@@ -5163,8 +5116,8 @@
             "runtime": 45,
             "airDate": "2019-05-24",
             "still": "/cs8UQk3j0pthMFcEvj06h6mPQEF.jpg",
-            "vote": 7.231,
-            "voteCount": 39
+            "vote": 7.2,
+            "voteCount": 41
           },
           {
             "tmdbEpisodeId": 1788237,
@@ -5175,8 +5128,8 @@
             "runtime": 43,
             "airDate": "2019-05-31",
             "still": "/r6G5BoHmrA15MsMwwDPJY6x38f1.jpg",
-            "vote": 7.286,
-            "voteCount": 35
+            "vote": 7.3,
+            "voteCount": 38
           },
           {
             "tmdbEpisodeId": 1801327,
@@ -5187,8 +5140,8 @@
             "runtime": 45,
             "airDate": "2019-06-14",
             "still": "/soFPb57Fmcx3zOjxflS5L6QWjpg.jpg",
-            "vote": 7.235,
-            "voteCount": 34
+            "vote": 7.2,
+            "voteCount": 37
           },
           {
             "tmdbEpisodeId": 1808381,
@@ -5199,8 +5152,8 @@
             "runtime": 45,
             "airDate": "2019-06-21",
             "still": "/3KvpgeeQEJ1Fu1cH4YPvd4RCoRR.jpg",
-            "vote": 7.778,
-            "voteCount": 36
+            "vote": 7.8,
+            "voteCount": 40
           },
           {
             "tmdbEpisodeId": 1822979,
@@ -5211,8 +5164,8 @@
             "runtime": 44,
             "airDate": "2019-06-28",
             "still": "/aCKSrJYMGZPXSW0PRuMBCJta5z2.jpg",
-            "vote": 7.118,
-            "voteCount": 34
+            "vote": 7.2,
+            "voteCount": 37
           },
           {
             "tmdbEpisodeId": 1822980,
@@ -5224,7 +5177,7 @@
             "airDate": "2019-07-05",
             "still": "/pBvPVdJvKzDj7I8vWGZfl7oHWpJ.jpg",
             "vote": 7.6,
-            "voteCount": 34
+            "voteCount": 37
           },
           {
             "tmdbEpisodeId": 1836869,
@@ -5236,7 +5189,7 @@
             "airDate": "2019-07-12",
             "still": "/pzzfipYotpyi3ETxKMxBvbDXHFl.jpg",
             "vote": 7.5,
-            "voteCount": 36
+            "voteCount": 39
           },
           {
             "tmdbEpisodeId": 1838465,
@@ -5247,8 +5200,8 @@
             "runtime": 44,
             "airDate": "2019-07-19",
             "still": "/nJCHJRs6CtluaXxNDwWLeNO1iqd.jpg",
-            "vote": 7.5,
-            "voteCount": 34
+            "vote": 7.6,
+            "voteCount": 37
           },
           {
             "tmdbEpisodeId": 1847343,
@@ -5259,8 +5212,8 @@
             "runtime": 45,
             "airDate": "2019-07-26",
             "still": "/pyCuhWEU2q7PkQVfpMUxKXqfetx.jpg",
-            "vote": 7.314,
-            "voteCount": 35
+            "vote": 7.4,
+            "voteCount": 38
           },
           {
             "tmdbEpisodeId": 1861570,
@@ -5271,8 +5224,8 @@
             "runtime": 43,
             "airDate": "2019-08-02",
             "still": "/giYsOCMPfRjf1xjdGuzXnH24Ejg.jpg",
-            "vote": 7.571,
-            "voteCount": 35
+            "vote": 7.6,
+            "voteCount": 38
           },
           {
             "tmdbEpisodeId": 1861571,
@@ -5283,14 +5236,14 @@
             "runtime": 45,
             "airDate": "2019-08-02",
             "still": "/jRrgeEvci7Bk54zyhNI4nfjqYP4.jpg",
-            "vote": 7.579,
-            "voteCount": 38
+            "vote": 7.6,
+            "voteCount": 41
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:50.682Z"
+    "updatedAt": "2026-11-01T13:36:40.368Z"
   },
   "m067": {
     "tmdbId": 1403,
@@ -5321,8 +5274,8 @@
             "runtime": 45,
             "airDate": "2020-05-27",
             "still": "/gsqIC0yTTZNxxNIvf0NSsRDRHJy.jpg",
-            "vote": 7.088,
-            "voteCount": 34
+            "vote": 7.1,
+            "voteCount": 36
           },
           {
             "tmdbEpisodeId": 2278844,
@@ -5333,8 +5286,8 @@
             "runtime": 44,
             "airDate": "2020-06-03",
             "still": "/7ed2hlNWrER2KounC5fS3hOeRP9.jpg",
-            "vote": 7.176,
-            "voteCount": 34
+            "vote": 7.2,
+            "voteCount": 37
           },
           {
             "tmdbEpisodeId": 2283759,
@@ -5345,8 +5298,8 @@
             "runtime": 44,
             "airDate": "2020-06-10",
             "still": "/6iuYwXFN3GCEf14cgVmBAwWciyF.jpg",
-            "vote": 7.394,
-            "voteCount": 33
+            "vote": 7.5,
+            "voteCount": 36
           },
           {
             "tmdbEpisodeId": 2296468,
@@ -5357,8 +5310,8 @@
             "runtime": 44,
             "airDate": "2020-06-17",
             "still": "/vU0L4g7i319csEbfsV4CtdXCRea.jpg",
-            "vote": 7.4,
-            "voteCount": 32
+            "vote": 7.5,
+            "voteCount": 35
           },
           {
             "tmdbEpisodeId": 2296469,
@@ -5369,8 +5322,8 @@
             "runtime": 43,
             "airDate": "2020-06-24",
             "still": "/bjbbEiSrgmNlggY2NK97yspV6yq.jpg",
-            "vote": 7.677,
-            "voteCount": 31
+            "vote": 7.7,
+            "voteCount": 34
           },
           {
             "tmdbEpisodeId": 2310163,
@@ -5381,8 +5334,8 @@
             "runtime": 44,
             "airDate": "2020-07-01",
             "still": "/470yUzMw7xH5qMI5yqbxCpwKyds.jpg",
-            "vote": 7.469,
-            "voteCount": 32
+            "vote": 7.5,
+            "voteCount": 35
           },
           {
             "tmdbEpisodeId": 2314808,
@@ -5393,8 +5346,8 @@
             "runtime": 45,
             "airDate": "2020-07-08",
             "still": "/vFZLLNUqFqdppOQXrxIP9ed7osD.jpg",
-            "vote": 7.176,
-            "voteCount": 34
+            "vote": 7.2,
+            "voteCount": 37
           },
           {
             "tmdbEpisodeId": 2332782,
@@ -5405,8 +5358,8 @@
             "runtime": 44,
             "airDate": "2020-07-15",
             "still": "/38edv27e4dIa7RsobJDE9FrmynP.jpg",
-            "vote": 7.2,
-            "voteCount": 30
+            "vote": 7.3,
+            "voteCount": 33
           },
           {
             "tmdbEpisodeId": 2332787,
@@ -5417,8 +5370,8 @@
             "runtime": 44,
             "airDate": "2020-07-22",
             "still": "/gf7hv0W9YmCQbjYcWaX3OjmY9bd.jpg",
-            "vote": 8.286,
-            "voteCount": 35
+            "vote": 8.3,
+            "voteCount": 38
           },
           {
             "tmdbEpisodeId": 2332788,
@@ -5429,8 +5382,8 @@
             "runtime": 43,
             "airDate": "2020-07-29",
             "still": "/hQa82CMnJcXjRJYQmjqXo8qH5PA.jpg",
-            "vote": 7.3,
-            "voteCount": 27
+            "vote": 7.4,
+            "voteCount": 30
           },
           {
             "tmdbEpisodeId": 2332790,
@@ -5441,8 +5394,8 @@
             "runtime": 44,
             "airDate": "2020-08-05",
             "still": "/moduxusarIDsIYkKdnnPEr0Ixnh.jpg",
-            "vote": 7.3,
-            "voteCount": 29
+            "vote": 7.4,
+            "voteCount": 32
           },
           {
             "tmdbEpisodeId": 2332792,
@@ -5453,8 +5406,8 @@
             "runtime": 44,
             "airDate": "2020-08-12",
             "still": "/bsuafDfrPQbE1m3QkRBTArpaCSI.jpg",
-            "vote": 7.613,
-            "voteCount": 31
+            "vote": 7.6,
+            "voteCount": 33
           },
           {
             "tmdbEpisodeId": 2332795,
@@ -5465,14 +5418,14 @@
             "runtime": 45,
             "airDate": "2020-08-12",
             "still": "/n7FQx95PN1EYgzoXkKx8sbeQc41.jpg",
-            "vote": 7.844,
-            "voteCount": 32
+            "vote": 7.9,
+            "voteCount": 34
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:30:51.045Z"
+    "updatedAt": "2026-11-01T13:36:40.567Z"
   },
   "m070": {
     "tmdbId": 85271,
@@ -5488,9 +5441,9 @@
         "tmdbSeasonId": 114993,
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "overview": "",
+        "overview": "Após os eventos de Vingadores: Ultimato, Wanda Maximoff e Visão tentam levar uma vida suburbana idílica na pacata cidade de Westview, Nova Jersey. Escondendo seus superpoderes para se integrarem à comunidade, o casal vive uma rotina peculiar que avança pelas décadas imitando a estética das clássicas sitcoms americanas. No entanto, à medida que a fachada perfeita começa a apresentar falhas bizarras, eles passam a suspeitar que nada naquela realidade é o que parece, desencadeando uma investigação governamental externa para descobrir o perturbador segredo escondido por trás da cidade.",
         "poster": "/ocbudBxA2Tpn3bWNwv2Tk8LGeAy.jpg",
-        "airDate": "2021-01-15",
+        "airDate": "2021-01-14",
         "episodeStart": 1,
         "episodeEnd": 9,
         "episodes": [
@@ -5503,8 +5456,8 @@
             "runtime": 31,
             "airDate": "2021-01-15",
             "still": "/cbe8l0Hnbvu07ePgoOopyWYrcdL.jpg",
-            "vote": 7.167,
-            "voteCount": 203
+            "vote": 7.2,
+            "voteCount": 206
           },
           {
             "tmdbEpisodeId": 2293605,
@@ -5515,8 +5468,8 @@
             "runtime": 39,
             "airDate": "2021-01-15",
             "still": "/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg",
-            "vote": 7.341,
-            "voteCount": 185
+            "vote": 7.3,
+            "voteCount": 188
           },
           {
             "tmdbEpisodeId": 2639816,
@@ -5526,9 +5479,9 @@
             "overview": "Com a gravidez, os poderes de Wanda fogem ao controle e a dupla se prepara para um parto acelerado.",
             "runtime": 35,
             "airDate": "2021-01-22",
-            "still": "/zT55iSCAWsKJOpEc6s989lgok65.jpg",
-            "vote": 7.629,
-            "voteCount": 167
+            "still": "/tUyNXvZQ4FKBT6T5nOVhF255GlU.jpg",
+            "vote": 7.6,
+            "voteCount": 171
           },
           {
             "tmdbEpisodeId": 2639817,
@@ -5540,7 +5493,7 @@
             "airDate": "2021-01-29",
             "still": "/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg",
             "vote": 8.1,
-            "voteCount": 165
+            "voteCount": 168
           },
           {
             "tmdbEpisodeId": 2639818,
@@ -5550,9 +5503,9 @@
             "overview": "Wanda analisa as preocupações de Visão, que desconfia do estranho comportamento dos vizinhos.",
             "runtime": 43,
             "airDate": "2021-02-05",
-            "still": "/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg",
-            "vote": 8.151,
-            "voteCount": 159
+            "still": "/43wMXcFfFsV50UBvcvPACeu9015.jpg",
+            "vote": 8.2,
+            "voteCount": 162
           },
           {
             "tmdbEpisodeId": 2639819,
@@ -5562,9 +5515,9 @@
             "overview": "Imprevistos no Halloween separam Wanda de Visão, que investiga atividades anômalas em Westview.",
             "runtime": 40,
             "airDate": "2021-02-12",
-            "still": "/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg",
-            "vote": 8.112,
-            "voteCount": 152
+            "still": "/qdgEQGtjqy2ykz2C0VOu6x56wIn.jpg",
+            "vote": 8.1,
+            "voteCount": 158
           },
           {
             "tmdbEpisodeId": 2639820,
@@ -5574,9 +5527,9 @@
             "overview": "Mônica planeja seu retorno enquanto Wanda tem complicações, e Visão forma uma nova aliança.",
             "runtime": 39,
             "airDate": "2021-02-19",
-            "still": "/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg",
-            "vote": 7.733,
-            "voteCount": 150
+            "still": "/xp8MVmQrdBafZ6H85jDfDx6HMQP.jpg",
+            "vote": 7.8,
+            "voteCount": 156
           },
           {
             "tmdbEpisodeId": 2639821,
@@ -5587,8 +5540,8 @@
             "runtime": 48,
             "airDate": "2021-02-26",
             "still": "/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg",
-            "vote": 8.04,
-            "voteCount": 151
+            "vote": 8.1,
+            "voteCount": 156
           },
           {
             "tmdbEpisodeId": 2724621,
@@ -5599,14 +5552,14 @@
             "runtime": 51,
             "airDate": "2021-03-05",
             "still": "/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg",
-            "vote": 7.788,
-            "voteCount": 147
+            "vote": 7.819,
+            "voteCount": 152
           }
         ]
       }
     ],
     "totalEpisodes": 9,
-    "updatedAt": "2026-10-01T13:30:51.933Z"
+    "updatedAt": "2026-11-01T13:36:40.984Z"
   },
   "m071": {
     "tmdbId": 84958,
@@ -5637,8 +5590,8 @@
             "runtime": 53,
             "airDate": "2021-06-09",
             "still": "/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg",
-            "vote": 7.397,
-            "voteCount": 243
+            "vote": 7.4,
+            "voteCount": 249
           },
           {
             "tmdbEpisodeId": 2927202,
@@ -5649,8 +5602,8 @@
             "runtime": 56,
             "airDate": "2021-06-16",
             "still": "/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg",
-            "vote": 7.863,
-            "voteCount": 205
+            "vote": 7.9,
+            "voteCount": 211
           },
           {
             "tmdbEpisodeId": 2927203,
@@ -5661,8 +5614,8 @@
             "runtime": 44,
             "airDate": "2021-06-23",
             "still": "/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
-            "vote": 7.367,
-            "voteCount": 192
+            "vote": 7.4,
+            "voteCount": 198
           },
           {
             "tmdbEpisodeId": 2927204,
@@ -5673,8 +5626,8 @@
             "runtime": 50,
             "airDate": "2021-06-30",
             "still": "/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
-            "vote": 8.179,
-            "voteCount": 187
+            "vote": 8.2,
+            "voteCount": 192
           },
           {
             "tmdbEpisodeId": 2927205,
@@ -5685,8 +5638,8 @@
             "runtime": 51,
             "airDate": "2021-07-07",
             "still": "/5fRAAO13URmteku8mb39V9YPJBb.jpg",
-            "vote": 8.102,
-            "voteCount": 176
+            "vote": 8.1,
+            "voteCount": 182
           },
           {
             "tmdbEpisodeId": 2927206,
@@ -5697,14 +5650,14 @@
             "runtime": 48,
             "airDate": "2021-07-14",
             "still": "/98hGgYbNFP8GnZhJzAar22bWIAT.jpg",
-            "vote": 8.014,
-            "voteCount": 179
+            "vote": 8,
+            "voteCount": 184
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:52.368Z"
+    "updatedAt": "2026-11-01T13:36:41.182Z"
   },
   "m072": {
     "tmdbId": 84958,
@@ -5735,8 +5688,8 @@
             "runtime": 48,
             "airDate": "2023-10-05",
             "still": "/aIJvoQAal0TDDIl5plfKfSnAish.jpg",
-            "vote": 8.017,
-            "voteCount": 145
+            "vote": 8,
+            "voteCount": 149
           },
           {
             "tmdbEpisodeId": 4447779,
@@ -5747,8 +5700,8 @@
             "runtime": 52,
             "airDate": "2023-10-12",
             "still": "/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg",
-            "vote": 7.48,
-            "voteCount": 125
+            "vote": 7.5,
+            "voteCount": 129
           },
           {
             "tmdbEpisodeId": 4447780,
@@ -5759,8 +5712,8 @@
             "runtime": 56,
             "airDate": "2023-10-19",
             "still": "/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg",
-            "vote": 7.496,
-            "voteCount": 124
+            "vote": 7.5,
+            "voteCount": 128
           },
           {
             "tmdbEpisodeId": 4447781,
@@ -5771,8 +5724,8 @@
             "runtime": 51,
             "airDate": "2023-10-26",
             "still": "/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg",
-            "vote": 7.708,
-            "voteCount": 120
+            "vote": 7.7,
+            "voteCount": 124
           },
           {
             "tmdbEpisodeId": 4447782,
@@ -5784,7 +5737,7 @@
             "airDate": "2023-11-02",
             "still": "/ueXDPrWLFbXHAtrxMas35ja8sFb.jpg",
             "vote": 7.9,
-            "voteCount": 120
+            "voteCount": 125
           },
           {
             "tmdbEpisodeId": 4447783,
@@ -5795,14 +5748,14 @@
             "runtime": 59,
             "airDate": "2023-11-09",
             "still": "/8Iyk5gy1Dbh5uwZ3B3eDVl3XPd9.jpg",
-            "vote": 8.47,
-            "voteCount": 132
+            "vote": 8.5,
+            "voteCount": 138
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:52.815Z"
+    "updatedAt": "2026-11-01T13:36:41.388Z"
   },
   "m073": {
     "tmdbId": 91363,
@@ -5833,8 +5786,8 @@
             "runtime": 36,
             "airDate": "2021-08-11",
             "still": "/iraDBIZNHvtK6GWCG2rHLGpPv2O.jpg",
-            "vote": 6.831,
-            "voteCount": 172
+            "vote": 6.8,
+            "voteCount": 176
           },
           {
             "tmdbEpisodeId": 3062390,
@@ -5845,8 +5798,8 @@
             "runtime": 37,
             "airDate": "2021-08-18",
             "still": "/urF7o2y7sG6GB53R0krSk9krw0E.jpg",
-            "vote": 7.04,
-            "voteCount": 151
+            "vote": 7.1,
+            "voteCount": 155
           },
           {
             "tmdbEpisodeId": 3062391,
@@ -5857,8 +5810,8 @@
             "runtime": 35,
             "airDate": "2021-08-25",
             "still": "/diTO5LCNpVOewxIxEpJXNy6JjGl.jpg",
-            "vote": 6.917,
-            "voteCount": 145
+            "vote": 6.9,
+            "voteCount": 149
           },
           {
             "tmdbEpisodeId": 3062392,
@@ -5869,8 +5822,8 @@
             "runtime": 38,
             "airDate": "2021-09-01",
             "still": "/oNoesVA8NqPaMcyAneQg8MMgcAQ.jpg",
-            "vote": 7.877,
-            "voteCount": 155
+            "vote": 7.9,
+            "voteCount": 159
           },
           {
             "tmdbEpisodeId": 3065175,
@@ -5881,8 +5834,8 @@
             "runtime": 34,
             "airDate": "2021-09-08",
             "still": "/6bGTn0hYYQeCFwAB8CKjRmk2MvV.jpg",
-            "vote": 7.044,
-            "voteCount": 137
+            "vote": 7.1,
+            "voteCount": 142
           },
           {
             "tmdbEpisodeId": 3065176,
@@ -5893,8 +5846,8 @@
             "runtime": 36,
             "airDate": "2021-09-15",
             "still": "/9xdfxaiukrGDc1xXWf0unQuGmrg.jpg",
-            "vote": 6.26,
-            "voteCount": 127
+            "vote": 6.3,
+            "voteCount": 131
           },
           {
             "tmdbEpisodeId": 3065177,
@@ -5905,8 +5858,8 @@
             "runtime": 38,
             "airDate": "2021-09-22",
             "still": "/vZcOTpr6AOwmYvPR6qP4E0AxjW1.jpg",
-            "vote": 5.984,
-            "voteCount": 126
+            "vote": 6,
+            "voteCount": 130
           },
           {
             "tmdbEpisodeId": 3065178,
@@ -5917,8 +5870,8 @@
             "runtime": 32,
             "airDate": "2021-09-29",
             "still": "/cAeBSoSch3qUtKgtO1b5ZWzhgqC.jpg",
-            "vote": 7.817,
-            "voteCount": 120
+            "vote": 7.8,
+            "voteCount": 125
           },
           {
             "tmdbEpisodeId": 3065180,
@@ -5929,14 +5882,14 @@
             "runtime": 37,
             "airDate": "2021-10-06",
             "still": "/qsgIiCfnQCi3CF7tQ6M7Nw4lB9O.jpg",
-            "vote": 7.445,
-            "voteCount": 119
+            "vote": 7.5,
+            "voteCount": 123
           }
         ]
       }
     ],
     "totalEpisodes": 9,
-    "updatedAt": "2026-10-01T13:30:53.235Z"
+    "updatedAt": "2026-11-01T13:36:41.580Z"
   },
   "m074": {
     "tmdbId": 299676,
@@ -5961,11 +5914,11 @@
       }
     ],
     "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:30:53.824Z"
+    "updatedAt": "2026-11-01T13:36:41.793Z"
   },
   "m075": {
-    "tmdbId": 335530,
-    "title": "What If: technology",
+    "tmdbId": 317285,
+    "title": "What if...? Genomics in Aotearoa",
     "sourceTitle": "What If...? — T3",
     "requestedSeasons": [
       {
@@ -5974,7 +5927,7 @@
     ],
     "seasons": [],
     "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:30:54.294Z"
+    "updatedAt": "2026-11-01T13:36:42.269Z"
   },
   "m077": {
     "tmdbId": 88396,
@@ -6005,8 +5958,8 @@
             "runtime": 51,
             "airDate": "2021-03-19",
             "still": "/9c9EUdeFfkyfCsHK65gtXRACRcZ.jpg",
-            "vote": 7.083,
-            "voteCount": 145
+            "vote": 7.1,
+            "voteCount": 151
           },
           {
             "tmdbEpisodeId": 2535021,
@@ -6017,8 +5970,8 @@
             "runtime": 52,
             "airDate": "2021-03-26",
             "still": "/2e7oMGT1I6GXLfWLhdfRtAbrwBr.jpg",
-            "vote": 7.137,
-            "voteCount": 130
+            "vote": 7.1,
+            "voteCount": 136
           },
           {
             "tmdbEpisodeId": 2535022,
@@ -6029,8 +5982,8 @@
             "runtime": 55,
             "airDate": "2021-04-02",
             "still": "/hPUqRJmslgeuaTVKogf9eVtgNs9.jpg",
-            "vote": 7.134,
-            "voteCount": 127
+            "vote": 7.1,
+            "voteCount": 131
           },
           {
             "tmdbEpisodeId": 2558741,
@@ -6041,8 +5994,8 @@
             "runtime": 56,
             "airDate": "2021-04-09",
             "still": "/4TEsU66PQT7G2cexbliJcpvTPbH.jpg",
-            "vote": 7.774,
-            "voteCount": 124
+            "vote": 7.8,
+            "voteCount": 129
           },
           {
             "tmdbEpisodeId": 2558742,
@@ -6053,8 +6006,8 @@
             "runtime": 62,
             "airDate": "2021-04-16",
             "still": "/yEhyuWXJ17CNqv7KkxSWw3mmsB8.jpg",
-            "vote": 7.269,
-            "voteCount": 119
+            "vote": 7.3,
+            "voteCount": 124
           },
           {
             "tmdbEpisodeId": 2558743,
@@ -6065,14 +6018,14 @@
             "runtime": 54,
             "airDate": "2021-04-23",
             "still": "/qXxCqMP7aj3rGndhVfGUyyU6hyq.jpg",
-            "vote": 7.043,
-            "voteCount": 116
+            "vote": 7.1,
+            "voteCount": 121
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:55.057Z"
+    "updatedAt": "2026-11-01T13:36:42.607Z"
   },
   "m081": {
     "tmdbId": 88329,
@@ -6103,8 +6056,8 @@
             "runtime": 51,
             "airDate": "2021-11-24",
             "still": "/AwCNTaG7VPVwaBRSZkvQUMEfyuZ.jpg",
-            "vote": 7.025,
-            "voteCount": 120
+            "vote": 7.04,
+            "voteCount": 125
           },
           {
             "tmdbEpisodeId": 3273258,
@@ -6115,8 +6068,8 @@
             "runtime": 52,
             "airDate": "2021-11-24",
             "still": "/v6DjX5jATXUpkILMFMEOR61PWr5.jpg",
-            "vote": 7.107,
-            "voteCount": 112
+            "vote": 7.119,
+            "voteCount": 118
           },
           {
             "tmdbEpisodeId": 3273260,
@@ -6127,8 +6080,8 @@
             "runtime": 44,
             "airDate": "2021-12-01",
             "still": "/4JIxm0YFv0d8nMEwmMBrOOs2H0k.jpg",
-            "vote": 7.3,
-            "voteCount": 109
+            "vote": 7.342,
+            "voteCount": 114
           },
           {
             "tmdbEpisodeId": 3301367,
@@ -6139,8 +6092,8 @@
             "runtime": 42,
             "airDate": "2021-12-08",
             "still": "/3K3CPASP9NhbxPwkSvCskRpmzTL.jpg",
-            "vote": 7.3,
-            "voteCount": 107
+            "vote": 7.286,
+            "voteCount": 112
           },
           {
             "tmdbEpisodeId": 3301368,
@@ -6151,8 +6104,8 @@
             "runtime": 46,
             "airDate": "2021-12-15",
             "still": "/oaDRxEaBGVFqYyc4ycbyLRstZ1F.jpg",
-            "vote": 7.8,
-            "voteCount": 106
+            "vote": 7.766,
+            "voteCount": 111
           },
           {
             "tmdbEpisodeId": 3301369,
@@ -6163,14 +6116,14 @@
             "runtime": 62,
             "airDate": "2021-12-22",
             "still": "/nXuI42V8HgmyMlewU2tiOEEjKsC.jpg",
-            "vote": 7.514,
-            "voteCount": 104
+            "vote": 7.527,
+            "voteCount": 110
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:56.354Z"
+    "updatedAt": "2026-11-01T13:36:43.178Z"
   },
   "m083": {
     "tmdbId": 92749,
@@ -6201,8 +6154,8 @@
             "runtime": 48,
             "airDate": "2022-03-30",
             "still": "/h88DZpKIDo66Tvt556HCvq2BdR0.jpg",
-            "vote": 7.791,
-            "voteCount": 158
+            "vote": 7.8,
+            "voteCount": 163
           },
           {
             "tmdbEpisodeId": 3453971,
@@ -6213,8 +6166,8 @@
             "runtime": 53,
             "airDate": "2022-04-06",
             "still": "/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg",
-            "vote": 7.607,
-            "voteCount": 140
+            "vote": 7.6,
+            "voteCount": 143
           },
           {
             "tmdbEpisodeId": 3453972,
@@ -6225,8 +6178,8 @@
             "runtime": 53,
             "airDate": "2022-04-13",
             "still": "/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg",
-            "vote": 7.391,
-            "voteCount": 129
+            "vote": 7.4,
+            "voteCount": 134
           },
           {
             "tmdbEpisodeId": 3453973,
@@ -6237,8 +6190,8 @@
             "runtime": 54,
             "airDate": "2022-04-20",
             "still": "/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg",
-            "vote": 7.631,
-            "voteCount": 126
+            "vote": 7.7,
+            "voteCount": 130
           },
           {
             "tmdbEpisodeId": 3453974,
@@ -6249,8 +6202,8 @@
             "runtime": 50,
             "airDate": "2022-04-27",
             "still": "/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg",
-            "vote": 7.967,
-            "voteCount": 123
+            "vote": 8,
+            "voteCount": 128
           },
           {
             "tmdbEpisodeId": 3453975,
@@ -6261,14 +6214,14 @@
             "runtime": 44,
             "airDate": "2022-05-04",
             "still": "/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg",
-            "vote": 7.565,
-            "voteCount": 115
+            "vote": 7.6,
+            "voteCount": 119
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:57.108Z"
+    "updatedAt": "2026-11-01T13:36:43.492Z"
   },
   "m085": {
     "tmdbId": 122226,
@@ -6300,7 +6253,7 @@
             "airDate": "2024-01-09",
             "still": "/edI9rBakjdCoKfV1SxnXcfxrBRe.jpg",
             "vote": 6.3,
-            "voteCount": 54
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 4889377,
@@ -6311,8 +6264,8 @@
             "runtime": 41,
             "airDate": "2024-01-09",
             "still": "/j33mLOqagobNEl3pe1OPvwuwV76.jpg",
-            "vote": 6.255,
-            "voteCount": 47
+            "vote": 6.2,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 4889378,
@@ -6323,8 +6276,8 @@
             "runtime": 44,
             "airDate": "2024-01-09",
             "still": "/7Vhmfgbbvb4B9Op6G219phQ9l71.jpg",
-            "vote": 6.556,
-            "voteCount": 45
+            "vote": 6.6,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 4889379,
@@ -6335,8 +6288,8 @@
             "runtime": 40,
             "airDate": "2024-01-09",
             "still": "/cpRkUWKz53P2TDMt5HM6G7Y2g8X.jpg",
-            "vote": 6.364,
-            "voteCount": 44
+            "vote": 6.3,
+            "voteCount": 46
           },
           {
             "tmdbEpisodeId": 4889380,
@@ -6347,14 +6300,14 @@
             "runtime": 37,
             "airDate": "2024-01-09",
             "still": "/45VvSf6PVxvLeVaJM2fwbW4yfAb.jpg",
-            "vote": 6.047,
-            "voteCount": 43
+            "vote": 6,
+            "voteCount": 45
           }
         ]
       }
     ],
     "totalEpisodes": 5,
-    "updatedAt": "2026-10-01T13:30:57.834Z"
+    "updatedAt": "2026-11-01T13:36:43.836Z"
   },
   "m086": {
     "tmdbId": 92783,
@@ -6385,8 +6338,8 @@
             "runtime": 38,
             "airDate": "2022-08-18",
             "still": "/php6BwXMA6lQLUW5Lxu4aA9mqr4.jpg",
-            "vote": 6.291,
-            "voteCount": 127
+            "vote": 6.3,
+            "voteCount": 130
           },
           {
             "tmdbEpisodeId": 3722642,
@@ -6397,8 +6350,8 @@
             "runtime": 31,
             "airDate": "2022-08-25",
             "still": "/biTHEP2UPHTzyyRaFADV9q5nPSl.jpg",
-            "vote": 6.135,
-            "voteCount": 104
+            "vote": 6.1,
+            "voteCount": 107
           },
           {
             "tmdbEpisodeId": 3722646,
@@ -6409,8 +6362,8 @@
             "runtime": 35,
             "airDate": "2022-09-01",
             "still": "/m8yN9B7UVnNv15G2F7i8WUgUNiO.jpg",
-            "vote": 5.866,
-            "voteCount": 97
+            "vote": 5.9,
+            "voteCount": 100
           },
           {
             "tmdbEpisodeId": 3722651,
@@ -6421,8 +6374,8 @@
             "runtime": 37,
             "airDate": "2022-09-08",
             "still": "/l7fPzC3dYqcZDLccNpAA6G4ayvO.jpg",
-            "vote": 5.959,
-            "voteCount": 97
+            "vote": 6,
+            "voteCount": 100
           },
           {
             "tmdbEpisodeId": 3722655,
@@ -6433,8 +6386,8 @@
             "runtime": 31,
             "airDate": "2022-09-15",
             "still": "/aAsQynnt7PLaEep4knZi4qDaqYR.jpg",
-            "vote": 5.505,
-            "voteCount": 95
+            "vote": 5.5,
+            "voteCount": 98
           },
           {
             "tmdbEpisodeId": 3722660,
@@ -6445,8 +6398,8 @@
             "runtime": 31,
             "airDate": "2022-09-22",
             "still": "/Au0lAIG4U9b5VxarSZgqsUboRtb.jpg",
-            "vote": 5.132,
-            "voteCount": 91
+            "vote": 5.1,
+            "voteCount": 94
           },
           {
             "tmdbEpisodeId": 3722666,
@@ -6457,8 +6410,8 @@
             "runtime": 35,
             "airDate": "2022-09-29",
             "still": "/8SnKuRKeAjTjehmKk2xA4S2A3uz.jpg",
-            "vote": 5.626,
-            "voteCount": 91
+            "vote": 5.6,
+            "voteCount": 94
           },
           {
             "tmdbEpisodeId": 3722671,
@@ -6469,8 +6422,8 @@
             "runtime": 36,
             "airDate": "2022-10-06",
             "still": "/2Z66qmXkLiT9Wx2woJpCxOmdaib.jpg",
-            "vote": 6.778,
-            "voteCount": 90
+            "vote": 6.8,
+            "voteCount": 93
           },
           {
             "tmdbEpisodeId": 3722677,
@@ -6481,14 +6434,14 @@
             "runtime": 35,
             "airDate": "2022-10-13",
             "still": "/7kvibNPFWgr1fqRkPsGignn1WbO.jpg",
-            "vote": 5.853,
-            "voteCount": 95
+            "vote": 5.9,
+            "voteCount": 98
           }
         ]
       }
     ],
     "totalEpisodes": 9,
-    "updatedAt": "2026-10-01T13:30:58.249Z"
+    "updatedAt": "2026-11-01T13:36:44.045Z"
   },
   "m087": {
     "tmdbId": 92782,
@@ -6519,8 +6472,8 @@
             "runtime": 50,
             "airDate": "2022-06-08",
             "still": "/gaBBBVXwSED1XNHe2wyQypp6ead.jpg",
-            "vote": 6.215,
-            "voteCount": 100
+            "vote": 6.2,
+            "voteCount": 103
           },
           {
             "tmdbEpisodeId": 3603689,
@@ -6531,8 +6484,8 @@
             "runtime": 52,
             "airDate": "2022-06-15",
             "still": "/aemUtd7mjsVy1A0L4mMWZR1kKNA.jpg",
-            "vote": 5.856,
-            "voteCount": 87
+            "vote": 5.9,
+            "voteCount": 89
           },
           {
             "tmdbEpisodeId": 3603690,
@@ -6543,8 +6496,8 @@
             "runtime": 48,
             "airDate": "2022-06-22",
             "still": "/9xFmSh70LOfX7L7irdVyyJ2xRSp.jpg",
-            "vote": 5.701,
-            "voteCount": 82
+            "vote": 5.7,
+            "voteCount": 84
           },
           {
             "tmdbEpisodeId": 3603691,
@@ -6555,8 +6508,8 @@
             "runtime": 48,
             "airDate": "2022-06-29",
             "still": "/aRR3GD9S2yHeVG7CCV5M1DTWHJc.jpg",
-            "vote": 5.404,
-            "voteCount": 83
+            "vote": 5.4,
+            "voteCount": 85
           },
           {
             "tmdbEpisodeId": 3603692,
@@ -6567,8 +6520,8 @@
             "runtime": 41,
             "airDate": "2022-07-06",
             "still": "/zWYW7hExUaKCHYUzUGj7izGQVEW.jpg",
-            "vote": 5.532,
-            "voteCount": 78
+            "vote": 5.5,
+            "voteCount": 80
           },
           {
             "tmdbEpisodeId": 3603693,
@@ -6579,14 +6532,14 @@
             "runtime": 50,
             "airDate": "2022-07-13",
             "still": "/3cbOYF4iX2jEi5lTDQ5C0xAchPo.jpg",
-            "vote": 5.801,
-            "voteCount": 78
+            "vote": 5.8,
+            "voteCount": 80
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:58.686Z"
+    "updatedAt": "2026-11-01T13:36:44.248Z"
   },
   "m090": {
     "tmdbId": 114471,
@@ -6617,8 +6570,8 @@
             "runtime": 44,
             "airDate": "2025-06-24",
             "still": "/aRamHYwekA5oOUsf97hZdhQokK3.jpg",
-            "vote": 4.7,
-            "voteCount": 52
+            "vote": 4.827,
+            "voteCount": 55
           },
           {
             "tmdbEpisodeId": 3658798,
@@ -6629,8 +6582,8 @@
             "runtime": 50,
             "airDate": "2025-06-24",
             "still": "/8AOHtgl69gCUgOpLWBCtNTDserQ.jpg",
-            "vote": 4.8,
-            "voteCount": 46
+            "vote": 4.9,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 3658799,
@@ -6641,8 +6594,8 @@
             "runtime": 56,
             "airDate": "2025-06-24",
             "still": "/y7okgno9wTmDBA6Ko4cku67n7pG.jpg",
-            "vote": 5,
-            "voteCount": 47
+            "vote": 5.1,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 3658800,
@@ -6654,7 +6607,7 @@
             "airDate": "2025-07-01",
             "still": "/iPx66Tvs6sspPd0R8NA0cSfYKUz.jpg",
             "vote": 4.7,
-            "voteCount": 39
+            "voteCount": 41
           },
           {
             "tmdbEpisodeId": 3658801,
@@ -6665,8 +6618,8 @@
             "runtime": 60,
             "airDate": "2025-07-01",
             "still": "/n3sbxzdUeqcjpAqz8T2p5rFgHBz.jpg",
-            "vote": 5,
-            "voteCount": 39
+            "vote": 5.119,
+            "voteCount": 42
           },
           {
             "tmdbEpisodeId": 3658802,
@@ -6678,13 +6631,13 @@
             "airDate": "2025-07-01",
             "still": "/pZKGugiOziz9bxdAD1NrrGsjfzC.jpg",
             "vote": 5,
-            "voteCount": 39
+            "voteCount": 40
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:30:59.781Z"
+    "updatedAt": "2026-11-01T13:36:44.682Z"
   },
   "m095": {
     "tmdbId": 114472,
@@ -6715,8 +6668,8 @@
             "runtime": 55,
             "airDate": "2023-06-21",
             "still": "/ag0i8z3xfsmlOWHkVB3T19mT7XW.jpg",
-            "vote": 7.137,
-            "voteCount": 117
+            "vote": 7.1,
+            "voteCount": 120
           },
           {
             "tmdbEpisodeId": 4327492,
@@ -6727,8 +6680,8 @@
             "runtime": 56,
             "airDate": "2023-06-28",
             "still": "/cGVD3CaXswekowhRcJYZZhl85Y1.jpg",
-            "vote": 6.701,
-            "voteCount": 87
+            "vote": 6.7,
+            "voteCount": 90
           },
           {
             "tmdbEpisodeId": 4327493,
@@ -6739,8 +6692,8 @@
             "runtime": 42,
             "airDate": "2023-07-05",
             "still": "/mS4jDXQmtVUluH05eGrmts4icUq.jpg",
-            "vote": 6.76,
-            "voteCount": 75
+            "vote": 6.8,
+            "voteCount": 79
           },
           {
             "tmdbEpisodeId": 4340159,
@@ -6751,8 +6704,8 @@
             "runtime": 36,
             "airDate": "2023-07-12",
             "still": "/8vyurkdULzw8CP1vnHz8lnKYRrK.jpg",
-            "vote": 6.847,
-            "voteCount": 72
+            "vote": 6.9,
+            "voteCount": 76
           },
           {
             "tmdbEpisodeId": 4340161,
@@ -6763,8 +6716,8 @@
             "runtime": 37,
             "airDate": "2023-07-19",
             "still": "/psEdUcyKqyFJA5QJkLDpsB5OaCI.jpg",
-            "vote": 6.543,
-            "voteCount": 70
+            "vote": 6.6,
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 4340162,
@@ -6776,13 +6729,13 @@
             "airDate": "2023-07-26",
             "still": "/ob6rwqdxiDDhAbOEKYpsFkrK3iQ.jpg",
             "vote": 5.6,
-            "voteCount": 70
+            "voteCount": 75
           }
         ]
       }
     ],
     "totalEpisodes": 6,
-    "updatedAt": "2026-10-01T13:31:01.386Z"
+    "updatedAt": "2026-11-01T13:36:45.385Z"
   },
   "m096": {
     "tmdbId": 138501,
@@ -6813,8 +6766,8 @@
             "runtime": 42,
             "airDate": "2024-09-18",
             "still": "/3z20ffSwTbEfEKt5gfmx0Rm3ZDR.jpg",
-            "vote": 6.415,
-            "voteCount": 88
+            "vote": 6.412,
+            "voteCount": 91
           },
           {
             "tmdbEpisodeId": 5348319,
@@ -6825,8 +6778,8 @@
             "runtime": 44,
             "airDate": "2024-09-18",
             "still": "/oLRSJcNLRaLUgVohjcMzFL9ybG7.jpg",
-            "vote": 6.368,
-            "voteCount": 76
+            "vote": 6.367,
+            "voteCount": 79
           },
           {
             "tmdbEpisodeId": 5348320,
@@ -6837,8 +6790,8 @@
             "runtime": 39,
             "airDate": "2024-09-25",
             "still": "/lgsL0ZxNWCSzdcPthRelaH7KBaJ.jpg",
-            "vote": 6.208,
-            "voteCount": 77
+            "vote": 6.225,
+            "voteCount": 80
           },
           {
             "tmdbEpisodeId": 5348321,
@@ -6849,8 +6802,8 @@
             "runtime": 44,
             "airDate": "2024-10-02",
             "still": "/q3AQDCmHQC7vB7e04WfLmmFpHeh.jpg",
-            "vote": 6.125,
-            "voteCount": 72
+            "vote": 6.093,
+            "voteCount": 75
           },
           {
             "tmdbEpisodeId": 5348322,
@@ -6861,8 +6814,8 @@
             "runtime": 32,
             "airDate": "2024-10-09",
             "still": "/mDonwa31ihmizWQU4FRKuGHnVBt.jpg",
-            "vote": 6.281,
-            "voteCount": 64
+            "vote": 6.25,
+            "voteCount": 68
           },
           {
             "tmdbEpisodeId": 5348323,
@@ -6873,8 +6826,8 @@
             "runtime": 50,
             "airDate": "2024-10-16",
             "still": "/zbsCgZVEXCvufIf15od7uoLcdVw.jpg",
-            "vote": 6.591,
-            "voteCount": 66
+            "vote": 6.529,
+            "voteCount": 70
           },
           {
             "tmdbEpisodeId": 5348324,
@@ -6885,8 +6838,8 @@
             "runtime": 37,
             "airDate": "2024-10-23",
             "still": "/qCKh6hBJzXnJNyjEo7l7PIUwJCC.jpg",
-            "vote": 7.162,
-            "voteCount": 68
+            "vote": 7.167,
+            "voteCount": 72
           },
           {
             "tmdbEpisodeId": 5348325,
@@ -6898,7 +6851,7 @@
             "airDate": "2024-10-30",
             "still": "/gEL2RtDQFvuAjCOcIiE8Sn1g4w5.jpg",
             "vote": 7,
-            "voteCount": 64
+            "voteCount": 68
           },
           {
             "tmdbEpisodeId": 5348326,
@@ -6909,14 +6862,14 @@
             "runtime": 42,
             "airDate": "2024-10-30",
             "still": "/ueTa87dGHk3oANFo7sWyJffuveb.jpg",
-            "vote": 6.55,
-            "voteCount": 60
+            "vote": 6.578,
+            "voteCount": 64
           }
         ]
       }
     ],
     "totalEpisodes": 9,
-    "updatedAt": "2026-10-01T13:31:01.858Z"
+    "updatedAt": "2026-11-01T13:36:45.578Z"
   },
   "m097": {
     "tmdbId": 202555,
@@ -6947,8 +6900,8 @@
             "runtime": 61,
             "airDate": "2025-03-04",
             "still": "/cbOOHuurtiG7XluczaWr0y9SO1q.jpg",
-            "vote": 7.93,
-            "voteCount": 86
+            "vote": 8,
+            "voteCount": 90
           },
           {
             "tmdbEpisodeId": 5688002,
@@ -6959,8 +6912,8 @@
             "runtime": 50,
             "airDate": "2025-03-04",
             "still": "/qOJE3sylDFZpA8FzDkD9Z2sfAw8.jpg",
-            "vote": 8.243,
-            "voteCount": 70
+            "vote": 8.2,
+            "voteCount": 74
           },
           {
             "tmdbEpisodeId": 5688003,
@@ -6971,8 +6924,8 @@
             "runtime": 47,
             "airDate": "2025-03-11",
             "still": "/je5rvXyLqK9wzf7L0xlhfbbLlPw.jpg",
-            "vote": 8.159,
-            "voteCount": 63
+            "vote": 8.1,
+            "voteCount": 67
           },
           {
             "tmdbEpisodeId": 5688004,
@@ -6983,8 +6936,8 @@
             "runtime": 55,
             "airDate": "2025-03-18",
             "still": "/2R9R09snm4TxuDYVvYexiosMBaf.jpg",
-            "vote": 7.772,
-            "voteCount": 57
+            "vote": 7.8,
+            "voteCount": 60
           },
           {
             "tmdbEpisodeId": 5688005,
@@ -6995,8 +6948,8 @@
             "runtime": 42,
             "airDate": "2025-03-25",
             "still": "/qGZrykdKMOtO5H7yEVA28NGl8bS.jpg",
-            "vote": 7.853,
-            "voteCount": 58
+            "vote": 7.9,
+            "voteCount": 61
           },
           {
             "tmdbEpisodeId": 5688006,
@@ -7007,8 +6960,8 @@
             "runtime": 45,
             "airDate": "2025-03-25",
             "still": "/pAFBzoRUqhF48q907Kk4tB4zgr7.jpg",
-            "vote": 8.293,
-            "voteCount": 58
+            "vote": 8.3,
+            "voteCount": 61
           },
           {
             "tmdbEpisodeId": 5688007,
@@ -7019,8 +6972,8 @@
             "runtime": 43,
             "airDate": "2025-04-01",
             "still": "/tJelpQdDGxnFK4xSyg5ajvbMo3q.jpg",
-            "vote": 8.029,
-            "voteCount": 52
+            "vote": 8,
+            "voteCount": 55
           },
           {
             "tmdbEpisodeId": 5688008,
@@ -7031,8 +6984,8 @@
             "runtime": 52,
             "airDate": "2025-04-08",
             "still": "/tmYeVvTjpjNRKmSsr4uITX9qd7b.jpg",
-            "vote": 8.455,
-            "voteCount": 55
+            "vote": 8.4,
+            "voteCount": 58
           },
           {
             "tmdbEpisodeId": 5688009,
@@ -7043,14 +6996,14 @@
             "runtime": 60,
             "airDate": "2025-04-15",
             "still": "/6RqhDNvIXj1HQkSylAIvoN0qcs5.jpg",
-            "vote": 8.352,
-            "voteCount": 61
+            "vote": 8.4,
+            "voteCount": 64
           }
         ]
       }
     ],
     "totalEpisodes": 9,
-    "updatedAt": "2026-10-01T13:31:02.340Z"
+    "updatedAt": "2026-11-01T13:36:45.759Z"
   },
   "m100": {
     "tmdbId": 198178,
@@ -7081,8 +7034,8 @@
             "runtime": 35,
             "airDate": "2026-01-27",
             "still": "/puibHtmvOmuj6AJEOskWwkndV8Y.jpg",
-            "vote": 6.289,
-            "voteCount": 57
+            "vote": 6.3,
+            "voteCount": 60
           },
           {
             "tmdbEpisodeId": 4924078,
@@ -7093,8 +7046,8 @@
             "runtime": 34,
             "airDate": "2026-01-27",
             "still": "/70EKlIWAu8fWjbRufqJouHVb4Ca.jpg",
-            "vote": 6.472,
-            "voteCount": 54
+            "vote": 6.5,
+            "voteCount": 56
           },
           {
             "tmdbEpisodeId": 6594785,
@@ -7105,8 +7058,8 @@
             "runtime": 34,
             "airDate": "2026-01-27",
             "still": "/9WdCvYevrOCJ0BTMsEQ8Sh5pRCV.jpg",
-            "vote": 6.433,
-            "voteCount": 52
+            "vote": 6.4,
+            "voteCount": 54
           },
           {
             "tmdbEpisodeId": 6594786,
@@ -7117,8 +7070,8 @@
             "runtime": 32,
             "airDate": "2026-01-27",
             "still": "/rP2wAtWGiRxHB3C4eM9Z1rEdIkk.jpg",
-            "vote": 6.459,
-            "voteCount": 49
+            "vote": 6.5,
+            "voteCount": 51
           },
           {
             "tmdbEpisodeId": 6594787,
@@ -7129,8 +7082,8 @@
             "runtime": 26,
             "airDate": "2026-01-27",
             "still": "/8G11kvZAjgP9oEcIOxTg7Kjtj2H.jpg",
-            "vote": 6.12,
-            "voteCount": 46
+            "vote": 6.1,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 6594788,
@@ -7141,8 +7094,8 @@
             "runtime": 36,
             "airDate": "2026-01-27",
             "still": "/6VhTlCAUkHBPB6o14u4mts8GXx5.jpg",
-            "vote": 6.098,
-            "voteCount": 46
+            "vote": 6.1,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 6594789,
@@ -7153,8 +7106,8 @@
             "runtime": 35,
             "airDate": "2026-01-27",
             "still": "/oyUdIN5KAfQpvia6WYFs1TpE8Kg.jpg",
-            "vote": 6.105,
-            "voteCount": 43
+            "vote": 6.1,
+            "voteCount": 45
           },
           {
             "tmdbEpisodeId": 6594790,
@@ -7165,14 +7118,14 @@
             "runtime": 35,
             "airDate": "2026-01-27",
             "still": "/4Xa7j3I4LQjkDdTEi3fmR23HKQ5.jpg",
-            "vote": 6.539,
-            "voteCount": 51
+            "vote": 6.6,
+            "voteCount": 54
           }
         ]
       }
     ],
     "totalEpisodes": 8,
-    "updatedAt": "2026-10-01T13:31:03.315Z"
+    "updatedAt": "2026-11-01T13:36:46.222Z"
   },
   "m101": {
     "tmdbId": 318417,
@@ -7185,7 +7138,7 @@
     ],
     "seasons": [],
     "totalEpisodes": 0,
-    "updatedAt": "2026-10-01T13:31:03.715Z"
+    "updatedAt": "2026-11-01T13:36:46.358Z"
   },
   "m103": {
     "tmdbId": 213375,
@@ -7201,9 +7154,9 @@
         "tmdbSeasonId": 314452,
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "overview": "",
+        "overview": "O Visão, reiniciado e tendo escapado daqueles que buscavam transformá-lo em arma, tem vivido escondido. Em busca de um novo propósito, ele consulta as personalidades de IA integradas à sua programação, incluindo Sexta-Feira, Edith, Jarvis e o infame Ultron. Sua existência discreta chega ao fim quando uma recompensa por sua cabeça o força a fugir ao lado de Thomas Shepard, um garoto misterioso que pode ser a reencarnação do filho do Visão. Enquanto escapa da captura, o Visão precisa confrontar sua própria natureza, resistir à influência de Ultron e desvendar o enigma que é seu jovem companheiro para conseguir sobreviver.",
         "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-        "airDate": "2026-10-14",
+        "airDate": "2026-10-13",
         "episodeStart": 1,
         "episodeEnd": 8,
         "episodes": [
@@ -7211,73 +7164,73 @@
             "tmdbEpisodeId": 5215021,
             "episodeNumber": 1,
             "seasonNumber": 1,
-            "name": "Episódio 1",
-            "overview": "",
-            "runtime": null,
-            "airDate": "2026-10-14",
-            "still": null,
-            "vote": null,
-            "voteCount": null
+            "name": "Sem amarras",
+            "overview": "O Visão embarca em uma jornada de autodescoberta com Ultron e se vê caçado por uma força mortal.",
+            "runtime": 56,
+            "airDate": "2026-10-13",
+            "still": "/zNV1OOF71fzTYand5duFx3uaWlE.jpg",
+            "vote": 7.25,
+            "voteCount": 44
           },
           {
             "tmdbEpisodeId": 6412926,
             "episodeNumber": 2,
             "seasonNumber": 1,
-            "name": "Episódio 2",
-            "overview": "",
-            "runtime": null,
-            "airDate": "2026-10-14",
-            "still": null,
-            "vote": null,
-            "voteCount": null
+            "name": "Theseus",
+            "overview": "Visão encontra seu agressor desconhecido enquanto investiga se Thomas Shepherd é mesmo seu filho.",
+            "runtime": 48,
+            "airDate": "2026-10-13",
+            "still": "/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg",
+            "vote": 7.525,
+            "voteCount": 40
           },
           {
             "tmdbEpisodeId": 6412927,
             "episodeNumber": 3,
             "seasonNumber": 1,
-            "name": "Episódio 3",
-            "overview": "",
-            "runtime": null,
-            "airDate": "2026-10-21",
-            "still": null,
-            "vote": null,
-            "voteCount": null
+            "name": "Reboot",
+            "overview": "Visão e Thomas Shepherd se unem para sobreviver enquanto um assassino aterrorizante ataca novamente.",
+            "runtime": 54,
+            "airDate": "2026-10-20",
+            "still": "/u2YwlI82Nm6pM3jFijt00lxY2Be.jpg",
+            "vote": 7.324,
+            "voteCount": 34
           },
           {
             "tmdbEpisodeId": 6412928,
             "episodeNumber": 4,
             "seasonNumber": 1,
-            "name": "Episódio 4",
-            "overview": "",
-            "runtime": null,
-            "airDate": "2026-10-28",
-            "still": null,
-            "vote": null,
-            "voteCount": null
+            "name": "Malware",
+            "overview": "Enquanto Visão enfrenta um novo inimigo, Ultron e Thomas Shepherd ficam frente a frente.",
+            "runtime": 51,
+            "airDate": "2026-10-20",
+            "still": "/6eVHqUOPEe1CIbvg4Dx6H4awFBR.jpg",
+            "vote": 7.683,
+            "voteCount": 30
           },
           {
             "tmdbEpisodeId": 7063224,
             "episodeNumber": 5,
             "seasonNumber": 1,
             "name": "Episódio 5",
-            "overview": "",
-            "runtime": null,
-            "airDate": null,
-            "still": null,
-            "vote": null,
-            "voteCount": null
+            "overview": "Ultron  e Jocasta unem forças. Lisa ajuda Visão a escapar da captura.",
+            "runtime": 48,
+            "airDate": "2026-10-27",
+            "still": "/6aBaiK5WPQrJ5L5cyBXJQwu4iGE.jpg",
+            "vote": 7.227,
+            "voteCount": 22
           },
           {
             "tmdbEpisodeId": 7063225,
             "episodeNumber": 6,
             "seasonNumber": 1,
-            "name": "Episódio 6",
-            "overview": "",
-            "runtime": null,
-            "airDate": null,
-            "still": null,
-            "vote": null,
-            "voteCount": null
+            "name": "Impasse",
+            "overview": "Visão e Paladino formam uma aliança instável e Thomas finalmente descobre sobre seu passado.",
+            "runtime": 57,
+            "airDate": "2026-10-27",
+            "still": "/6R8uiUzWH4ht7EFhDgwH4u0wZxc.jpg",
+            "vote": 7.675,
+            "voteCount": 20
           },
           {
             "tmdbEpisodeId": 7063226,
@@ -7286,10 +7239,10 @@
             "name": "Episódio 7",
             "overview": "",
             "runtime": null,
-            "airDate": null,
-            "still": null,
-            "vote": null,
-            "voteCount": null
+            "airDate": "2026-11-03",
+            "still": "/hhLuAHSGLZ5MSkN9UMjkhGu1zxN.jpg",
+            "vote": 2,
+            "voteCount": 1
           },
           {
             "tmdbEpisodeId": 7063227,
@@ -7298,8 +7251,8 @@
             "name": "Episódio 8",
             "overview": "",
             "runtime": null,
-            "airDate": null,
-            "still": null,
+            "airDate": "2026-11-10",
+            "still": "/5nSEYG0U4boOIYeMUBUE8MQjAk.jpg",
             "vote": null,
             "voteCount": null
           }
@@ -7307,7 +7260,7 @@
       }
     ],
     "totalEpisodes": 8,
-    "updatedAt": "2026-10-01T13:31:04.493Z"
+    "updatedAt": "2026-11-01T13:36:46.705Z"
   },
   "m126": {
     "tmdbId": 4574,
@@ -7338,8 +7291,8 @@
             "runtime": 21,
             "airDate": "1992-10-31",
             "still": "/oEJsoVud4VR9nJoKZkrZJqKoHRz.jpg",
-            "vote": 6.75,
-            "voteCount": 36
+            "vote": 6.7,
+            "voteCount": 38
           },
           {
             "tmdbEpisodeId": 330212,
@@ -7350,8 +7303,8 @@
             "runtime": 20,
             "airDate": "1992-11-07",
             "still": "/4fjFVPi2oNeqHRHfHePgXGxAxQq.jpg",
-            "vote": 6.939,
-            "voteCount": 33
+            "vote": 6.9,
+            "voteCount": 35
           },
           {
             "tmdbEpisodeId": 330211,
@@ -7362,8 +7315,8 @@
             "runtime": 20,
             "airDate": "1992-11-27",
             "still": "/kGMbi3bYyHWwDEnXoH5cWt7ttEl.jpg",
-            "vote": 7.364,
-            "voteCount": 33
+            "vote": 7.3,
+            "voteCount": 35
           },
           {
             "tmdbEpisodeId": 330215,
@@ -7374,8 +7327,8 @@
             "runtime": 20,
             "airDate": "1993-01-23",
             "still": "/bPl92ahFSGyM5Yo9tmEJGu4JUKt.jpg",
-            "vote": 7.031,
-            "voteCount": 32
+            "vote": 7,
+            "voteCount": 34
           },
           {
             "tmdbEpisodeId": 330214,
@@ -7387,7 +7340,7 @@
             "airDate": "1993-01-30",
             "still": "/aW6wHZvi0XbKlUOgEpsyWCGFu2x.jpg",
             "vote": 6.9,
-            "voteCount": 30
+            "voteCount": 32
           },
           {
             "tmdbEpisodeId": 330216,
@@ -7398,8 +7351,8 @@
             "runtime": 20,
             "airDate": "1993-02-06",
             "still": "/2ljC1ocgvI24QZSf5K70RF5BPZ3.jpg",
-            "vote": 7.133,
-            "voteCount": 30
+            "vote": 7.1,
+            "voteCount": 32
           },
           {
             "tmdbEpisodeId": 330213,
@@ -7410,8 +7363,8 @@
             "runtime": 20,
             "airDate": "1993-02-13",
             "still": "/cFOfTd4p5u8pGYbKSkp1czQOD05.jpg",
-            "vote": 6.867,
-            "voteCount": 30
+            "vote": 6.8,
+            "voteCount": 32
           },
           {
             "tmdbEpisodeId": 330217,
@@ -7422,8 +7375,8 @@
             "runtime": 20,
             "airDate": "1993-02-20",
             "still": "/cr7rMrs9EDmit7E9PpQ4tOkT392.jpg",
-            "vote": 7.25,
-            "voteCount": 28
+            "vote": 7.2,
+            "voteCount": 30
           },
           {
             "tmdbEpisodeId": 330218,
@@ -7434,8 +7387,8 @@
             "runtime": 20,
             "airDate": "1993-02-27",
             "still": "/aZBWfr3CDSOat28fFuKeYD3HtDo.jpg",
-            "vote": 6.893,
-            "voteCount": 28
+            "vote": 6.8,
+            "voteCount": 30
           },
           {
             "tmdbEpisodeId": 330219,
@@ -7446,8 +7399,8 @@
             "runtime": 20,
             "airDate": "1993-03-06",
             "still": "/cFQiax6CSCOT6FsPwlE8PsCI7cO.jpg",
-            "vote": 7.038,
-            "voteCount": 26
+            "vote": 7,
+            "voteCount": 28
           },
           {
             "tmdbEpisodeId": 330220,
@@ -7458,8 +7411,8 @@
             "runtime": 20,
             "airDate": "1993-03-13",
             "still": "/411rrtnR9VXrYWGHRphoBN4znY4.jpg",
-            "vote": 7.6,
-            "voteCount": 25
+            "vote": 7.5,
+            "voteCount": 27
           },
           {
             "tmdbEpisodeId": 330222,
@@ -7470,8 +7423,8 @@
             "runtime": 20,
             "airDate": "1993-03-20",
             "still": "/aOlA78k8H5azG2krvRIR8OEHfa5.jpg",
-            "vote": 7.48,
-            "voteCount": 25
+            "vote": 7.4,
+            "voteCount": 27
           },
           {
             "tmdbEpisodeId": 330221,
@@ -7482,14 +7435,14 @@
             "runtime": 20,
             "airDate": "1993-03-27",
             "still": "/7mvLXIzknl5kDR6pbZySjQYhjSa.jpg",
-            "vote": 7.125,
-            "voteCount": 24
+            "vote": 7,
+            "voteCount": 26
           }
         ]
       }
     ],
     "totalEpisodes": 13,
-    "updatedAt": "2026-10-01T13:31:11.421Z"
+    "updatedAt": "2026-11-01T13:36:49.582Z"
   },
   "m127": {
     "tmdbId": 138502,
@@ -7520,8 +7473,8 @@
             "runtime": 33,
             "airDate": "2024-03-20",
             "still": "/zLXRYta8yBVXvl1Hr6jjgL6Ofxh.jpg",
-            "vote": 7.88,
-            "voteCount": 46
+            "vote": 7.8,
+            "voteCount": 49
           },
           {
             "tmdbEpisodeId": 5158608,
@@ -7532,8 +7485,8 @@
             "runtime": 33,
             "airDate": "2024-03-20",
             "still": "/28IFCY8Ac2DBSwMNiN9JG0KcYWf.jpg",
-            "vote": 8.511,
-            "voteCount": 45
+            "vote": 8.4,
+            "voteCount": 48
           },
           {
             "tmdbEpisodeId": 5189595,
@@ -7544,8 +7497,8 @@
             "runtime": 33,
             "airDate": "2024-03-27",
             "still": "/4OrsWyKwX23DLRvDcIH65hkXkR7.jpg",
-            "vote": 8.244,
-            "voteCount": 41
+            "vote": 8.2,
+            "voteCount": 44
           },
           {
             "tmdbEpisodeId": 5195789,
@@ -7556,8 +7509,8 @@
             "runtime": 30,
             "airDate": "2024-04-03",
             "still": "/tgSlV8iSSiYzQ9NGmzl6m28vdmZ.jpg",
-            "vote": 6.944,
-            "voteCount": 36
+            "vote": 6.9,
+            "voteCount": 39
           },
           {
             "tmdbEpisodeId": 5195790,
@@ -7568,8 +7521,8 @@
             "runtime": 37,
             "airDate": "2024-04-10",
             "still": "/1xrDxXEnRSC9R9Fu5zDba6gnmsp.jpg",
-            "vote": 9.163,
-            "voteCount": 43
+            "vote": 9.2,
+            "voteCount": 45
           },
           {
             "tmdbEpisodeId": 5195791,
@@ -7580,8 +7533,8 @@
             "runtime": 34,
             "airDate": "2024-04-17",
             "still": "/wdGC6xOP2qEkUgS9UexR3fHIB1T.jpg",
-            "vote": 7.576,
-            "voteCount": 33
+            "vote": 7.6,
+            "voteCount": 35
           },
           {
             "tmdbEpisodeId": 5195792,
@@ -7592,8 +7545,8 @@
             "runtime": 34,
             "airDate": "2024-04-24",
             "still": "/ajVbdVC5M8snrAeLyRSfPQYGmFP.jpg",
-            "vote": 8.188,
-            "voteCount": 32
+            "vote": 8.1,
+            "voteCount": 34
           },
           {
             "tmdbEpisodeId": 5195793,
@@ -7605,7 +7558,7 @@
             "airDate": "2024-05-01",
             "still": "/5XkNl84mTrmg2gtVDBGK3edJerN.jpg",
             "vote": 8.4,
-            "voteCount": 35
+            "voteCount": 37
           },
           {
             "tmdbEpisodeId": 5195794,
@@ -7616,8 +7569,8 @@
             "runtime": 32,
             "airDate": "2024-05-08",
             "still": "/3a0bFAIlfHRiMx9TlvFiePDIfZm.jpg",
-            "vote": 8.033,
-            "voteCount": 30
+            "vote": 8,
+            "voteCount": 31
           },
           {
             "tmdbEpisodeId": 5195795,
@@ -7629,13 +7582,13 @@
             "airDate": "2024-05-15",
             "still": "/uuhP8ILtwpIk4edTiZ9Tu6oGQQm.jpg",
             "vote": 8,
-            "voteCount": 31
+            "voteCount": 33
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:31:11.870Z"
+    "updatedAt": "2026-11-01T13:36:49.801Z"
   },
   "m128": {
     "tmdbId": 138503,
@@ -7666,8 +7619,8 @@
             "runtime": 31,
             "airDate": "2025-01-29",
             "still": "/fMUCJEEpAGWydtTDT9OkWXRXP8p.jpg",
-            "vote": 6.206,
-            "voteCount": 34
+            "vote": 6.1,
+            "voteCount": 35
           },
           {
             "tmdbEpisodeId": 5869176,
@@ -7678,8 +7631,8 @@
             "runtime": 29,
             "airDate": "2025-01-29",
             "still": "/4yeCexOZGijSmjkfBsW5JkqhtX7.jpg",
-            "vote": 6.607,
-            "voteCount": 28
+            "vote": 6.5,
+            "voteCount": 29
           },
           {
             "tmdbEpisodeId": 5869178,
@@ -7690,8 +7643,8 @@
             "runtime": 32,
             "airDate": "2025-02-05",
             "still": "/2UYKDLjegwH18JcOzQISPBmM4tF.jpg",
-            "vote": 6.28,
-            "voteCount": 25
+            "vote": 6.3,
+            "voteCount": 26
           },
           {
             "tmdbEpisodeId": 5869179,
@@ -7702,8 +7655,8 @@
             "runtime": 33,
             "airDate": "2025-02-05",
             "still": "/ntYEeWJQqQaXzLtIsTPaQo5ypEe.jpg",
-            "vote": 6.115,
-            "voteCount": 26
+            "vote": 6.1,
+            "voteCount": 27
           },
           {
             "tmdbEpisodeId": 5869180,
@@ -7714,8 +7667,8 @@
             "runtime": 31,
             "airDate": "2025-02-05",
             "still": "/8wrmJDovTL87iMFMKClq8Af9fp0.jpg",
-            "vote": 6.519,
-            "voteCount": 27
+            "vote": 6.5,
+            "voteCount": 28
           },
           {
             "tmdbEpisodeId": 5869181,
@@ -7727,7 +7680,7 @@
             "airDate": "2025-02-12",
             "still": "/bHNHliyiVRCAmf5aFkGokAXiMBr.jpg",
             "vote": 6.4,
-            "voteCount": 25
+            "voteCount": 26
           },
           {
             "tmdbEpisodeId": 5869182,
@@ -7738,8 +7691,8 @@
             "runtime": 32,
             "airDate": "2025-02-12",
             "still": "/qbWh7TgxyZSkPEXCnQ1quhoRXa5.jpg",
-            "vote": 6.68,
-            "voteCount": 25
+            "vote": 6.7,
+            "voteCount": 26
           },
           {
             "tmdbEpisodeId": 5869183,
@@ -7750,8 +7703,8 @@
             "runtime": 33,
             "airDate": "2025-02-12",
             "still": "/7EaLzfRO0DlFJeJl9pqPBw9IoOw.jpg",
-            "vote": 6.36,
-            "voteCount": 25
+            "vote": 6.3,
+            "voteCount": 26
           },
           {
             "tmdbEpisodeId": 5869185,
@@ -7762,8 +7715,8 @@
             "runtime": 31,
             "airDate": "2025-02-19",
             "still": "/hhuoQy3vVP7l4b5aadPC3Y4tJHN.jpg",
-            "vote": 6.583,
-            "voteCount": 24
+            "vote": 6.6,
+            "voteCount": 25
           },
           {
             "tmdbEpisodeId": 5869186,
@@ -7774,14 +7727,14 @@
             "runtime": 33,
             "airDate": "2025-02-19",
             "still": "/rd41osBhmqycodPyMI7w2795SfI.jpg",
-            "vote": 6.783,
-            "voteCount": 23
+            "vote": 6.8,
+            "voteCount": 24
           }
         ]
       }
     ],
     "totalEpisodes": 10,
-    "updatedAt": "2026-10-01T13:31:12.316Z"
+    "updatedAt": "2026-11-01T13:36:50.018Z"
   },
   "m129": {
     "tmdbId": 138505,
@@ -7812,8 +7765,8 @@
             "runtime": 38,
             "airDate": "2025-09-24",
             "still": "/25QjykMVOADHoKBre3bLovFrz0j.jpg",
-            "vote": 6.512,
-            "voteCount": 43
+            "vote": 6.6,
+            "voteCount": 47
           },
           {
             "tmdbEpisodeId": 5759646,
@@ -7824,8 +7777,8 @@
             "runtime": 34,
             "airDate": "2025-09-24",
             "still": "/vvbPNdHl8gjuRnrU0YhbHrNXLlS.jpg",
-            "vote": 6.319,
-            "voteCount": 36
+            "vote": 6.3,
+            "voteCount": 39
           },
           {
             "tmdbEpisodeId": 5759647,
@@ -7836,8 +7789,8 @@
             "runtime": 33,
             "airDate": "2025-09-24",
             "still": "/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg",
-            "vote": 6.722,
-            "voteCount": 36
+            "vote": 6.8,
+            "voteCount": 39
           },
           {
             "tmdbEpisodeId": 5759648,
@@ -7848,13 +7801,13 @@
             "runtime": 32,
             "airDate": "2025-09-24",
             "still": "/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg",
-            "vote": 6.368,
-            "voteCount": 38
+            "vote": 6.4,
+            "voteCount": 41
           }
         ]
       }
     ],
     "totalEpisodes": 4,
-    "updatedAt": "2026-10-01T13:31:12.736Z"
+    "updatedAt": "2026-11-01T13:36:50.225Z"
   }
 }
